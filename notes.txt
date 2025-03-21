@@ -1,0 +1,3 @@
+Automatic Penetration - Always On
+Third Person - "X" | Toggle
+Damage Override - "G" | Hold
