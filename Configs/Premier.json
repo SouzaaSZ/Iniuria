@@ -36,7 +36,7 @@
                 "value": false
             },
             "Fov": {
-                "value": 3.0
+                "value": 5.0
             },
             "FriendlyFire": {
                 "value": false
@@ -152,7 +152,7 @@
                 "value": false
             },
             "Fov": {
-                "value": 3.0
+                "value": 5.0
             },
             "FriendlyFire": {
                 "value": false
@@ -268,7 +268,7 @@
                 "value": false
             },
             "Fov": {
-                "value": 3.0
+                "value": 5.0
             },
             "FriendlyFire": {
                 "value": false
@@ -286,7 +286,7 @@
                 ]
             },
             "HitboxPriority": {
-                "value": 2
+                "value": 10
             },
             "IgnoreJump": {
                 "value": false
@@ -386,7 +386,7 @@
                 "value": false
             },
             "Fov": {
-                "value": 3.0
+                "value": 5.0
             },
             "FriendlyFire": {
                 "value": false
@@ -502,7 +502,7 @@
                 "value": true
             },
             "Fov": {
-                "value": 3.0
+                "value": 5.0
             },
             "FriendlyFire": {
                 "value": false
@@ -614,7 +614,7 @@
                 "value": false
             },
             "Fov": {
-                "value": 3.0
+                "value": 5.0
             },
             "FriendlyFire": {
                 "value": false
@@ -730,7 +730,7 @@
                 "value": false
             },
             "Fov": {
-                "value": 3.0
+                "value": 5.0
             },
             "FriendlyFire": {
                 "value": false
@@ -846,7 +846,7 @@
                 "value": false
             },
             "Fov": {
-                "value": 3.0
+                "value": 5.0
             },
             "FriendlyFire": {
                 "value": false
@@ -962,7 +962,7 @@
                 "value": false
             },
             "Fov": {
-                "value": 3.0
+                "value": 5.0
             },
             "FriendlyFire": {
                 "value": false
@@ -1078,7 +1078,7 @@
                 "value": false
             },
             "Fov": {
-                "value": 3.0
+                "value": 5.0
             },
             "FriendlyFire": {
                 "value": false
@@ -1200,7 +1200,7 @@
                 "value": false
             },
             "Fov": {
-                "value": 3.0
+                "value": 5.0
             },
             "FriendlyFire": {
                 "value": false
@@ -1316,7 +1316,7 @@
                 "value": false
             },
             "Fov": {
-                "value": 3.0
+                "value": 5.0
             },
             "FriendlyFire": {
                 "value": false
@@ -1432,7 +1432,7 @@
                 "value": false
             },
             "Fov": {
-                "value": 3.0
+                "value": 5.0
             },
             "FriendlyFire": {
                 "value": false
@@ -1511,7 +1511,8 @@
             }
         },
         "Key": {
-            "key": 1
+            "key": 1,
+            "keymode": 0
         },
         "M249": {
             "AutoShoot": {
@@ -1549,7 +1550,7 @@
                 "value": true
             },
             "Fov": {
-                "value": 3.0
+                "value": 5.0
             },
             "FriendlyFire": {
                 "value": false
@@ -1671,7 +1672,7 @@
                 "value": false
             },
             "Fov": {
-                "value": 3.0
+                "value": 5.0
             },
             "FriendlyFire": {
                 "value": false
@@ -1787,7 +1788,7 @@
                 "value": false
             },
             "Fov": {
-                "value": 3.0
+                "value": 5.0
             },
             "FriendlyFire": {
                 "value": false
@@ -1903,7 +1904,7 @@
                 "value": false
             },
             "Fov": {
-                "value": 3.0
+                "value": 5.0
             },
             "FriendlyFire": {
                 "value": false
@@ -1915,7 +1916,9 @@
                 "values": [
                     0,
                     1,
-                    2
+                    2,
+                    3,
+                    4
                 ]
             },
             "HitboxPriority": {
@@ -1954,10 +1957,10 @@
                 "value": 0.0
             },
             "ScalePitch": {
-                "value": 0.0
+                "value": 19.0
             },
             "ScaleYaw": {
-                "value": 0.0
+                "value": 26.0
             },
             "Seed": {
                 "key": 0,
@@ -1968,7 +1971,7 @@
                 "value": false
             },
             "Smooth": {
-                "value": 14.0
+                "value": 15.0
             },
             "SmoothMode": {
                 "value": 0
@@ -2019,7 +2022,7 @@
                 "value": true
             },
             "Fov": {
-                "value": 3.0
+                "value": 5.0
             },
             "FriendlyFire": {
                 "value": false
@@ -2141,7 +2144,7 @@
                 "value": false
             },
             "Fov": {
-                "value": 3.0
+                "value": 5.0
             },
             "FriendlyFire": {
                 "value": false
@@ -2153,7 +2156,9 @@
                 "values": [
                     0,
                     1,
-                    2
+                    2,
+                    3,
+                    4
                 ]
             },
             "HitboxPriority": {
@@ -2192,10 +2197,10 @@
                 "value": 0.0
             },
             "ScalePitch": {
-                "value": 0.0
+                "value": 19.0
             },
             "ScaleYaw": {
-                "value": 0.0
+                "value": 26.0
             },
             "Seed": {
                 "key": 0,
@@ -2206,7 +2211,7 @@
                 "value": false
             },
             "Smooth": {
-                "value": 14.0
+                "value": 15.0
             },
             "SmoothMode": {
                 "value": 0
@@ -2257,7 +2262,7 @@
                 "value": false
             },
             "Fov": {
-                "value": 3.0
+                "value": 5.0
             },
             "FriendlyFire": {
                 "value": false
@@ -2269,7 +2274,9 @@
                 "values": [
                     0,
                     1,
-                    2
+                    2,
+                    3,
+                    4
                 ]
             },
             "HitboxPriority": {
@@ -2308,10 +2315,10 @@
                 "value": 0.0
             },
             "ScalePitch": {
-                "value": 0.0
+                "value": 19.0
             },
             "ScaleYaw": {
-                "value": 0.0
+                "value": 26.0
             },
             "Seed": {
                 "key": 0,
@@ -2322,7 +2329,7 @@
                 "value": false
             },
             "Smooth": {
-                "value": 14.0
+                "value": 15.0
             },
             "SmoothMode": {
                 "value": 0
@@ -2373,7 +2380,7 @@
                 "value": false
             },
             "Fov": {
-                "value": 3.0
+                "value": 5.0
             },
             "FriendlyFire": {
                 "value": false
@@ -2385,7 +2392,9 @@
                 "values": [
                     0,
                     1,
-                    2
+                    2,
+                    3,
+                    4
                 ]
             },
             "HitboxPriority": {
@@ -2424,10 +2433,10 @@
                 "value": 0.0
             },
             "ScalePitch": {
-                "value": 0.0
+                "value": 19.0
             },
             "ScaleYaw": {
-                "value": 0.0
+                "value": 26.0
             },
             "Seed": {
                 "key": 0,
@@ -2438,7 +2447,7 @@
                 "value": false
             },
             "Smooth": {
-                "value": 14.0
+                "value": 15.0
             },
             "SmoothMode": {
                 "value": 0
@@ -2492,7 +2501,7 @@
                 "value": true
             },
             "Fov": {
-                "value": 3.0
+                "value": 5.0
             },
             "FriendlyFire": {
                 "value": false
@@ -2549,7 +2558,7 @@
                 "value": 0.0
             },
             "ScalePitch": {
-                "value": 92.0
+                "value": 95.0
             },
             "ScaleYaw": {
                 "value": 55.0
@@ -2736,7 +2745,7 @@
                 "value": false
             },
             "Fov": {
-                "value": 3.0
+                "value": 5.0
             },
             "FriendlyFire": {
                 "value": false
@@ -2852,7 +2861,7 @@
                 "value": false
             },
             "Fov": {
-                "value": 3.0
+                "value": 5.0
             },
             "FriendlyFire": {
                 "value": false
@@ -2968,7 +2977,7 @@
                 "value": false
             },
             "Fov": {
-                "value": 3.0
+                "value": 5.0
             },
             "FriendlyFire": {
                 "value": false
@@ -2980,13 +2989,9 @@
                 "values": [
                     0,
                     1,
-                    6,
-                    5,
-                    4,
-                    3,
                     2,
-                    17,
-                    8
+                    3,
+                    4
                 ]
             },
             "HitboxPriority": {
@@ -3090,7 +3095,7 @@
                 "value": false
             },
             "Fov": {
-                "value": 3.0
+                "value": 5.0
             },
             "FriendlyFire": {
                 "value": false
@@ -3102,7 +3107,9 @@
                 "values": [
                     0,
                     1,
-                    2
+                    2,
+                    3,
+                    4
                 ]
             },
             "HitboxPriority": {
@@ -3141,10 +3148,10 @@
                 "value": 0.0
             },
             "ScalePitch": {
-                "value": 0.0
+                "value": 19.0
             },
             "ScaleYaw": {
-                "value": 0.0
+                "value": 26.0
             },
             "Seed": {
                 "key": 0,
@@ -3155,7 +3162,7 @@
                 "value": false
             },
             "Smooth": {
-                "value": 14.0
+                "value": 15.0
             },
             "SmoothMode": {
                 "value": 0
@@ -3206,7 +3213,7 @@
                 "value": false
             },
             "Fov": {
-                "value": 3.0
+                "value": 5.0
             },
             "FriendlyFire": {
                 "value": false
@@ -3320,7 +3327,7 @@
                 "value": false
             },
             "Fov": {
-                "value": 3.0
+                "value": 5.0
             },
             "FriendlyFire": {
                 "value": false
@@ -3556,7 +3563,7 @@
                 "value": false
             },
             "Fov": {
-                "value": 3.0
+                "value": 5.0
             },
             "FriendlyFire": {
                 "value": false
@@ -3678,7 +3685,7 @@
                 "value": false
             },
             "Fov": {
-                "value": 3.0
+                "value": 5.0
             },
             "FriendlyFire": {
                 "value": false
@@ -3794,7 +3801,7 @@
                 "value": false
             },
             "Fov": {
-                "value": 3.0
+                "value": 5.0
             },
             "FriendlyFire": {
                 "value": false
@@ -3908,7 +3915,7 @@
                 "value": false
             },
             "Fov": {
-                "value": 3.0
+                "value": 5.0
             },
             "FriendlyFire": {
                 "value": false
@@ -4028,7 +4035,7 @@
                 "value": true
             },
             "Fov": {
-                "value": 3.0
+                "value": 5.0
             },
             "FriendlyFire": {
                 "value": false
@@ -4150,7 +4157,7 @@
                 "value": false
             },
             "Fov": {
-                "value": 3.0
+                "value": 5.0
             },
             "FriendlyFire": {
                 "value": false
@@ -4264,7 +4271,7 @@
                 "value": false
             },
             "Fov": {
-                "value": 3.0
+                "value": 5.0
             },
             "FriendlyFire": {
                 "value": false
@@ -4380,7 +4387,7 @@
                 "value": false
             },
             "Fov": {
-                "value": 3.0
+                "value": 5.0
             },
             "FriendlyFire": {
                 "value": false
@@ -4392,7 +4399,9 @@
                 "values": [
                     0,
                     1,
-                    2
+                    2,
+                    3,
+                    4
                 ]
             },
             "HitboxPriority": {
@@ -4431,10 +4440,10 @@
                 "value": 0.0
             },
             "ScalePitch": {
-                "value": 0.0
+                "value": 19.0
             },
             "ScaleYaw": {
-                "value": 0.0
+                "value": 26.0
             },
             "Seed": {
                 "key": 0,
@@ -4445,7 +4454,7 @@
                 "value": false
             },
             "Smooth": {
-                "value": 14.0
+                "value": 15.0
             },
             "SmoothMode": {
                 "value": 0
@@ -4496,7 +4505,7 @@
                 "value": false
             },
             "Fov": {
-                "value": 3.0
+                "value": 5.0
             },
             "FriendlyFire": {
                 "value": false
@@ -4612,7 +4621,7 @@
                 "value": true
             },
             "Fov": {
-                "value": 3.0
+                "value": 5.0
             },
             "FriendlyFire": {
                 "value": false
@@ -4734,7 +4743,7 @@
                 "value": false
             },
             "Fov": {
-                "value": 3.0
+                "value": 5.0
             },
             "FriendlyFire": {
                 "value": false
@@ -4848,10 +4857,12 @@
                 "value": false
             },
             "ManualLeftKey": {
-                "key": 37
+                "key": 37,
+                "keymode": 0
             },
             "ManualRightKey": {
-                "key": 39
+                "key": 39,
+                "keymode": 0
             }
         },
         "Fakelag": {
@@ -4971,21 +4982,21 @@
                 "value": true
             },
             "AutoAcceptDelay": {
-                "value": 80.0
+                "value": 100.0
             },
             "EnhancedScoreboard": {
-                "value": false
+                "value": true
             },
             "Thirdperson": {
                 "key": 88,
                 "keymode": 1,
-                "value": false
+                "value": true
             },
             "ThirdpersonCloseWall": {
                 "value": false
             },
             "ThirdpersonDistance": {
-                "value": 0.0
+                "value": 90.0
             },
             "ThirdpersonGrenade": {
                 "value": false
@@ -4996,16 +5007,17 @@
                 "value": 0
             },
             "Bunnyhop": {
-                "value": false
+                "value": true
             },
             "BunnyhopDuck": {
                 "value": false
             },
             "EdgeJumpKey": {
-                "key": 0
+                "key": 0,
+                "keymode": 0
             },
             "QuickStop": {
-                "value": false
+                "value": true
             },
             "RunBoost": {
                 "key": 0,
@@ -5047,16 +5059,16 @@
                     [
                         0,
                         255,
-                        0,
-                        50,
-                        255
+                        255,
+                        255,
+                        130
                     ],
                     [
                         0,
-                        150,
-                        200,
-                        60,
-                        255
+                        255,
+                        255,
+                        255,
+                        0
                     ]
                 ],
                 "value": 0
@@ -5100,10 +5112,10 @@
                 "value": false
             },
             "HitSound": {
-                "value": 0
+                "value": 4
             },
             "HitSoundVolume": {
-                "value": 8.0
+                "value": 5.0
             },
             "Hitmarker": {
                 "color": [
@@ -5122,10 +5134,10 @@
                 "colors": [
                     [
                         0,
-                        151,
-                        116,
-                        249,
-                        125
+                        255,
+                        255,
+                        255,
+                        130
                     ],
                     [
                         0,
@@ -5135,10 +5147,10 @@
                         0
                     ]
                 ],
-                "value": false
+                "value": true
             },
             "OffscreenSize": {
-                "value": 40.0
+                "value": 15.0
             },
             "Radar": {
                 "values": [
@@ -5188,10 +5200,10 @@
             "SpreadCircle": {
                 "color": [
                     0,
-                    195,
-                    18,
-                    116,
-                    140
+                    255,
+                    255,
+                    255,
+                    200
                 ],
                 "value": false
             },
@@ -5220,7 +5232,7 @@
     "Triggerbot": {
         "AK-47": {
             "Aimfov": {
-                "value": 5.0
+                "value": 3.0
             },
             "AutoStop": {
                 "value": true
@@ -5235,7 +5247,7 @@
                 "value": 0.0
             },
             "Damage": {
-                "value": 22.0
+                "value": 21.0
             },
             "Delay": {
                 "value": 0.0
@@ -5244,13 +5256,15 @@
                 "value": false
             },
             "HitChance": {
-                "value": 70.0
+                "value": 45.0
             },
             "HitboxList": {
                 "values": [
                     0,
                     1,
-                    2
+                    2,
+                    3,
+                    4
                 ]
             },
             "LegitAutowall": {
@@ -5259,18 +5273,18 @@
                 "value": false
             },
             "Seed": {
-                "value": false
+                "value": true
             },
             "SmokeCheck": {
                 "value": false
             },
             "Smooth": {
-                "value": 40.0
+                "value": 0.0
             }
         },
         "AUG": {
             "Aimfov": {
-                "value": 5.0
+                "value": 3.0
             },
             "AutoStop": {
                 "value": true
@@ -5285,7 +5299,7 @@
                 "value": 0.0
             },
             "Damage": {
-                "value": 22.0
+                "value": 21.0
             },
             "Delay": {
                 "value": 0.0
@@ -5294,13 +5308,15 @@
                 "value": false
             },
             "HitChance": {
-                "value": 70.0
+                "value": 45.0
             },
             "HitboxList": {
                 "values": [
                     0,
                     1,
-                    2
+                    2,
+                    3,
+                    4
                 ]
             },
             "LegitAutowall": {
@@ -5309,1960 +5325,18 @@
                 "value": false
             },
             "Seed": {
-                "value": false
+                "value": true
             },
             "SmokeCheck": {
                 "value": false
             },
             "Smooth": {
-                "value": 40.0
+                "value": 0.0
             }
         },
         "AWP": {
             "Aimfov": {
-                "value": 5.0
-            },
-            "AutoStop": {
-                "value": true
-            },
-            "Autowall": {
-                "value": false
-            },
-            "BacktrackTime": {
-                "value": 200.0
-            },
-            "Bullets": {
-                "value": 0.0
-            },
-            "Damage": {
-                "value": 0.0
-            },
-            "Delay": {
-                "value": 0.0
-            },
-            "FlashCheck": {
-                "value": false
-            },
-            "HitChance": {
-                "value": 70.0
-            },
-            "HitboxList": {
-                "values": [
-                    0,
-                    1,
-                    2,
-                    3,
-                    4
-                ]
-            },
-            "LegitAutowall": {
-                "key": 0,
-                "keymode": 0,
-                "value": false
-            },
-            "Seed": {
-                "value": false
-            },
-            "SmokeCheck": {
-                "value": false
-            },
-            "Smooth": {
-                "value": 40.0
-            }
-        },
-        "AimKey": {
-            "key": 5
-        },
-        "CZ75-Auto": {
-            "Aimfov": {
-                "value": 5.0
-            },
-            "AutoStop": {
-                "value": true
-            },
-            "Autowall": {
-                "value": false
-            },
-            "BacktrackTime": {
-                "value": 200.0
-            },
-            "Bullets": {
-                "value": 0.0
-            },
-            "Damage": {
-                "value": 16.0
-            },
-            "Delay": {
-                "value": 0.0
-            },
-            "FlashCheck": {
-                "value": false
-            },
-            "HitChance": {
-                "value": 70.0
-            },
-            "HitboxList": {
-                "values": [
-                    0,
-                    1,
-                    2
-                ]
-            },
-            "LegitAutowall": {
-                "key": 0,
-                "keymode": 0,
-                "value": false
-            },
-            "Seed": {
-                "value": false
-            },
-            "SmokeCheck": {
-                "value": false
-            },
-            "Smooth": {
-                "value": 40.0
-            }
-        },
-        "Default": {
-            "Aimfov": {
-                "value": 5.0
-            },
-            "AutoStop": {
-                "value": true
-            },
-            "Autowall": {
-                "value": false
-            },
-            "BacktrackTime": {
-                "value": 200.0
-            },
-            "Bullets": {
-                "value": 0.0
-            },
-            "Damage": {
-                "value": 0.0
-            },
-            "Delay": {
-                "value": 0.0
-            },
-            "FlashCheck": {
-                "value": false
-            },
-            "HitChance": {
-                "value": 50.0
-            },
-            "HitboxList": {
-                "values": [
-                    0,
-                    1,
-                    2,
-                    3,
-                    4
-                ]
-            },
-            "LegitAutowall": {
-                "key": 0,
-                "keymode": 0,
-                "value": false
-            },
-            "Seed": {
-                "value": false
-            },
-            "SmokeCheck": {
-                "value": false
-            },
-            "Smooth": {
-                "value": 0.0
-            }
-        },
-        "Desert Eagle": {
-            "Aimfov": {
-                "value": 5.0
-            },
-            "AutoStop": {
-                "value": true
-            },
-            "Autowall": {
-                "value": false
-            },
-            "BacktrackTime": {
-                "value": 200.0
-            },
-            "Bullets": {
-                "value": 0.0
-            },
-            "Damage": {
-                "value": 37.0
-            },
-            "Delay": {
-                "value": 0.0
-            },
-            "FlashCheck": {
-                "value": false
-            },
-            "HitChance": {
-                "value": 70.0
-            },
-            "HitboxList": {
-                "values": [
-                    0,
-                    1,
-                    2
-                ]
-            },
-            "LegitAutowall": {
-                "key": 0,
-                "keymode": 0,
-                "value": false
-            },
-            "Seed": {
-                "value": false
-            },
-            "SmokeCheck": {
-                "value": false
-            },
-            "Smooth": {
-                "value": 40.0
-            }
-        },
-        "Dual Berettas": {
-            "Aimfov": {
-                "value": 5.0
-            },
-            "AutoStop": {
-                "value": true
-            },
-            "Autowall": {
-                "value": false
-            },
-            "BacktrackTime": {
-                "value": 200.0
-            },
-            "Bullets": {
-                "value": 0.0
-            },
-            "Damage": {
-                "value": 16.0
-            },
-            "Delay": {
-                "value": 0.0
-            },
-            "FlashCheck": {
-                "value": false
-            },
-            "HitChance": {
-                "value": 70.0
-            },
-            "HitboxList": {
-                "values": [
-                    0,
-                    1,
-                    2
-                ]
-            },
-            "LegitAutowall": {
-                "key": 0,
-                "keymode": 0,
-                "value": false
-            },
-            "Seed": {
-                "value": false
-            },
-            "SmokeCheck": {
-                "value": false
-            },
-            "Smooth": {
-                "value": 40.0
-            }
-        },
-        "FAMAS": {
-            "Aimfov": {
-                "value": 5.0
-            },
-            "AutoStop": {
-                "value": true
-            },
-            "Autowall": {
-                "value": false
-            },
-            "BacktrackTime": {
-                "value": 200.0
-            },
-            "Bullets": {
-                "value": 0.0
-            },
-            "Damage": {
-                "value": 22.0
-            },
-            "Delay": {
-                "value": 0.0
-            },
-            "FlashCheck": {
-                "value": false
-            },
-            "HitChance": {
-                "value": 70.0
-            },
-            "HitboxList": {
-                "values": [
-                    0,
-                    1,
-                    2
-                ]
-            },
-            "LegitAutowall": {
-                "key": 0,
-                "keymode": 0,
-                "value": false
-            },
-            "Seed": {
-                "value": false
-            },
-            "SmokeCheck": {
-                "value": false
-            },
-            "Smooth": {
-                "value": 40.0
-            }
-        },
-        "Five-SeveN": {
-            "Aimfov": {
-                "value": 5.0
-            },
-            "AutoStop": {
-                "value": true
-            },
-            "Autowall": {
-                "value": false
-            },
-            "BacktrackTime": {
-                "value": 200.0
-            },
-            "Bullets": {
-                "value": 0.0
-            },
-            "Damage": {
-                "value": 16.0
-            },
-            "Delay": {
-                "value": 0.0
-            },
-            "FlashCheck": {
-                "value": false
-            },
-            "HitChance": {
-                "value": 70.0
-            },
-            "HitboxList": {
-                "values": [
-                    0,
-                    1,
-                    2
-                ]
-            },
-            "LegitAutowall": {
-                "key": 0,
-                "keymode": 0,
-                "value": false
-            },
-            "Seed": {
-                "value": false
-            },
-            "SmokeCheck": {
-                "value": false
-            },
-            "Smooth": {
-                "value": 40.0
-            }
-        },
-        "G3SG1": {
-            "Aimfov": {
-                "value": 5.0
-            },
-            "AutoStop": {
-                "value": true
-            },
-            "Autowall": {
-                "value": false
-            },
-            "BacktrackTime": {
-                "value": 200.0
-            },
-            "Bullets": {
-                "value": 0.0
-            },
-            "Damage": {
-                "value": 0.0
-            },
-            "Delay": {
-                "value": 0.0
-            },
-            "FlashCheck": {
-                "value": false
-            },
-            "HitChance": {
-                "value": 70.0
-            },
-            "HitboxList": {
-                "values": [
-                    0,
-                    1,
-                    2,
-                    3,
-                    4
-                ]
-            },
-            "LegitAutowall": {
-                "key": 0,
-                "keymode": 0,
-                "value": false
-            },
-            "Seed": {
-                "value": false
-            },
-            "SmokeCheck": {
-                "value": false
-            },
-            "Smooth": {
-                "value": 40.0
-            }
-        },
-        "Galil AR": {
-            "Aimfov": {
-                "value": 5.0
-            },
-            "AutoStop": {
-                "value": true
-            },
-            "Autowall": {
-                "value": false
-            },
-            "BacktrackTime": {
-                "value": 200.0
-            },
-            "Bullets": {
-                "value": 0.0
-            },
-            "Damage": {
-                "value": 22.0
-            },
-            "Delay": {
-                "value": 0.0
-            },
-            "FlashCheck": {
-                "value": false
-            },
-            "HitChance": {
-                "value": 70.0
-            },
-            "HitboxList": {
-                "values": [
-                    0,
-                    1,
-                    2
-                ]
-            },
-            "LegitAutowall": {
-                "key": 0,
-                "keymode": 0,
-                "value": false
-            },
-            "Seed": {
-                "value": false
-            },
-            "SmokeCheck": {
-                "value": false
-            },
-            "Smooth": {
-                "value": 40.0
-            }
-        },
-        "Glock-18": {
-            "Aimfov": {
-                "value": 5.0
-            },
-            "AutoStop": {
-                "value": true
-            },
-            "Autowall": {
-                "value": false
-            },
-            "BacktrackTime": {
-                "value": 200.0
-            },
-            "Bullets": {
-                "value": 0.0
-            },
-            "Damage": {
-                "value": 16.0
-            },
-            "Delay": {
-                "value": 0.0
-            },
-            "FlashCheck": {
-                "value": false
-            },
-            "HitChance": {
-                "value": 70.0
-            },
-            "HitboxList": {
-                "values": [
-                    0,
-                    1,
-                    2
-                ]
-            },
-            "LegitAutowall": {
-                "key": 0,
-                "keymode": 0,
-                "value": false
-            },
-            "Seed": {
-                "value": false
-            },
-            "SmokeCheck": {
-                "value": false
-            },
-            "Smooth": {
-                "value": 40.0
-            }
-        },
-        "Heavy": {
-            "Aimfov": {
-                "value": 5.0
-            },
-            "AutoStop": {
-                "value": true
-            },
-            "Autowall": {
-                "value": false
-            },
-            "BacktrackTime": {
-                "value": 200.0
-            },
-            "Bullets": {
-                "value": 0.0
-            },
-            "Damage": {
-                "value": 0.0
-            },
-            "Delay": {
-                "value": 0.0
-            },
-            "FlashCheck": {
-                "value": false
-            },
-            "HitChance": {
-                "value": 0.0
-            },
-            "HitboxList": {
-                "values": [
-                    0
-                ]
-            },
-            "LegitAutowall": {
-                "key": 0,
-                "keymode": 0,
-                "value": false
-            },
-            "Seed": {
-                "value": false
-            },
-            "SmokeCheck": {
-                "value": false
-            },
-            "Smooth": {
-                "value": 0.0
-            }
-        },
-        "Key": {
-            "key": 0
-        },
-        "M249": {
-            "Aimfov": {
-                "value": 5.0
-            },
-            "AutoStop": {
-                "value": true
-            },
-            "Autowall": {
-                "value": false
-            },
-            "BacktrackTime": {
-                "value": 200.0
-            },
-            "Bullets": {
-                "value": 0.0
-            },
-            "Damage": {
-                "value": 0.0
-            },
-            "Delay": {
-                "value": 0.0
-            },
-            "FlashCheck": {
-                "value": false
-            },
-            "HitChance": {
-                "value": 70.0
-            },
-            "HitboxList": {
-                "values": [
-                    0,
-                    1,
-                    2,
-                    3,
-                    4
-                ]
-            },
-            "LegitAutowall": {
-                "key": 0,
-                "keymode": 0,
-                "value": false
-            },
-            "Seed": {
-                "value": false
-            },
-            "SmokeCheck": {
-                "value": false
-            },
-            "Smooth": {
-                "value": 40.0
-            }
-        },
-        "M4A1-S": {
-            "Aimfov": {
-                "value": 5.0
-            },
-            "AutoStop": {
-                "value": true
-            },
-            "Autowall": {
-                "value": false
-            },
-            "BacktrackTime": {
-                "value": 200.0
-            },
-            "Bullets": {
-                "value": 0.0
-            },
-            "Damage": {
-                "value": 22.0
-            },
-            "Delay": {
-                "value": 0.0
-            },
-            "FlashCheck": {
-                "value": false
-            },
-            "HitChance": {
-                "value": 70.0
-            },
-            "HitboxList": {
-                "values": [
-                    0,
-                    1,
-                    2
-                ]
-            },
-            "LegitAutowall": {
-                "key": 0,
-                "keymode": 0,
-                "value": false
-            },
-            "Seed": {
-                "value": false
-            },
-            "SmokeCheck": {
-                "value": false
-            },
-            "Smooth": {
-                "value": 40.0
-            }
-        },
-        "M4A4": {
-            "Aimfov": {
-                "value": 5.0
-            },
-            "AutoStop": {
-                "value": true
-            },
-            "Autowall": {
-                "value": false
-            },
-            "BacktrackTime": {
-                "value": 200.0
-            },
-            "Bullets": {
-                "value": 0.0
-            },
-            "Damage": {
-                "value": 22.0
-            },
-            "Delay": {
-                "value": 0.0
-            },
-            "FlashCheck": {
-                "value": false
-            },
-            "HitChance": {
-                "value": 70.0
-            },
-            "HitboxList": {
-                "values": [
-                    0,
-                    1,
-                    2
-                ]
-            },
-            "LegitAutowall": {
-                "key": 0,
-                "keymode": 0,
-                "value": false
-            },
-            "Seed": {
-                "value": false
-            },
-            "SmokeCheck": {
-                "value": false
-            },
-            "Smooth": {
-                "value": 40.0
-            }
-        },
-        "MAC-10": {
-            "Aimfov": {
-                "value": 5.0
-            },
-            "AutoStop": {
-                "value": true
-            },
-            "Autowall": {
-                "value": false
-            },
-            "BacktrackTime": {
-                "value": 200.0
-            },
-            "Bullets": {
-                "value": 0.0
-            },
-            "Damage": {
-                "value": 0.0
-            },
-            "Delay": {
-                "value": 0.0
-            },
-            "FlashCheck": {
-                "value": false
-            },
-            "HitChance": {
-                "value": 70.0
-            },
-            "HitboxList": {
-                "values": [
-                    0,
-                    1,
-                    2,
-                    3,
-                    4
-                ]
-            },
-            "LegitAutowall": {
-                "key": 0,
-                "keymode": 0,
-                "value": false
-            },
-            "Seed": {
-                "value": false
-            },
-            "SmokeCheck": {
-                "value": false
-            },
-            "Smooth": {
-                "value": 40.0
-            }
-        },
-        "MAG-7": {
-            "Aimfov": {
-                "value": 5.0
-            },
-            "AutoStop": {
-                "value": true
-            },
-            "Autowall": {
-                "value": false
-            },
-            "BacktrackTime": {
-                "value": 200.0
-            },
-            "Bullets": {
-                "value": 0.0
-            },
-            "Damage": {
-                "value": 0.0
-            },
-            "Delay": {
-                "value": 0.0
-            },
-            "FlashCheck": {
-                "value": false
-            },
-            "HitChance": {
-                "value": 70.0
-            },
-            "HitboxList": {
-                "values": [
-                    0,
-                    1,
-                    2,
-                    3,
-                    4
-                ]
-            },
-            "LegitAutowall": {
-                "key": 0,
-                "keymode": 0,
-                "value": false
-            },
-            "Seed": {
-                "value": false
-            },
-            "SmokeCheck": {
-                "value": false
-            },
-            "Smooth": {
-                "value": 40.0
-            }
-        },
-        "MP5-SD": {
-            "Aimfov": {
-                "value": 5.0
-            },
-            "AutoStop": {
-                "value": true
-            },
-            "Autowall": {
-                "value": false
-            },
-            "BacktrackTime": {
-                "value": 200.0
-            },
-            "Bullets": {
-                "value": 0.0
-            },
-            "Damage": {
-                "value": 0.0
-            },
-            "Delay": {
-                "value": 0.0
-            },
-            "FlashCheck": {
-                "value": false
-            },
-            "HitChance": {
-                "value": 70.0
-            },
-            "HitboxList": {
-                "values": [
-                    0,
-                    1,
-                    6,
-                    5,
-                    4,
-                    3,
-                    2,
-                    17,
-                    8
-                ]
-            },
-            "LegitAutowall": {
-                "key": 0,
-                "keymode": 0,
-                "value": false
-            },
-            "Seed": {
-                "value": false
-            },
-            "SmokeCheck": {
-                "value": false
-            },
-            "Smooth": {
-                "value": 40.0
-            }
-        },
-        "MP7": {
-            "Aimfov": {
-                "value": 5.0
-            },
-            "AutoStop": {
-                "value": true
-            },
-            "Autowall": {
-                "value": false
-            },
-            "BacktrackTime": {
-                "value": 200.0
-            },
-            "Bullets": {
-                "value": 0.0
-            },
-            "Damage": {
-                "value": 0.0
-            },
-            "Delay": {
-                "value": 0.0
-            },
-            "FlashCheck": {
-                "value": false
-            },
-            "HitChance": {
-                "value": 70.0
-            },
-            "HitboxList": {
-                "values": [
-                    0,
-                    1,
-                    2,
-                    3,
-                    4
-                ]
-            },
-            "LegitAutowall": {
-                "key": 0,
-                "keymode": 0,
-                "value": false
-            },
-            "Seed": {
-                "value": false
-            },
-            "SmokeCheck": {
-                "value": false
-            },
-            "Smooth": {
-                "value": 40.0
-            }
-        },
-        "MP9": {
-            "Aimfov": {
-                "value": 5.0
-            },
-            "AutoStop": {
-                "value": true
-            },
-            "Autowall": {
-                "value": false
-            },
-            "BacktrackTime": {
-                "value": 200.0
-            },
-            "Bullets": {
-                "value": 0.0
-            },
-            "Damage": {
-                "value": 0.0
-            },
-            "Delay": {
-                "value": 0.0
-            },
-            "FlashCheck": {
-                "value": false
-            },
-            "HitChance": {
-                "value": 70.0
-            },
-            "HitboxList": {
-                "values": [
-                    0,
-                    1,
-                    2,
-                    3,
-                    4
-                ]
-            },
-            "LegitAutowall": {
-                "key": 0,
-                "keymode": 0,
-                "value": false
-            },
-            "Seed": {
-                "value": false
-            },
-            "SmokeCheck": {
-                "value": false
-            },
-            "Smooth": {
-                "value": 40.0
-            }
-        },
-        "Mode": {
-            "value": 1
-        },
-        "Negev": {
-            "Aimfov": {
-                "value": 5.0
-            },
-            "AutoStop": {
-                "value": true
-            },
-            "Autowall": {
-                "value": false
-            },
-            "BacktrackTime": {
-                "value": 200.0
-            },
-            "Bullets": {
-                "value": 0.0
-            },
-            "Damage": {
-                "value": 0.0
-            },
-            "Delay": {
-                "value": 0.0
-            },
-            "FlashCheck": {
-                "value": false
-            },
-            "HitChance": {
-                "value": 70.0
-            },
-            "HitboxList": {
-                "values": [
-                    0,
-                    1,
-                    2,
-                    3,
-                    4
-                ]
-            },
-            "LegitAutowall": {
-                "key": 0,
-                "keymode": 0,
-                "value": false
-            },
-            "Seed": {
-                "value": false
-            },
-            "SmokeCheck": {
-                "value": false
-            },
-            "Smooth": {
-                "value": 40.0
-            }
-        },
-        "Nova": {
-            "Aimfov": {
-                "value": 5.0
-            },
-            "AutoStop": {
-                "value": true
-            },
-            "Autowall": {
-                "value": false
-            },
-            "BacktrackTime": {
-                "value": 200.0
-            },
-            "Bullets": {
-                "value": 0.0
-            },
-            "Damage": {
-                "value": 0.0
-            },
-            "Delay": {
-                "value": 0.0
-            },
-            "FlashCheck": {
-                "value": false
-            },
-            "HitChance": {
-                "value": 70.0
-            },
-            "HitboxList": {
-                "values": [
-                    0,
-                    1,
-                    6,
-                    5,
-                    4,
-                    3,
-                    2,
-                    17,
-                    8
-                ]
-            },
-            "LegitAutowall": {
-                "key": 0,
-                "keymode": 0,
-                "value": false
-            },
-            "Seed": {
-                "value": false
-            },
-            "SmokeCheck": {
-                "value": false
-            },
-            "Smooth": {
-                "value": 40.0
-            }
-        },
-        "P2000": {
-            "Aimfov": {
-                "value": 5.0
-            },
-            "AutoStop": {
-                "value": true
-            },
-            "Autowall": {
-                "value": false
-            },
-            "BacktrackTime": {
-                "value": 200.0
-            },
-            "Bullets": {
-                "value": 0.0
-            },
-            "Damage": {
-                "value": 16.0
-            },
-            "Delay": {
-                "value": 0.0
-            },
-            "FlashCheck": {
-                "value": false
-            },
-            "HitChance": {
-                "value": 70.0
-            },
-            "HitboxList": {
-                "values": [
-                    0,
-                    1,
-                    2
-                ]
-            },
-            "LegitAutowall": {
-                "key": 0,
-                "keymode": 0,
-                "value": false
-            },
-            "Seed": {
-                "value": false
-            },
-            "SmokeCheck": {
-                "value": false
-            },
-            "Smooth": {
-                "value": 40.0
-            }
-        },
-        "P250": {
-            "Aimfov": {
-                "value": 5.0
-            },
-            "AutoStop": {
-                "value": true
-            },
-            "Autowall": {
-                "value": false
-            },
-            "BacktrackTime": {
-                "value": 200.0
-            },
-            "Bullets": {
-                "value": 0.0
-            },
-            "Damage": {
-                "value": 16.0
-            },
-            "Delay": {
-                "value": 0.0
-            },
-            "FlashCheck": {
-                "value": false
-            },
-            "HitChance": {
-                "value": 70.0
-            },
-            "HitboxList": {
-                "values": [
-                    0,
-                    1,
-                    2
-                ]
-            },
-            "LegitAutowall": {
-                "key": 0,
-                "keymode": 0,
-                "value": false
-            },
-            "Seed": {
-                "value": false
-            },
-            "SmokeCheck": {
-                "value": false
-            },
-            "Smooth": {
-                "value": 40.0
-            }
-        },
-        "P90": {
-            "Aimfov": {
-                "value": 5.0
-            },
-            "AutoStop": {
-                "value": true
-            },
-            "Autowall": {
-                "value": false
-            },
-            "BacktrackTime": {
-                "value": 200.0
-            },
-            "Bullets": {
-                "value": 0.0
-            },
-            "Damage": {
-                "value": 0.0
-            },
-            "Delay": {
-                "value": 0.0
-            },
-            "FlashCheck": {
-                "value": false
-            },
-            "HitChance": {
-                "value": 70.0
-            },
-            "HitboxList": {
-                "values": [
-                    0,
-                    1,
-                    2,
-                    3,
-                    4
-                ]
-            },
-            "LegitAutowall": {
-                "key": 0,
-                "keymode": 0,
-                "value": false
-            },
-            "Seed": {
-                "value": false
-            },
-            "SmokeCheck": {
-                "value": false
-            },
-            "Smooth": {
-                "value": 40.0
-            }
-        },
-        "PP-Bizon": {
-            "Aimfov": {
-                "value": 5.0
-            },
-            "AutoStop": {
-                "value": true
-            },
-            "Autowall": {
-                "value": false
-            },
-            "BacktrackTime": {
-                "value": 200.0
-            },
-            "Bullets": {
-                "value": 0.0
-            },
-            "Damage": {
-                "value": 0.0
-            },
-            "Delay": {
-                "value": 0.0
-            },
-            "FlashCheck": {
-                "value": false
-            },
-            "HitChance": {
-                "value": 70.0
-            },
-            "HitboxList": {
-                "values": [
-                    0,
-                    1,
-                    2,
-                    3,
-                    4
-                ]
-            },
-            "LegitAutowall": {
-                "key": 0,
-                "keymode": 0,
-                "value": false
-            },
-            "Seed": {
-                "value": false
-            },
-            "SmokeCheck": {
-                "value": false
-            },
-            "Smooth": {
-                "value": 40.0
-            }
-        },
-        "Pistol": {
-            "Aimfov": {
-                "value": 5.0
-            },
-            "AutoStop": {
-                "value": true
-            },
-            "Autowall": {
-                "value": false
-            },
-            "BacktrackTime": {
-                "value": 200.0
-            },
-            "Bullets": {
-                "value": 0.0
-            },
-            "Damage": {
-                "value": 0.0
-            },
-            "Delay": {
-                "value": 0.0
-            },
-            "FlashCheck": {
-                "value": false
-            },
-            "HitChance": {
-                "value": 0.0
-            },
-            "HitboxList": {
-                "values": [
-                    0
-                ]
-            },
-            "LegitAutowall": {
-                "key": 0,
-                "keymode": 0,
-                "value": false
-            },
-            "Seed": {
-                "value": false
-            },
-            "SmokeCheck": {
-                "value": false
-            },
-            "Smooth": {
-                "value": 0.0
-            }
-        },
-        "R8 Revolver": {
-            "Aimfov": {
-                "value": 0.0
-            },
-            "AutoStop": {
-                "value": true
-            },
-            "Autowall": {
-                "value": false
-            },
-            "BacktrackTime": {
-                "value": 200.0
-            },
-            "Bullets": {
-                "value": 0.0
-            },
-            "Damage": {
-                "value": 0.0
-            },
-            "Delay": {
-                "value": 0.0
-            },
-            "FlashCheck": {
-                "value": false
-            },
-            "HitChance": {
-                "value": 70.0
-            },
-            "HitboxList": {
-                "values": [
-                    0,
-                    1,
-                    2
-                ]
-            },
-            "LegitAutowall": {
-                "key": 0,
-                "keymode": 0,
-                "value": false
-            },
-            "Seed": {
-                "value": false
-            },
-            "SmokeCheck": {
-                "value": false
-            },
-            "Smooth": {
-                "value": 40.0
-            }
-        },
-        "Rifle": {
-            "Aimfov": {
-                "value": 5.0
-            },
-            "AutoStop": {
-                "value": true
-            },
-            "Autowall": {
-                "value": false
-            },
-            "BacktrackTime": {
-                "value": 200.0
-            },
-            "Bullets": {
-                "value": 0.0
-            },
-            "Damage": {
-                "value": 0.0
-            },
-            "Delay": {
-                "value": 0.0
-            },
-            "FlashCheck": {
-                "value": false
-            },
-            "HitChance": {
-                "value": 0.0
-            },
-            "HitboxList": {
-                "values": [
-                    0
-                ]
-            },
-            "LegitAutowall": {
-                "key": 0,
-                "keymode": 0,
-                "value": false
-            },
-            "Seed": {
-                "value": false
-            },
-            "SmokeCheck": {
-                "value": false
-            },
-            "Smooth": {
-                "value": 0.0
-            }
-        },
-        "SCAR-20": {
-            "Aimfov": {
-                "value": 5.0
-            },
-            "AutoStop": {
-                "value": true
-            },
-            "Autowall": {
-                "value": false
-            },
-            "BacktrackTime": {
-                "value": 200.0
-            },
-            "Bullets": {
-                "value": 0.0
-            },
-            "Damage": {
-                "value": 0.0
-            },
-            "Delay": {
-                "value": 0.0
-            },
-            "FlashCheck": {
-                "value": false
-            },
-            "HitChance": {
-                "value": 70.0
-            },
-            "HitboxList": {
-                "values": [
-                    0,
-                    1,
-                    2,
-                    3,
-                    4
-                ]
-            },
-            "LegitAutowall": {
-                "key": 0,
-                "keymode": 0,
-                "value": false
-            },
-            "Seed": {
-                "value": false
-            },
-            "SmokeCheck": {
-                "value": false
-            },
-            "Smooth": {
-                "value": 40.0
-            }
-        },
-        "SG 553": {
-            "Aimfov": {
-                "value": 5.0
-            },
-            "AutoStop": {
-                "value": true
-            },
-            "Autowall": {
-                "value": false
-            },
-            "BacktrackTime": {
-                "value": 200.0
-            },
-            "Bullets": {
-                "value": 0.0
-            },
-            "Damage": {
-                "value": 22.0
-            },
-            "Delay": {
-                "value": 0.0
-            },
-            "FlashCheck": {
-                "value": false
-            },
-            "HitChance": {
-                "value": 70.0
-            },
-            "HitboxList": {
-                "values": [
-                    0,
-                    1,
-                    2
-                ]
-            },
-            "LegitAutowall": {
-                "key": 0,
-                "keymode": 0,
-                "value": false
-            },
-            "Seed": {
-                "value": false
-            },
-            "SmokeCheck": {
-                "value": false
-            },
-            "Smooth": {
-                "value": 40.0
-            }
-        },
-        "SMG": {
-            "Aimfov": {
-                "value": 5.0
-            },
-            "AutoStop": {
-                "value": true
-            },
-            "Autowall": {
-                "value": false
-            },
-            "BacktrackTime": {
-                "value": 200.0
-            },
-            "Bullets": {
-                "value": 0.0
-            },
-            "Damage": {
-                "value": 0.0
-            },
-            "Delay": {
-                "value": 0.0
-            },
-            "FlashCheck": {
-                "value": false
-            },
-            "HitChance": {
-                "value": 0.0
-            },
-            "HitboxList": {
-                "values": [
-                    0
-                ]
-            },
-            "LegitAutowall": {
-                "key": 0,
-                "keymode": 0,
-                "value": false
-            },
-            "Seed": {
-                "value": false
-            },
-            "SmokeCheck": {
-                "value": false
-            },
-            "Smooth": {
-                "value": 0.0
-            }
-        },
-        "SSG 08": {
-            "Aimfov": {
-                "value": 5.0
-            },
-            "AutoStop": {
-                "value": true
-            },
-            "Autowall": {
-                "value": false
-            },
-            "BacktrackTime": {
-                "value": 200.0
-            },
-            "Bullets": {
-                "value": 0.0
-            },
-            "Damage": {
-                "value": 0.0
-            },
-            "Delay": {
-                "value": 0.0
-            },
-            "FlashCheck": {
-                "value": false
-            },
-            "HitChance": {
-                "value": 70.0
-            },
-            "HitboxList": {
-                "values": [
-                    0,
-                    1,
-                    2,
-                    3
-                ]
-            },
-            "LegitAutowall": {
-                "key": 0,
-                "keymode": 0,
-                "value": false
-            },
-            "Seed": {
-                "value": false
-            },
-            "SmokeCheck": {
-                "value": false
-            },
-            "Smooth": {
-                "value": 15.0
-            }
-        },
-        "Sawed-Off": {
-            "Aimfov": {
-                "value": 5.0
-            },
-            "AutoStop": {
-                "value": true
-            },
-            "Autowall": {
-                "value": false
-            },
-            "BacktrackTime": {
-                "value": 200.0
-            },
-            "Bullets": {
-                "value": 0.0
-            },
-            "Damage": {
-                "value": 0.0
-            },
-            "Delay": {
-                "value": 0.0
-            },
-            "FlashCheck": {
-                "value": false
-            },
-            "HitChance": {
-                "value": 70.0
-            },
-            "HitboxList": {
-                "values": [
-                    0,
-                    1,
-                    2,
-                    3,
-                    4
-                ]
-            },
-            "LegitAutowall": {
-                "key": 0,
-                "keymode": 0,
-                "value": false
-            },
-            "Seed": {
-                "value": false
-            },
-            "SmokeCheck": {
-                "value": false
-            },
-            "Smooth": {
-                "value": 40.0
-            }
-        },
-        "Sniper": {
-            "Aimfov": {
-                "value": 5.0
-            },
-            "AutoStop": {
-                "value": true
-            },
-            "Autowall": {
-                "value": false
-            },
-            "BacktrackTime": {
-                "value": 200.0
-            },
-            "Bullets": {
-                "value": 0.0
-            },
-            "Damage": {
-                "value": 0.0
-            },
-            "Delay": {
-                "value": 0.0
-            },
-            "FlashCheck": {
-                "value": false
-            },
-            "HitChance": {
-                "value": 0.0
-            },
-            "HitboxList": {
-                "values": [
-                    0
-                ]
-            },
-            "LegitAutowall": {
-                "key": 0,
-                "keymode": 0,
-                "value": false
-            },
-            "Seed": {
-                "value": false
-            },
-            "SmokeCheck": {
-                "value": false
-            },
-            "Smooth": {
-                "value": 0.0
-            }
-        },
-        "Tec-9": {
-            "Aimfov": {
-                "value": 5.0
-            },
-            "AutoStop": {
-                "value": true
-            },
-            "Autowall": {
-                "value": false
-            },
-            "BacktrackTime": {
-                "value": 200.0
-            },
-            "Bullets": {
-                "value": 0.0
-            },
-            "Damage": {
-                "value": 16.0
-            },
-            "Delay": {
-                "value": 0.0
-            },
-            "FlashCheck": {
-                "value": false
-            },
-            "HitChance": {
-                "value": 70.0
-            },
-            "HitboxList": {
-                "values": [
-                    0,
-                    1,
-                    2
-                ]
-            },
-            "LegitAutowall": {
-                "key": 0,
-                "keymode": 0,
-                "value": false
-            },
-            "Seed": {
-                "value": false
-            },
-            "SmokeCheck": {
-                "value": false
-            },
-            "Smooth": {
-                "value": 40.0
-            }
-        },
-        "UMP-45": {
-            "Aimfov": {
-                "value": 5.0
-            },
-            "AutoStop": {
-                "value": true
-            },
-            "Autowall": {
-                "value": false
-            },
-            "BacktrackTime": {
-                "value": 200.0
-            },
-            "Bullets": {
-                "value": 0.0
-            },
-            "Damage": {
-                "value": 0.0
-            },
-            "Delay": {
-                "value": 0.0
-            },
-            "FlashCheck": {
-                "value": false
-            },
-            "HitChance": {
-                "value": 70.0
-            },
-            "HitboxList": {
-                "values": [
-                    0,
-                    1,
-                    2,
-                    3,
-                    4
-                ]
-            },
-            "LegitAutowall": {
-                "key": 0,
-                "keymode": 0,
-                "value": false
-            },
-            "Seed": {
-                "value": false
-            },
-            "SmokeCheck": {
-                "value": false
-            },
-            "Smooth": {
-                "value": 40.0
-            }
-        },
-        "USP-S": {
-            "Aimfov": {
-                "value": 5.0
-            },
-            "AutoStop": {
-                "value": true
-            },
-            "Autowall": {
-                "value": false
-            },
-            "BacktrackTime": {
-                "value": 200.0
-            },
-            "Bullets": {
-                "value": 0.0
-            },
-            "Damage": {
-                "value": 16.0
-            },
-            "Delay": {
-                "value": 0.0
-            },
-            "FlashCheck": {
-                "value": false
-            },
-            "HitChance": {
-                "value": 70.0
-            },
-            "HitboxList": {
-                "values": [
-                    0,
-                    1,
-                    2
-                ]
-            },
-            "LegitAutowall": {
-                "key": 0,
-                "keymode": 0,
-                "value": false
-            },
-            "Seed": {
-                "value": false
-            },
-            "SmokeCheck": {
-                "value": false
-            },
-            "Smooth": {
-                "value": 40.0
-            }
-        },
-        "XM1014": {
-            "Aimfov": {
-                "value": 5.0
-            },
-            "AutoStop": {
-                "value": true
-            },
-            "Autowall": {
-                "value": false
-            },
-            "BacktrackTime": {
-                "value": 200.0
-            },
-            "Bullets": {
-                "value": 0.0
-            },
-            "Damage": {
-                "value": 0.0
-            },
-            "Delay": {
-                "value": 0.0
-            },
-            "FlashCheck": {
-                "value": false
-            },
-            "HitChance": {
-                "value": 70.0
-            },
-            "HitboxList": {
-                "values": [
-                    0,
-                    1,
-                    2,
-                    3,
-                    4
-                ]
-            },
-            "LegitAutowall": {
-                "key": 0,
-                "keymode": 0,
-                "value": false
-            },
-            "Seed": {
-                "value": false
-            },
-            "SmokeCheck": {
-                "value": false
-            },
-            "Smooth": {
-                "value": 40.0
-            }
-        },
-        "Zeus": {
-            "Aimfov": {
-                "value": 5.0
+                "value": 3.0
             },
             "AutoStop": {
                 "value": true
@@ -7286,7 +5360,1939 @@
                 "value": false
             },
             "HitChance": {
-                "value": 70.0
+                "value": 60.0
+            },
+            "HitboxList": {
+                "values": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4
+                ]
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "Seed": {
+                "value": true
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            }
+        },
+        "AimKey": {
+            "key": 5,
+            "keymode": 0
+        },
+        "CZ75-Auto": {
+            "Aimfov": {
+                "value": 3.0
+            },
+            "AutoStop": {
+                "value": true
+            },
+            "Autowall": {
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 200.0
+            },
+            "Bullets": {
+                "value": 0.0
+            },
+            "Damage": {
+                "value": 22.0
+            },
+            "Delay": {
+                "value": 0.0
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 55.0
+            },
+            "HitboxList": {
+                "values": [
+                    0,
+                    1,
+                    2
+                ]
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "Seed": {
+                "value": true
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            }
+        },
+        "Default": {
+            "Aimfov": {
+                "value": 3.0
+            },
+            "AutoStop": {
+                "value": true
+            },
+            "Autowall": {
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 200.0
+            },
+            "Bullets": {
+                "value": 0.0
+            },
+            "Damage": {
+                "value": 0.0
+            },
+            "Delay": {
+                "value": 0.0
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 0.0
+            },
+            "HitboxList": {
+                "values": []
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "Seed": {
+                "value": true
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            }
+        },
+        "Desert Eagle": {
+            "Aimfov": {
+                "value": 3.0
+            },
+            "AutoStop": {
+                "value": true
+            },
+            "Autowall": {
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 200.0
+            },
+            "Bullets": {
+                "value": 0.0
+            },
+            "Damage": {
+                "value": 45.0
+            },
+            "Delay": {
+                "value": 0.0
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 45.0
+            },
+            "HitboxList": {
+                "values": [
+                    0,
+                    1,
+                    2
+                ]
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "Seed": {
+                "value": true
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            }
+        },
+        "Dual Berettas": {
+            "Aimfov": {
+                "value": 3.0
+            },
+            "AutoStop": {
+                "value": true
+            },
+            "Autowall": {
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 200.0
+            },
+            "Bullets": {
+                "value": 0.0
+            },
+            "Damage": {
+                "value": 22.0
+            },
+            "Delay": {
+                "value": 0.0
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 55.0
+            },
+            "HitboxList": {
+                "values": [
+                    0,
+                    1,
+                    2
+                ]
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "Seed": {
+                "value": true
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            }
+        },
+        "FAMAS": {
+            "Aimfov": {
+                "value": 3.0
+            },
+            "AutoStop": {
+                "value": true
+            },
+            "Autowall": {
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 200.0
+            },
+            "Bullets": {
+                "value": 0.0
+            },
+            "Damage": {
+                "value": 21.0
+            },
+            "Delay": {
+                "value": 0.0
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 45.0
+            },
+            "HitboxList": {
+                "values": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4
+                ]
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "Seed": {
+                "value": true
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            }
+        },
+        "Five-SeveN": {
+            "Aimfov": {
+                "value": 3.0
+            },
+            "AutoStop": {
+                "value": true
+            },
+            "Autowall": {
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 200.0
+            },
+            "Bullets": {
+                "value": 0.0
+            },
+            "Damage": {
+                "value": 22.0
+            },
+            "Delay": {
+                "value": 0.0
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 55.0
+            },
+            "HitboxList": {
+                "values": [
+                    0,
+                    1,
+                    2
+                ]
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "Seed": {
+                "value": true
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            }
+        },
+        "G3SG1": {
+            "Aimfov": {
+                "value": 3.0
+            },
+            "AutoStop": {
+                "value": true
+            },
+            "Autowall": {
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 200.0
+            },
+            "Bullets": {
+                "value": 0.0
+            },
+            "Damage": {
+                "value": 25.0
+            },
+            "Delay": {
+                "value": 0.0
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 65.0
+            },
+            "HitboxList": {
+                "values": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4
+                ]
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "Seed": {
+                "value": true
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            }
+        },
+        "Galil AR": {
+            "Aimfov": {
+                "value": 3.0
+            },
+            "AutoStop": {
+                "value": true
+            },
+            "Autowall": {
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 200.0
+            },
+            "Bullets": {
+                "value": 0.0
+            },
+            "Damage": {
+                "value": 21.0
+            },
+            "Delay": {
+                "value": 0.0
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 45.0
+            },
+            "HitboxList": {
+                "values": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4
+                ]
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "Seed": {
+                "value": true
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            }
+        },
+        "Glock-18": {
+            "Aimfov": {
+                "value": 3.0
+            },
+            "AutoStop": {
+                "value": true
+            },
+            "Autowall": {
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 200.0
+            },
+            "Bullets": {
+                "value": 0.0
+            },
+            "Damage": {
+                "value": 22.0
+            },
+            "Delay": {
+                "value": 0.0
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 55.0
+            },
+            "HitboxList": {
+                "values": [
+                    0,
+                    1,
+                    2
+                ]
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "Seed": {
+                "value": true
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            }
+        },
+        "Heavy": {
+            "Aimfov": {
+                "value": 3.0
+            },
+            "AutoStop": {
+                "value": true
+            },
+            "Autowall": {
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 200.0
+            },
+            "Bullets": {
+                "value": 0.0
+            },
+            "Damage": {
+                "value": 0.0
+            },
+            "Delay": {
+                "value": 0.0
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 0.0
+            },
+            "HitboxList": {
+                "values": []
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "Seed": {
+                "value": true
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            }
+        },
+        "Key": {
+            "key": 0,
+            "keymode": 0
+        },
+        "M249": {
+            "Aimfov": {
+                "value": 3.0
+            },
+            "AutoStop": {
+                "value": true
+            },
+            "Autowall": {
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 200.0
+            },
+            "Bullets": {
+                "value": 0.0
+            },
+            "Damage": {
+                "value": 15.0
+            },
+            "Delay": {
+                "value": 0.0
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 10.0
+            },
+            "HitboxList": {
+                "values": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4
+                ]
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "Seed": {
+                "value": true
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            }
+        },
+        "M4A1-S": {
+            "Aimfov": {
+                "value": 3.0
+            },
+            "AutoStop": {
+                "value": true
+            },
+            "Autowall": {
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 200.0
+            },
+            "Bullets": {
+                "value": 0.0
+            },
+            "Damage": {
+                "value": 21.0
+            },
+            "Delay": {
+                "value": 0.0
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 45.0
+            },
+            "HitboxList": {
+                "values": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4
+                ]
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "Seed": {
+                "value": true
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            }
+        },
+        "M4A4": {
+            "Aimfov": {
+                "value": 3.0
+            },
+            "AutoStop": {
+                "value": true
+            },
+            "Autowall": {
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 200.0
+            },
+            "Bullets": {
+                "value": 0.0
+            },
+            "Damage": {
+                "value": 21.0
+            },
+            "Delay": {
+                "value": 0.0
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 45.0
+            },
+            "HitboxList": {
+                "values": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4
+                ]
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "Seed": {
+                "value": true
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            }
+        },
+        "MAC-10": {
+            "Aimfov": {
+                "value": 3.0
+            },
+            "AutoStop": {
+                "value": true
+            },
+            "Autowall": {
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 200.0
+            },
+            "Bullets": {
+                "value": 0.0
+            },
+            "Damage": {
+                "value": 20.0
+            },
+            "Delay": {
+                "value": 0.0
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 20.0
+            },
+            "HitboxList": {
+                "values": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4
+                ]
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "Seed": {
+                "value": true
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            }
+        },
+        "MAG-7": {
+            "Aimfov": {
+                "value": 3.0
+            },
+            "AutoStop": {
+                "value": true
+            },
+            "Autowall": {
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 200.0
+            },
+            "Bullets": {
+                "value": 0.0
+            },
+            "Damage": {
+                "value": 15.0
+            },
+            "Delay": {
+                "value": 0.0
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 20.0
+            },
+            "HitboxList": {
+                "values": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4
+                ]
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "Seed": {
+                "value": true
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            }
+        },
+        "MP5-SD": {
+            "Aimfov": {
+                "value": 3.0
+            },
+            "AutoStop": {
+                "value": true
+            },
+            "Autowall": {
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 200.0
+            },
+            "Bullets": {
+                "value": 0.0
+            },
+            "Damage": {
+                "value": 20.0
+            },
+            "Delay": {
+                "value": 0.0
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 20.0
+            },
+            "HitboxList": {
+                "values": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4
+                ]
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "Seed": {
+                "value": true
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            }
+        },
+        "MP7": {
+            "Aimfov": {
+                "value": 3.0
+            },
+            "AutoStop": {
+                "value": true
+            },
+            "Autowall": {
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 200.0
+            },
+            "Bullets": {
+                "value": 0.0
+            },
+            "Damage": {
+                "value": 20.0
+            },
+            "Delay": {
+                "value": 0.0
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 20.0
+            },
+            "HitboxList": {
+                "values": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4
+                ]
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "Seed": {
+                "value": true
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            }
+        },
+        "MP9": {
+            "Aimfov": {
+                "value": 3.0
+            },
+            "AutoStop": {
+                "value": true
+            },
+            "Autowall": {
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 200.0
+            },
+            "Bullets": {
+                "value": 0.0
+            },
+            "Damage": {
+                "value": 20.0
+            },
+            "Delay": {
+                "value": 0.0
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 20.0
+            },
+            "HitboxList": {
+                "values": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4
+                ]
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "Seed": {
+                "value": true
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            }
+        },
+        "Mode": {
+            "value": 1
+        },
+        "Negev": {
+            "Aimfov": {
+                "value": 3.0
+            },
+            "AutoStop": {
+                "value": true
+            },
+            "Autowall": {
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 200.0
+            },
+            "Bullets": {
+                "value": 0.0
+            },
+            "Damage": {
+                "value": 15.0
+            },
+            "Delay": {
+                "value": 0.0
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 10.0
+            },
+            "HitboxList": {
+                "values": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4
+                ]
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "Seed": {
+                "value": true
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            }
+        },
+        "Nova": {
+            "Aimfov": {
+                "value": 3.0
+            },
+            "AutoStop": {
+                "value": true
+            },
+            "Autowall": {
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 200.0
+            },
+            "Bullets": {
+                "value": 0.0
+            },
+            "Damage": {
+                "value": 15.0
+            },
+            "Delay": {
+                "value": 0.0
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 20.0
+            },
+            "HitboxList": {
+                "values": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4
+                ]
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "Seed": {
+                "value": true
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            }
+        },
+        "P2000": {
+            "Aimfov": {
+                "value": 3.0
+            },
+            "AutoStop": {
+                "value": true
+            },
+            "Autowall": {
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 200.0
+            },
+            "Bullets": {
+                "value": 0.0
+            },
+            "Damage": {
+                "value": 22.0
+            },
+            "Delay": {
+                "value": 0.0
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 55.0
+            },
+            "HitboxList": {
+                "values": [
+                    0,
+                    1,
+                    2
+                ]
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "Seed": {
+                "value": true
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            }
+        },
+        "P250": {
+            "Aimfov": {
+                "value": 3.0
+            },
+            "AutoStop": {
+                "value": true
+            },
+            "Autowall": {
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 200.0
+            },
+            "Bullets": {
+                "value": 0.0
+            },
+            "Damage": {
+                "value": 22.0
+            },
+            "Delay": {
+                "value": 0.0
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 55.0
+            },
+            "HitboxList": {
+                "values": [
+                    0,
+                    1,
+                    2
+                ]
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "Seed": {
+                "value": true
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            }
+        },
+        "P90": {
+            "Aimfov": {
+                "value": 3.0
+            },
+            "AutoStop": {
+                "value": true
+            },
+            "Autowall": {
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 200.0
+            },
+            "Bullets": {
+                "value": 0.0
+            },
+            "Damage": {
+                "value": 20.0
+            },
+            "Delay": {
+                "value": 0.0
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 20.0
+            },
+            "HitboxList": {
+                "values": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4
+                ]
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "Seed": {
+                "value": true
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            }
+        },
+        "PP-Bizon": {
+            "Aimfov": {
+                "value": 3.0
+            },
+            "AutoStop": {
+                "value": true
+            },
+            "Autowall": {
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 200.0
+            },
+            "Bullets": {
+                "value": 0.0
+            },
+            "Damage": {
+                "value": 20.0
+            },
+            "Delay": {
+                "value": 0.0
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 20.0
+            },
+            "HitboxList": {
+                "values": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4
+                ]
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "Seed": {
+                "value": true
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            }
+        },
+        "Pistol": {
+            "Aimfov": {
+                "value": 3.0
+            },
+            "AutoStop": {
+                "value": true
+            },
+            "Autowall": {
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 200.0
+            },
+            "Bullets": {
+                "value": 0.0
+            },
+            "Damage": {
+                "value": 0.0
+            },
+            "Delay": {
+                "value": 0.0
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 0.0
+            },
+            "HitboxList": {
+                "values": []
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "Seed": {
+                "value": true
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            }
+        },
+        "R8 Revolver": {
+            "Aimfov": {
+                "value": 3.0
+            },
+            "AutoStop": {
+                "value": true
+            },
+            "Autowall": {
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 200.0
+            },
+            "Bullets": {
+                "value": 0.0
+            },
+            "Damage": {
+                "value": 20.0
+            },
+            "Delay": {
+                "value": 0.0
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 0.0
+            },
+            "HitboxList": {
+                "values": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4
+                ]
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "Seed": {
+                "value": true
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            }
+        },
+        "Rifle": {
+            "Aimfov": {
+                "value": 3.0
+            },
+            "AutoStop": {
+                "value": true
+            },
+            "Autowall": {
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 200.0
+            },
+            "Bullets": {
+                "value": 0.0
+            },
+            "Damage": {
+                "value": 0.0
+            },
+            "Delay": {
+                "value": 0.0
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 0.0
+            },
+            "HitboxList": {
+                "values": []
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "Seed": {
+                "value": true
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            }
+        },
+        "SCAR-20": {
+            "Aimfov": {
+                "value": 3.0
+            },
+            "AutoStop": {
+                "value": true
+            },
+            "Autowall": {
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 200.0
+            },
+            "Bullets": {
+                "value": 0.0
+            },
+            "Damage": {
+                "value": 25.0
+            },
+            "Delay": {
+                "value": 0.0
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 65.0
+            },
+            "HitboxList": {
+                "values": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4
+                ]
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "Seed": {
+                "value": true
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            }
+        },
+        "SG 553": {
+            "Aimfov": {
+                "value": 3.0
+            },
+            "AutoStop": {
+                "value": true
+            },
+            "Autowall": {
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 200.0
+            },
+            "Bullets": {
+                "value": 0.0
+            },
+            "Damage": {
+                "value": 21.0
+            },
+            "Delay": {
+                "value": 0.0
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 45.0
+            },
+            "HitboxList": {
+                "values": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4
+                ]
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "Seed": {
+                "value": true
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            }
+        },
+        "SMG": {
+            "Aimfov": {
+                "value": 3.0
+            },
+            "AutoStop": {
+                "value": true
+            },
+            "Autowall": {
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 200.0
+            },
+            "Bullets": {
+                "value": 0.0
+            },
+            "Damage": {
+                "value": 0.0
+            },
+            "Delay": {
+                "value": 0.0
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 0.0
+            },
+            "HitboxList": {
+                "values": []
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "Seed": {
+                "value": true
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            }
+        },
+        "SSG 08": {
+            "Aimfov": {
+                "value": 3.0
+            },
+            "AutoStop": {
+                "value": true
+            },
+            "Autowall": {
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 200.0
+            },
+            "Bullets": {
+                "value": 0.0
+            },
+            "Damage": {
+                "value": 100.0
+            },
+            "Delay": {
+                "value": 0.0
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 60.0
+            },
+            "HitboxList": {
+                "values": [
+                    0,
+                    1,
+                    2,
+                    4
+                ]
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "Seed": {
+                "value": true
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            }
+        },
+        "Sawed-Off": {
+            "Aimfov": {
+                "value": 3.0
+            },
+            "AutoStop": {
+                "value": true
+            },
+            "Autowall": {
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 200.0
+            },
+            "Bullets": {
+                "value": 0.0
+            },
+            "Damage": {
+                "value": 15.0
+            },
+            "Delay": {
+                "value": 0.0
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 20.0
+            },
+            "HitboxList": {
+                "values": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4
+                ]
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "Seed": {
+                "value": true
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            }
+        },
+        "Sniper": {
+            "Aimfov": {
+                "value": 3.0
+            },
+            "AutoStop": {
+                "value": true
+            },
+            "Autowall": {
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 200.0
+            },
+            "Bullets": {
+                "value": 0.0
+            },
+            "Damage": {
+                "value": 0.0
+            },
+            "Delay": {
+                "value": 0.0
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 0.0
+            },
+            "HitboxList": {
+                "values": []
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "Seed": {
+                "value": true
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            }
+        },
+        "Tec-9": {
+            "Aimfov": {
+                "value": 3.0
+            },
+            "AutoStop": {
+                "value": true
+            },
+            "Autowall": {
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 200.0
+            },
+            "Bullets": {
+                "value": 0.0
+            },
+            "Damage": {
+                "value": 22.0
+            },
+            "Delay": {
+                "value": 0.0
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 55.0
+            },
+            "HitboxList": {
+                "values": [
+                    0,
+                    1,
+                    2
+                ]
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "Seed": {
+                "value": true
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            }
+        },
+        "UMP-45": {
+            "Aimfov": {
+                "value": 3.0
+            },
+            "AutoStop": {
+                "value": true
+            },
+            "Autowall": {
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 200.0
+            },
+            "Bullets": {
+                "value": 0.0
+            },
+            "Damage": {
+                "value": 20.0
+            },
+            "Delay": {
+                "value": 0.0
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 20.0
+            },
+            "HitboxList": {
+                "values": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4
+                ]
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "Seed": {
+                "value": true
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            }
+        },
+        "USP-S": {
+            "Aimfov": {
+                "value": 3.0
+            },
+            "AutoStop": {
+                "value": true
+            },
+            "Autowall": {
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 200.0
+            },
+            "Bullets": {
+                "value": 0.0
+            },
+            "Damage": {
+                "value": 22.0
+            },
+            "Delay": {
+                "value": 0.0
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 55.0
+            },
+            "HitboxList": {
+                "values": [
+                    0,
+                    1,
+                    2
+                ]
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "Seed": {
+                "value": true
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            }
+        },
+        "XM1014": {
+            "Aimfov": {
+                "value": 3.0
+            },
+            "AutoStop": {
+                "value": true
+            },
+            "Autowall": {
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 200.0
+            },
+            "Bullets": {
+                "value": 0.0
+            },
+            "Damage": {
+                "value": 15.0
+            },
+            "Delay": {
+                "value": 0.0
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 20.0
+            },
+            "HitboxList": {
+                "values": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4
+                ]
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "Seed": {
+                "value": true
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            }
+        },
+        "Zeus": {
+            "Aimfov": {
+                "value": 3.0
+            },
+            "AutoStop": {
+                "value": true
+            },
+            "Autowall": {
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 200.0
+            },
+            "Bullets": {
+                "value": 0.0
+            },
+            "Damage": {
+                "value": 100.0
+            },
+            "Delay": {
+                "value": 0.0
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 85.0
             },
             "HitboxList": {
                 "values": [
@@ -7309,7 +7315,7 @@
                 "value": false
             },
             "Smooth": {
-                "value": 20.0
+                "value": 36.0
             }
         }
     },
@@ -7335,7 +7341,7 @@
                         130
                     ]
                 ],
-                "value": 1
+                "value": 0
             },
             "ColorMode": {
                 "colors": [
@@ -7431,12 +7437,12 @@
             "Distance": {
                 "custom": [
                     7,
-                    3
+                    1
                 ],
                 "value": false
             },
             "Draw": {
-                "key": 0,
+                "key": 70,
                 "keymode": 0,
                 "value": 0
             },
@@ -7456,7 +7462,7 @@
                 "value": true
             },
             "FlagGrenade": {
-                "value": true
+                "value": false
             },
             "FlagPlanting": {
                 "value": true
@@ -7478,7 +7484,7 @@
                 "value": 0
             },
             "Font": {
-                "value": 0
+                "value": 5
             },
             "Headdot": {
                 "colors": [
@@ -7503,10 +7509,10 @@
                 "colors": [
                     [
                         0,
-                        150,
-                        200,
-                        60,
-                        255
+                        255,
+                        255,
+                        255,
+                        230
                     ],
                     [
                         0,
@@ -7520,12 +7526,12 @@
                     0,
                     0
                 ],
-                "value": 2
+                "value": 1
             },
             "HealthValue": {
                 "custom": [
-                    7,
-                    1
+                    0,
+                    0
                 ],
                 "value": false
             },
@@ -7545,14 +7551,14 @@
                         0,
                         255,
                         255,
-                        255,
+                        170,
                         255
                     ],
                     [
                         0,
                         255,
                         255,
-                        255,
+                        170,
                         255
                     ]
                 ],
@@ -7580,14 +7586,14 @@
             "WeapinIcon": {
                 "custom": [
                     7,
-                    0
+                    2
                 ],
                 "value": true
             },
             "Weapon": {
                 "custom": [
                     7,
-                    2
+                    0
                 ],
                 "value": false
             }
@@ -7695,10 +7701,10 @@
                     ],
                     [
                         0,
-                        151,
-                        116,
-                        249,
-                        255
+                        111,
+                        110,
+                        121,
+                        230
                     ]
                 ],
                 "value": 1
@@ -7714,13 +7720,13 @@
                     ],
                     [
                         0,
-                        37,
-                        10,
-                        111,
-                        174
+                        191,
+                        191,
+                        191,
+                        88
                     ]
                 ],
-                "value": 0
+                "value": 1
             }
         },
         "Removals": {
@@ -7754,7 +7760,8 @@
             "Bomb": {
                 "values": [
                     1,
-                    2
+                    2,
+                    3
                 ]
             },
             "BulletTracer": {
@@ -7779,9 +7786,9 @@
             "Clouds": {
                 "color": [
                     0,
-                    30,
-                    30,
-                    30,
+                    31,
+                    31,
+                    31,
                     255
                 ],
                 "value": false
@@ -7797,13 +7804,15 @@
                     ],
                     [
                         0,
-                        151,
-                        116,
-                        249,
-                        255
+                        255,
+                        255,
+                        255,
+                        200
                     ]
                 ],
-                "values": []
+                "values": [
+                    2
+                ]
             },
             "GrenadePrediction": {
                 "colors": [
@@ -7812,14 +7821,14 @@
                         255,
                         255,
                         255,
-                        255
+                        200
                     ],
                     [
                         0,
-                        151,
-                        116,
-                        249,
-                        255
+                        255,
+                        0,
+                        50,
+                        210
                     ]
                 ],
                 "value": true
@@ -7831,17 +7840,17 @@
                         255,
                         255,
                         255,
-                        255
+                        200
                     ],
                     [
                         0,
-                        151,
-                        116,
-                        249,
-                        255
+                        255,
+                        255,
+                        255,
+                        200
                     ]
                 ],
-                "value": false
+                "value": true
             },
             "GrenadePredictionPinOnly": {
                 "value": false
@@ -7856,7 +7865,7 @@
                         255,
                         255,
                         255,
-                        255
+                        200
                     ],
                     [
                         0,
@@ -7866,7 +7875,7 @@
                         255
                     ]
                 ],
-                "value": false
+                "value": true
             },
             "GrenadeTrackerIcon": {
                 "colors": [
@@ -7875,14 +7884,14 @@
                         255,
                         255,
                         255,
-                        255
+                        200
                     ],
                     [
                         0,
-                        138,
-                        143,
                         255,
-                        255
+                        255,
+                        255,
+                        200
                     ]
                 ],
                 "value": true
@@ -7891,35 +7900,35 @@
                 "value": false
             },
             "GrenadeTrackerProximity": {
-                "value": false
+                "value": true
             },
             "Lightning": {
                 "color": [
                     0,
-                    30,
-                    30,
-                    30,
+                    188,
+                    188,
+                    188,
                     255
                 ],
-                "value": false
+                "value": true
             },
             "SkyMode": {
                 "color": [
                     0,
-                    157,
-                    147,
-                    219,
-                    45
+                    172,
+                    187,
+                    227,
+                    255
                 ],
-                "value": 1
+                "value": 5
             },
             "SoundESP": {
                 "color": [
                     0,
-                    255,
-                    0,
-                    0,
-                    77
+                    180,
+                    60,
+                    120,
+                    153
                 ],
                 "value": false
             },
@@ -7936,9 +7945,9 @@
             "WorldColorModulation": {
                 "color": [
                     0,
-                    111,
-                    110,
-                    124,
+                    255,
+                    255,
+                    255,
                     255
                 ],
                 "value": true
