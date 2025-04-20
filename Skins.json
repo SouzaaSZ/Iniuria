@@ -84,7 +84,7 @@
                 }
             },
             "oldKit": 0,
-            "paintKit": 37,
+            "paintKit": 61,
             "pearlescent": 0,
             "seed": 0,
             "stattrak": false,
@@ -277,75 +277,6 @@
             "wear": 0.0
         },
         {
-            "active": true,
-            "customname": false,
-            "customnamevalue": "Iniuria",
-            "itemDef": 4,
-            "keychain": {
-                "paintkit": 0,
-                "s": 0,
-                "vec": {
-                    "x": 0.0,
-                    "y": 0.0,
-                    "z": 0.0
-                }
-            },
-            "oldKit": 0,
-            "paintKit": 38,
-            "pearlescent": 0,
-            "seed": 0,
-            "stattrak": false,
-            "stattrakvalue": 0,
-            "stickers": [
-                {
-                    "paintkit": 0,
-                    "s": -1,
-                    "vec": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0
-                    }
-                },
-                {
-                    "paintkit": 0,
-                    "s": -1,
-                    "vec": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0
-                    }
-                },
-                {
-                    "paintkit": 0,
-                    "s": -1,
-                    "vec": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0
-                    }
-                },
-                {
-                    "paintkit": 0,
-                    "s": -1,
-                    "vec": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0
-                    }
-                },
-                {
-                    "paintkit": 0,
-                    "s": -1,
-                    "vec": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0
-                    }
-                }
-            ],
-            "wear": 0.0
-        },
-        {
             "active": false,
             "customname": false,
             "customnamevalue": "",
@@ -484,21 +415,90 @@
             "wear": 0.0
         },
         {
-            "active": true,
+            "active": false,
             "customname": false,
-            "customnamevalue": "Iniuria",
-            "itemDef": 7,
+            "customnamevalue": "",
+            "itemDef": 0,
             "keychain": {
                 "paintkit": 0,
-                "s": 0,
+                "s": -1,
                 "vec": {
                     "x": 0.0,
                     "y": 0.0,
                     "z": 0.0
                 }
             },
-            "oldKit": 1,
-            "paintKit": 490,
+            "oldKit": 0,
+            "paintKit": 0,
+            "pearlescent": 0,
+            "seed": 0,
+            "stattrak": false,
+            "stattrakvalue": 0,
+            "stickers": [
+                {
+                    "paintkit": 0,
+                    "s": -1,
+                    "vec": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "paintkit": 0,
+                    "s": -1,
+                    "vec": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "paintkit": 0,
+                    "s": -1,
+                    "vec": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "paintkit": 0,
+                    "s": -1,
+                    "vec": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "paintkit": 0,
+                    "s": -1,
+                    "vec": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                }
+            ],
+            "wear": 0.0
+        },
+        {
+            "active": false,
+            "customname": false,
+            "customnamevalue": "",
+            "itemDef": 0,
+            "keychain": {
+                "paintkit": 0,
+                "s": -1,
+                "vec": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                }
+            },
+            "oldKit": 0,
+            "paintKit": 0,
             "pearlescent": 0,
             "seed": 0,
             "stattrak": false,
@@ -635,284 +635,8 @@
                     "z": 0.0
                 }
             },
-            "oldKit": 0,
-            "paintKit": 1013,
-            "pearlescent": 0,
-            "seed": 0,
-            "stattrak": false,
-            "stattrakvalue": 0,
-            "stickers": [
-                {
-                    "paintkit": 0,
-                    "s": -1,
-                    "vec": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0
-                    }
-                },
-                {
-                    "paintkit": 0,
-                    "s": -1,
-                    "vec": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0
-                    }
-                },
-                {
-                    "paintkit": 0,
-                    "s": -1,
-                    "vec": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0
-                    }
-                },
-                {
-                    "paintkit": 0,
-                    "s": -1,
-                    "vec": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0
-                    }
-                },
-                {
-                    "paintkit": 0,
-                    "s": -1,
-                    "vec": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0
-                    }
-                }
-            ],
-            "wear": 0.0
-        },
-        {
-            "active": false,
-            "customname": false,
-            "customnamevalue": "",
-            "itemDef": 0,
-            "keychain": {
-                "paintkit": 0,
-                "s": -1,
-                "vec": {
-                    "x": 0.0,
-                    "y": 0.0,
-                    "z": 0.0
-                }
-            },
-            "oldKit": 0,
-            "paintKit": 0,
-            "pearlescent": 0,
-            "seed": 0,
-            "stattrak": false,
-            "stattrakvalue": 0,
-            "stickers": [
-                {
-                    "paintkit": 0,
-                    "s": -1,
-                    "vec": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0
-                    }
-                },
-                {
-                    "paintkit": 0,
-                    "s": -1,
-                    "vec": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0
-                    }
-                },
-                {
-                    "paintkit": 0,
-                    "s": -1,
-                    "vec": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0
-                    }
-                },
-                {
-                    "paintkit": 0,
-                    "s": -1,
-                    "vec": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0
-                    }
-                },
-                {
-                    "paintkit": 0,
-                    "s": -1,
-                    "vec": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0
-                    }
-                }
-            ],
-            "wear": 0.0
-        },
-        {
-            "active": true,
-            "customname": false,
-            "customnamevalue": "Iniuria",
-            "itemDef": 11,
-            "keychain": {
-                "paintkit": 0,
-                "s": 0,
-                "vec": {
-                    "x": 0.0,
-                    "y": 0.0,
-                    "z": 0.0
-                }
-            },
             "oldKit": 1,
-            "paintKit": 1013,
-            "pearlescent": 0,
-            "seed": 0,
-            "stattrak": false,
-            "stattrakvalue": 0,
-            "stickers": [
-                {
-                    "paintkit": 0,
-                    "s": -1,
-                    "vec": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0
-                    }
-                },
-                {
-                    "paintkit": 0,
-                    "s": -1,
-                    "vec": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0
-                    }
-                },
-                {
-                    "paintkit": 0,
-                    "s": -1,
-                    "vec": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0
-                    }
-                },
-                {
-                    "paintkit": 0,
-                    "s": -1,
-                    "vec": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0
-                    }
-                },
-                {
-                    "paintkit": 0,
-                    "s": -1,
-                    "vec": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0
-                    }
-                }
-            ],
-            "wear": 0.0
-        },
-        {
-            "active": false,
-            "customname": false,
-            "customnamevalue": "",
-            "itemDef": 0,
-            "keychain": {
-                "paintkit": 0,
-                "s": -1,
-                "vec": {
-                    "x": 0.0,
-                    "y": 0.0,
-                    "z": 0.0
-                }
-            },
-            "oldKit": 0,
-            "paintKit": 0,
-            "pearlescent": 0,
-            "seed": 0,
-            "stattrak": false,
-            "stattrakvalue": 0,
-            "stickers": [
-                {
-                    "paintkit": 0,
-                    "s": -1,
-                    "vec": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0
-                    }
-                },
-                {
-                    "paintkit": 0,
-                    "s": -1,
-                    "vec": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0
-                    }
-                },
-                {
-                    "paintkit": 0,
-                    "s": -1,
-                    "vec": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0
-                    }
-                },
-                {
-                    "paintkit": 0,
-                    "s": -1,
-                    "vec": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0
-                    }
-                },
-                {
-                    "paintkit": 0,
-                    "s": -1,
-                    "vec": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0
-                    }
-                }
-            ],
-            "wear": 0.0
-        },
-        {
-            "active": true,
-            "customname": false,
-            "customnamevalue": "Iniuria",
-            "itemDef": 13,
-            "keychain": {
-                "paintkit": 0,
-                "s": 0,
-                "vec": {
-                    "x": 0.0,
-                    "y": 0.0,
-                    "z": 0.0
-                }
-            },
-            "oldKit": 0,
-            "paintKit": 0,
+            "paintKit": 51,
             "pearlescent": 0,
             "seed": 0,
             "stattrak": false,
@@ -1051,75 +775,6 @@
             },
             "oldKit": 0,
             "paintKit": 0,
-            "pearlescent": 0,
-            "seed": 0,
-            "stattrak": false,
-            "stattrakvalue": 0,
-            "stickers": [
-                {
-                    "paintkit": 0,
-                    "s": -1,
-                    "vec": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0
-                    }
-                },
-                {
-                    "paintkit": 0,
-                    "s": -1,
-                    "vec": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0
-                    }
-                },
-                {
-                    "paintkit": 0,
-                    "s": -1,
-                    "vec": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0
-                    }
-                },
-                {
-                    "paintkit": 0,
-                    "s": -1,
-                    "vec": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0
-                    }
-                },
-                {
-                    "paintkit": 0,
-                    "s": -1,
-                    "vec": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0
-                    }
-                }
-            ],
-            "wear": 0.0
-        },
-        {
-            "active": true,
-            "customname": false,
-            "customnamevalue": "Iniuria",
-            "itemDef": 16,
-            "keychain": {
-                "paintkit": 0,
-                "s": 0,
-                "vec": {
-                    "x": 0.0,
-                    "y": 0.0,
-                    "z": 0.0
-                }
-            },
-            "oldKit": 1,
-            "paintKit": 844,
             "pearlescent": 0,
             "seed": 0,
             "stattrak": false,
@@ -2488,7 +2143,7 @@
             "active": true,
             "customname": false,
             "customnamevalue": "Iniuria",
-            "itemDef": 36,
+            "itemDef": 31,
             "keychain": {
                 "paintkit": 0,
                 "s": 0,
@@ -2499,7 +2154,7 @@
                 }
             },
             "oldKit": 0,
-            "paintKit": 102,
+            "paintKit": 1172,
             "pearlescent": 0,
             "seed": 0,
             "stattrak": false,
@@ -2623,21 +2278,366 @@
             "wear": 0.0
         },
         {
-            "active": true,
+            "active": false,
             "customname": false,
-            "customnamevalue": "Iniuria",
-            "itemDef": 38,
+            "customnamevalue": "",
+            "itemDef": 0,
             "keychain": {
                 "paintkit": 0,
-                "s": 0,
+                "s": -1,
                 "vec": {
                     "x": 0.0,
                     "y": 0.0,
                     "z": 0.0
                 }
             },
-            "oldKit": 1,
-            "paintKit": 1013,
+            "oldKit": 0,
+            "paintKit": 0,
+            "pearlescent": 0,
+            "seed": 0,
+            "stattrak": false,
+            "stattrakvalue": 0,
+            "stickers": [
+                {
+                    "paintkit": 0,
+                    "s": -1,
+                    "vec": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "paintkit": 0,
+                    "s": -1,
+                    "vec": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "paintkit": 0,
+                    "s": -1,
+                    "vec": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "paintkit": 0,
+                    "s": -1,
+                    "vec": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "paintkit": 0,
+                    "s": -1,
+                    "vec": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                }
+            ],
+            "wear": 0.0
+        },
+        {
+            "active": false,
+            "customname": false,
+            "customnamevalue": "",
+            "itemDef": 0,
+            "keychain": {
+                "paintkit": 0,
+                "s": -1,
+                "vec": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                }
+            },
+            "oldKit": 0,
+            "paintKit": 0,
+            "pearlescent": 0,
+            "seed": 0,
+            "stattrak": false,
+            "stattrakvalue": 0,
+            "stickers": [
+                {
+                    "paintkit": 0,
+                    "s": -1,
+                    "vec": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "paintkit": 0,
+                    "s": -1,
+                    "vec": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "paintkit": 0,
+                    "s": -1,
+                    "vec": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "paintkit": 0,
+                    "s": -1,
+                    "vec": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "paintkit": 0,
+                    "s": -1,
+                    "vec": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                }
+            ],
+            "wear": 0.0
+        },
+        {
+            "active": false,
+            "customname": false,
+            "customnamevalue": "",
+            "itemDef": 0,
+            "keychain": {
+                "paintkit": 0,
+                "s": -1,
+                "vec": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                }
+            },
+            "oldKit": 0,
+            "paintKit": 0,
+            "pearlescent": 0,
+            "seed": 0,
+            "stattrak": false,
+            "stattrakvalue": 0,
+            "stickers": [
+                {
+                    "paintkit": 0,
+                    "s": -1,
+                    "vec": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "paintkit": 0,
+                    "s": -1,
+                    "vec": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "paintkit": 0,
+                    "s": -1,
+                    "vec": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "paintkit": 0,
+                    "s": -1,
+                    "vec": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "paintkit": 0,
+                    "s": -1,
+                    "vec": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                }
+            ],
+            "wear": 0.0
+        },
+        {
+            "active": false,
+            "customname": false,
+            "customnamevalue": "",
+            "itemDef": 0,
+            "keychain": {
+                "paintkit": 0,
+                "s": -1,
+                "vec": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                }
+            },
+            "oldKit": 0,
+            "paintKit": 0,
+            "pearlescent": 0,
+            "seed": 0,
+            "stattrak": false,
+            "stattrakvalue": 0,
+            "stickers": [
+                {
+                    "paintkit": 0,
+                    "s": -1,
+                    "vec": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "paintkit": 0,
+                    "s": -1,
+                    "vec": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "paintkit": 0,
+                    "s": -1,
+                    "vec": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "paintkit": 0,
+                    "s": -1,
+                    "vec": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "paintkit": 0,
+                    "s": -1,
+                    "vec": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                }
+            ],
+            "wear": 0.0
+        },
+        {
+            "active": false,
+            "customname": false,
+            "customnamevalue": "",
+            "itemDef": 0,
+            "keychain": {
+                "paintkit": 0,
+                "s": -1,
+                "vec": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                }
+            },
+            "oldKit": 0,
+            "paintKit": 0,
+            "pearlescent": 0,
+            "seed": 0,
+            "stattrak": false,
+            "stattrakvalue": 0,
+            "stickers": [
+                {
+                    "paintkit": 0,
+                    "s": -1,
+                    "vec": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "paintkit": 0,
+                    "s": -1,
+                    "vec": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "paintkit": 0,
+                    "s": -1,
+                    "vec": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "paintkit": 0,
+                    "s": -1,
+                    "vec": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "paintkit": 0,
+                    "s": -1,
+                    "vec": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                }
+            ],
+            "wear": 0.0
+        },
+        {
+            "active": false,
+            "customname": false,
+            "customnamevalue": "",
+            "itemDef": 0,
+            "keychain": {
+                "paintkit": 0,
+                "s": -1,
+                "vec": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                }
+            },
+            "oldKit": 0,
+            "paintKit": 0,
             "pearlescent": 0,
             "seed": 0,
             "stattrak": false,
@@ -2774,8 +2774,8 @@
                     "z": 0.0
                 }
             },
-            "oldKit": 1,
-            "paintKit": 1013,
+            "oldKit": 0,
+            "paintKit": 128,
             "pearlescent": 0,
             "seed": 0,
             "stattrak": false,
@@ -4155,7 +4155,7 @@
                 }
             },
             "oldKit": 1,
-            "paintKit": 644,
+            "paintKit": 321,
             "pearlescent": 0,
             "seed": 0,
             "stattrak": false,
@@ -4417,21 +4417,21 @@
             "wear": 0.0
         },
         {
-            "active": true,
+            "active": false,
             "customname": false,
-            "customnamevalue": "Iniuria",
-            "itemDef": 64,
+            "customnamevalue": "",
+            "itemDef": 0,
             "keychain": {
                 "paintkit": 0,
-                "s": 0,
+                "s": -1,
                 "vec": {
                     "x": 0.0,
                     "y": 0.0,
                     "z": 0.0
                 }
             },
-            "oldKit": 1,
-            "paintKit": 683,
+            "oldKit": 0,
+            "paintKit": 0,
             "pearlescent": 0,
             "seed": 0,
             "stattrak": false,
@@ -4489,7 +4489,7 @@
             "active": true,
             "customname": false,
             "customnamevalue": "Iniuria",
-            "itemDef": 509,
+            "itemDef": 516,
             "keychain": {
                 "paintkit": 0,
                 "s": 0,
@@ -4499,8 +4499,8 @@
                     "z": 0.0
                 }
             },
-            "oldKit": 0,
-            "paintKit": 418,
+            "oldKit": -1,
+            "paintKit": 0,
             "pearlescent": 0,
             "seed": 0,
             "stattrak": false,
@@ -4558,7 +4558,7 @@
             "active": true,
             "customname": false,
             "customnamevalue": "Iniuria",
-            "itemDef": 5030,
+            "itemDef": 5031,
             "keychain": {
                 "paintkit": 0,
                 "s": 0,
@@ -4569,7 +4569,7 @@
                 }
             },
             "oldKit": 0,
-            "paintKit": 10037,
+            "paintKit": 10072,
             "pearlescent": 0,
             "seed": 0,
             "stattrak": false,
@@ -4709,7 +4709,7 @@
                 }
             },
             "oldKit": 0,
-            "paintKit": 37,
+            "paintKit": 61,
             "pearlescent": 0,
             "seed": 0,
             "stattrak": false,
@@ -5123,7 +5123,7 @@
                 }
             },
             "oldKit": 1,
-            "paintKit": 490,
+            "paintKit": 506,
             "pearlescent": 0,
             "seed": 0,
             "stattrak": false,
@@ -5260,284 +5260,8 @@
                     "z": 0.0
                 }
             },
-            "oldKit": 0,
-            "paintKit": 1013,
-            "pearlescent": 0,
-            "seed": 0,
-            "stattrak": false,
-            "stattrakvalue": 0,
-            "stickers": [
-                {
-                    "paintkit": 0,
-                    "s": -1,
-                    "vec": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0
-                    }
-                },
-                {
-                    "paintkit": 0,
-                    "s": -1,
-                    "vec": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0
-                    }
-                },
-                {
-                    "paintkit": 0,
-                    "s": -1,
-                    "vec": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0
-                    }
-                },
-                {
-                    "paintkit": 0,
-                    "s": -1,
-                    "vec": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0
-                    }
-                },
-                {
-                    "paintkit": 0,
-                    "s": -1,
-                    "vec": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0
-                    }
-                }
-            ],
-            "wear": 0.0
-        },
-        {
-            "active": false,
-            "customname": false,
-            "customnamevalue": "",
-            "itemDef": 0,
-            "keychain": {
-                "paintkit": 0,
-                "s": -1,
-                "vec": {
-                    "x": 0.0,
-                    "y": 0.0,
-                    "z": 0.0
-                }
-            },
-            "oldKit": 0,
-            "paintKit": 0,
-            "pearlescent": 0,
-            "seed": 0,
-            "stattrak": false,
-            "stattrakvalue": 0,
-            "stickers": [
-                {
-                    "paintkit": 0,
-                    "s": -1,
-                    "vec": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0
-                    }
-                },
-                {
-                    "paintkit": 0,
-                    "s": -1,
-                    "vec": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0
-                    }
-                },
-                {
-                    "paintkit": 0,
-                    "s": -1,
-                    "vec": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0
-                    }
-                },
-                {
-                    "paintkit": 0,
-                    "s": -1,
-                    "vec": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0
-                    }
-                },
-                {
-                    "paintkit": 0,
-                    "s": -1,
-                    "vec": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0
-                    }
-                }
-            ],
-            "wear": 0.0
-        },
-        {
-            "active": true,
-            "customname": false,
-            "customnamevalue": "Iniuria",
-            "itemDef": 11,
-            "keychain": {
-                "paintkit": 0,
-                "s": 0,
-                "vec": {
-                    "x": 0.0,
-                    "y": 0.0,
-                    "z": 0.0
-                }
-            },
             "oldKit": 1,
-            "paintKit": 1013,
-            "pearlescent": 0,
-            "seed": 0,
-            "stattrak": false,
-            "stattrakvalue": 0,
-            "stickers": [
-                {
-                    "paintkit": 0,
-                    "s": -1,
-                    "vec": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0
-                    }
-                },
-                {
-                    "paintkit": 0,
-                    "s": -1,
-                    "vec": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0
-                    }
-                },
-                {
-                    "paintkit": 0,
-                    "s": -1,
-                    "vec": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0
-                    }
-                },
-                {
-                    "paintkit": 0,
-                    "s": -1,
-                    "vec": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0
-                    }
-                },
-                {
-                    "paintkit": 0,
-                    "s": -1,
-                    "vec": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0
-                    }
-                }
-            ],
-            "wear": 0.0
-        },
-        {
-            "active": false,
-            "customname": false,
-            "customnamevalue": "",
-            "itemDef": 0,
-            "keychain": {
-                "paintkit": 0,
-                "s": -1,
-                "vec": {
-                    "x": 0.0,
-                    "y": 0.0,
-                    "z": 0.0
-                }
-            },
-            "oldKit": 0,
-            "paintKit": 0,
-            "pearlescent": 0,
-            "seed": 0,
-            "stattrak": false,
-            "stattrakvalue": 0,
-            "stickers": [
-                {
-                    "paintkit": 0,
-                    "s": -1,
-                    "vec": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0
-                    }
-                },
-                {
-                    "paintkit": 0,
-                    "s": -1,
-                    "vec": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0
-                    }
-                },
-                {
-                    "paintkit": 0,
-                    "s": -1,
-                    "vec": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0
-                    }
-                },
-                {
-                    "paintkit": 0,
-                    "s": -1,
-                    "vec": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0
-                    }
-                },
-                {
-                    "paintkit": 0,
-                    "s": -1,
-                    "vec": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0
-                    }
-                }
-            ],
-            "wear": 0.0
-        },
-        {
-            "active": true,
-            "customname": false,
-            "customnamevalue": "Iniuria",
-            "itemDef": 13,
-            "keychain": {
-                "paintkit": 0,
-                "s": 0,
-                "vec": {
-                    "x": 0.0,
-                    "y": 0.0,
-                    "z": 0.0
-                }
-            },
-            "oldKit": 0,
-            "paintKit": 0,
+            "paintKit": 51,
             "pearlescent": 0,
             "seed": 0,
             "stattrak": false,
@@ -5676,75 +5400,6 @@
             },
             "oldKit": 0,
             "paintKit": 0,
-            "pearlescent": 0,
-            "seed": 0,
-            "stattrak": false,
-            "stattrakvalue": 0,
-            "stickers": [
-                {
-                    "paintkit": 0,
-                    "s": -1,
-                    "vec": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0
-                    }
-                },
-                {
-                    "paintkit": 0,
-                    "s": -1,
-                    "vec": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0
-                    }
-                },
-                {
-                    "paintkit": 0,
-                    "s": -1,
-                    "vec": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0
-                    }
-                },
-                {
-                    "paintkit": 0,
-                    "s": -1,
-                    "vec": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0
-                    }
-                },
-                {
-                    "paintkit": 0,
-                    "s": -1,
-                    "vec": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0
-                    }
-                }
-            ],
-            "wear": 0.0
-        },
-        {
-            "active": true,
-            "customname": false,
-            "customnamevalue": "Iniuria",
-            "itemDef": 16,
-            "keychain": {
-                "paintkit": 0,
-                "s": 0,
-                "vec": {
-                    "x": 0.0,
-                    "y": 0.0,
-                    "z": 0.0
-                }
-            },
-            "oldKit": 1,
-            "paintKit": 844,
             "pearlescent": 0,
             "seed": 0,
             "stattrak": false,
@@ -7113,7 +6768,7 @@
             "active": true,
             "customname": false,
             "customnamevalue": "Iniuria",
-            "itemDef": 36,
+            "itemDef": 31,
             "keychain": {
                 "paintkit": 0,
                 "s": 0,
@@ -7124,7 +6779,7 @@
                 }
             },
             "oldKit": 0,
-            "paintKit": 102,
+            "paintKit": 1172,
             "pearlescent": 0,
             "seed": 0,
             "stattrak": false,
@@ -7248,21 +6903,366 @@
             "wear": 0.0
         },
         {
-            "active": true,
+            "active": false,
             "customname": false,
-            "customnamevalue": "Iniuria",
-            "itemDef": 38,
+            "customnamevalue": "",
+            "itemDef": 0,
             "keychain": {
                 "paintkit": 0,
-                "s": 0,
+                "s": -1,
                 "vec": {
                     "x": 0.0,
                     "y": 0.0,
                     "z": 0.0
                 }
             },
-            "oldKit": 1,
-            "paintKit": 1013,
+            "oldKit": 0,
+            "paintKit": 0,
+            "pearlescent": 0,
+            "seed": 0,
+            "stattrak": false,
+            "stattrakvalue": 0,
+            "stickers": [
+                {
+                    "paintkit": 0,
+                    "s": -1,
+                    "vec": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "paintkit": 0,
+                    "s": -1,
+                    "vec": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "paintkit": 0,
+                    "s": -1,
+                    "vec": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "paintkit": 0,
+                    "s": -1,
+                    "vec": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "paintkit": 0,
+                    "s": -1,
+                    "vec": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                }
+            ],
+            "wear": 0.0
+        },
+        {
+            "active": false,
+            "customname": false,
+            "customnamevalue": "",
+            "itemDef": 0,
+            "keychain": {
+                "paintkit": 0,
+                "s": -1,
+                "vec": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                }
+            },
+            "oldKit": 0,
+            "paintKit": 0,
+            "pearlescent": 0,
+            "seed": 0,
+            "stattrak": false,
+            "stattrakvalue": 0,
+            "stickers": [
+                {
+                    "paintkit": 0,
+                    "s": -1,
+                    "vec": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "paintkit": 0,
+                    "s": -1,
+                    "vec": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "paintkit": 0,
+                    "s": -1,
+                    "vec": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "paintkit": 0,
+                    "s": -1,
+                    "vec": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "paintkit": 0,
+                    "s": -1,
+                    "vec": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                }
+            ],
+            "wear": 0.0
+        },
+        {
+            "active": false,
+            "customname": false,
+            "customnamevalue": "",
+            "itemDef": 0,
+            "keychain": {
+                "paintkit": 0,
+                "s": -1,
+                "vec": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                }
+            },
+            "oldKit": 0,
+            "paintKit": 0,
+            "pearlescent": 0,
+            "seed": 0,
+            "stattrak": false,
+            "stattrakvalue": 0,
+            "stickers": [
+                {
+                    "paintkit": 0,
+                    "s": -1,
+                    "vec": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "paintkit": 0,
+                    "s": -1,
+                    "vec": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "paintkit": 0,
+                    "s": -1,
+                    "vec": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "paintkit": 0,
+                    "s": -1,
+                    "vec": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "paintkit": 0,
+                    "s": -1,
+                    "vec": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                }
+            ],
+            "wear": 0.0
+        },
+        {
+            "active": false,
+            "customname": false,
+            "customnamevalue": "",
+            "itemDef": 0,
+            "keychain": {
+                "paintkit": 0,
+                "s": -1,
+                "vec": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                }
+            },
+            "oldKit": 0,
+            "paintKit": 0,
+            "pearlescent": 0,
+            "seed": 0,
+            "stattrak": false,
+            "stattrakvalue": 0,
+            "stickers": [
+                {
+                    "paintkit": 0,
+                    "s": -1,
+                    "vec": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "paintkit": 0,
+                    "s": -1,
+                    "vec": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "paintkit": 0,
+                    "s": -1,
+                    "vec": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "paintkit": 0,
+                    "s": -1,
+                    "vec": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "paintkit": 0,
+                    "s": -1,
+                    "vec": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                }
+            ],
+            "wear": 0.0
+        },
+        {
+            "active": false,
+            "customname": false,
+            "customnamevalue": "",
+            "itemDef": 0,
+            "keychain": {
+                "paintkit": 0,
+                "s": -1,
+                "vec": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                }
+            },
+            "oldKit": 0,
+            "paintKit": 0,
+            "pearlescent": 0,
+            "seed": 0,
+            "stattrak": false,
+            "stattrakvalue": 0,
+            "stickers": [
+                {
+                    "paintkit": 0,
+                    "s": -1,
+                    "vec": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "paintkit": 0,
+                    "s": -1,
+                    "vec": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "paintkit": 0,
+                    "s": -1,
+                    "vec": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "paintkit": 0,
+                    "s": -1,
+                    "vec": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "paintkit": 0,
+                    "s": -1,
+                    "vec": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                }
+            ],
+            "wear": 0.0
+        },
+        {
+            "active": false,
+            "customname": false,
+            "customnamevalue": "",
+            "itemDef": 0,
+            "keychain": {
+                "paintkit": 0,
+                "s": -1,
+                "vec": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                }
+            },
+            "oldKit": 0,
+            "paintKit": 0,
             "pearlescent": 0,
             "seed": 0,
             "stattrak": false,
@@ -7399,8 +7399,353 @@
                     "z": 0.0
                 }
             },
-            "oldKit": 1,
-            "paintKit": 1013,
+            "oldKit": 0,
+            "paintKit": 128,
+            "pearlescent": 0,
+            "seed": 0,
+            "stattrak": false,
+            "stattrakvalue": 0,
+            "stickers": [
+                {
+                    "paintkit": 0,
+                    "s": -1,
+                    "vec": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "paintkit": 0,
+                    "s": -1,
+                    "vec": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "paintkit": 0,
+                    "s": -1,
+                    "vec": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "paintkit": 0,
+                    "s": -1,
+                    "vec": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "paintkit": 0,
+                    "s": -1,
+                    "vec": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                }
+            ],
+            "wear": 0.0
+        },
+        {
+            "active": false,
+            "customname": false,
+            "customnamevalue": "",
+            "itemDef": 0,
+            "keychain": {
+                "paintkit": 0,
+                "s": -1,
+                "vec": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                }
+            },
+            "oldKit": 0,
+            "paintKit": 0,
+            "pearlescent": 0,
+            "seed": 0,
+            "stattrak": false,
+            "stattrakvalue": 0,
+            "stickers": [
+                {
+                    "paintkit": 0,
+                    "s": -1,
+                    "vec": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "paintkit": 0,
+                    "s": -1,
+                    "vec": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "paintkit": 0,
+                    "s": -1,
+                    "vec": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "paintkit": 0,
+                    "s": -1,
+                    "vec": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "paintkit": 0,
+                    "s": -1,
+                    "vec": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                }
+            ],
+            "wear": 0.0
+        },
+        {
+            "active": false,
+            "customname": false,
+            "customnamevalue": "",
+            "itemDef": 0,
+            "keychain": {
+                "paintkit": 0,
+                "s": -1,
+                "vec": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                }
+            },
+            "oldKit": 0,
+            "paintKit": 0,
+            "pearlescent": 0,
+            "seed": 0,
+            "stattrak": false,
+            "stattrakvalue": 0,
+            "stickers": [
+                {
+                    "paintkit": 0,
+                    "s": -1,
+                    "vec": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "paintkit": 0,
+                    "s": -1,
+                    "vec": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "paintkit": 0,
+                    "s": -1,
+                    "vec": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "paintkit": 0,
+                    "s": -1,
+                    "vec": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "paintkit": 0,
+                    "s": -1,
+                    "vec": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                }
+            ],
+            "wear": 0.0
+        },
+        {
+            "active": false,
+            "customname": false,
+            "customnamevalue": "",
+            "itemDef": 0,
+            "keychain": {
+                "paintkit": 0,
+                "s": -1,
+                "vec": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                }
+            },
+            "oldKit": 0,
+            "paintKit": 0,
+            "pearlescent": 0,
+            "seed": 0,
+            "stattrak": false,
+            "stattrakvalue": 0,
+            "stickers": [
+                {
+                    "paintkit": 0,
+                    "s": -1,
+                    "vec": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "paintkit": 0,
+                    "s": -1,
+                    "vec": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "paintkit": 0,
+                    "s": -1,
+                    "vec": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "paintkit": 0,
+                    "s": -1,
+                    "vec": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "paintkit": 0,
+                    "s": -1,
+                    "vec": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                }
+            ],
+            "wear": 0.0
+        },
+        {
+            "active": false,
+            "customname": false,
+            "customnamevalue": "",
+            "itemDef": 0,
+            "keychain": {
+                "paintkit": 0,
+                "s": -1,
+                "vec": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                }
+            },
+            "oldKit": 0,
+            "paintKit": 0,
+            "pearlescent": 0,
+            "seed": 0,
+            "stattrak": false,
+            "stattrakvalue": 0,
+            "stickers": [
+                {
+                    "paintkit": 0,
+                    "s": -1,
+                    "vec": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "paintkit": 0,
+                    "s": -1,
+                    "vec": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "paintkit": 0,
+                    "s": -1,
+                    "vec": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "paintkit": 0,
+                    "s": -1,
+                    "vec": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "paintkit": 0,
+                    "s": -1,
+                    "vec": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                }
+            ],
+            "wear": 0.0
+        },
+        {
+            "active": false,
+            "customname": false,
+            "customnamevalue": "",
+            "itemDef": 0,
+            "keychain": {
+                "paintkit": 0,
+                "s": -1,
+                "vec": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                }
+            },
+            "oldKit": 0,
+            "paintKit": 0,
             "pearlescent": 0,
             "seed": 0,
             "stattrak": false,
@@ -8769,7 +9114,7 @@
             "active": true,
             "customname": false,
             "customnamevalue": "Iniuria",
-            "itemDef": 60,
+            "itemDef": 516,
             "keychain": {
                 "paintkit": 0,
                 "s": 0,
@@ -8779,214 +9124,7 @@
                     "z": 0.0
                 }
             },
-            "oldKit": 1,
-            "paintKit": 644,
-            "pearlescent": 0,
-            "seed": 0,
-            "stattrak": false,
-            "stattrakvalue": 0,
-            "stickers": [
-                {
-                    "paintkit": 0,
-                    "s": -1,
-                    "vec": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0
-                    }
-                },
-                {
-                    "paintkit": 0,
-                    "s": -1,
-                    "vec": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0
-                    }
-                },
-                {
-                    "paintkit": 0,
-                    "s": -1,
-                    "vec": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0
-                    }
-                },
-                {
-                    "paintkit": 0,
-                    "s": -1,
-                    "vec": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0
-                    }
-                },
-                {
-                    "paintkit": 0,
-                    "s": -1,
-                    "vec": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0
-                    }
-                }
-            ],
-            "wear": 0.0
-        },
-        {
-            "active": true,
-            "customname": false,
-            "customnamevalue": "Iniuria",
-            "itemDef": 61,
-            "keychain": {
-                "paintkit": 0,
-                "s": 0,
-                "vec": {
-                    "x": 0.0,
-                    "y": 0.0,
-                    "z": 0.0
-                }
-            },
-            "oldKit": 1,
-            "paintKit": 1142,
-            "pearlescent": 0,
-            "seed": 0,
-            "stattrak": false,
-            "stattrakvalue": 0,
-            "stickers": [
-                {
-                    "paintkit": 0,
-                    "s": -1,
-                    "vec": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0
-                    }
-                },
-                {
-                    "paintkit": 0,
-                    "s": -1,
-                    "vec": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0
-                    }
-                },
-                {
-                    "paintkit": 0,
-                    "s": -1,
-                    "vec": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0
-                    }
-                },
-                {
-                    "paintkit": 0,
-                    "s": -1,
-                    "vec": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0
-                    }
-                },
-                {
-                    "paintkit": 0,
-                    "s": -1,
-                    "vec": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0
-                    }
-                }
-            ],
-            "wear": 0.0
-        },
-        {
-            "active": false,
-            "customname": false,
-            "customnamevalue": "",
-            "itemDef": 0,
-            "keychain": {
-                "paintkit": 0,
-                "s": -1,
-                "vec": {
-                    "x": 0.0,
-                    "y": 0.0,
-                    "z": 0.0
-                }
-            },
-            "oldKit": 0,
-            "paintKit": 0,
-            "pearlescent": 0,
-            "seed": 0,
-            "stattrak": false,
-            "stattrakvalue": 0,
-            "stickers": [
-                {
-                    "paintkit": 0,
-                    "s": -1,
-                    "vec": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0
-                    }
-                },
-                {
-                    "paintkit": 0,
-                    "s": -1,
-                    "vec": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0
-                    }
-                },
-                {
-                    "paintkit": 0,
-                    "s": -1,
-                    "vec": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0
-                    }
-                },
-                {
-                    "paintkit": 0,
-                    "s": -1,
-                    "vec": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0
-                    }
-                },
-                {
-                    "paintkit": 0,
-                    "s": -1,
-                    "vec": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0
-                    }
-                }
-            ],
-            "wear": 0.0
-        },
-        {
-            "active": false,
-            "customname": false,
-            "customnamevalue": "",
-            "itemDef": 0,
-            "keychain": {
-                "paintkit": 0,
-                "s": -1,
-                "vec": {
-                    "x": 0.0,
-                    "y": 0.0,
-                    "z": 0.0
-                }
-            },
-            "oldKit": 0,
+            "oldKit": -1,
             "paintKit": 0,
             "pearlescent": 0,
             "seed": 0,
@@ -9045,76 +9183,7 @@
             "active": true,
             "customname": false,
             "customnamevalue": "Iniuria",
-            "itemDef": 64,
-            "keychain": {
-                "paintkit": 0,
-                "s": 0,
-                "vec": {
-                    "x": 0.0,
-                    "y": 0.0,
-                    "z": 0.0
-                }
-            },
-            "oldKit": 1,
-            "paintKit": 683,
-            "pearlescent": 0,
-            "seed": 0,
-            "stattrak": false,
-            "stattrakvalue": 0,
-            "stickers": [
-                {
-                    "paintkit": 0,
-                    "s": -1,
-                    "vec": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0
-                    }
-                },
-                {
-                    "paintkit": 0,
-                    "s": -1,
-                    "vec": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0
-                    }
-                },
-                {
-                    "paintkit": 0,
-                    "s": -1,
-                    "vec": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0
-                    }
-                },
-                {
-                    "paintkit": 0,
-                    "s": -1,
-                    "vec": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0
-                    }
-                },
-                {
-                    "paintkit": 0,
-                    "s": -1,
-                    "vec": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0
-                    }
-                }
-            ],
-            "wear": 0.0
-        },
-        {
-            "active": true,
-            "customname": false,
-            "customnamevalue": "Iniuria",
-            "itemDef": 509,
+            "itemDef": 5031,
             "keychain": {
                 "paintkit": 0,
                 "s": 0,
@@ -9125,76 +9194,7 @@
                 }
             },
             "oldKit": 0,
-            "paintKit": 418,
-            "pearlescent": 0,
-            "seed": 0,
-            "stattrak": false,
-            "stattrakvalue": 0,
-            "stickers": [
-                {
-                    "paintkit": 0,
-                    "s": -1,
-                    "vec": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0
-                    }
-                },
-                {
-                    "paintkit": 0,
-                    "s": -1,
-                    "vec": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0
-                    }
-                },
-                {
-                    "paintkit": 0,
-                    "s": -1,
-                    "vec": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0
-                    }
-                },
-                {
-                    "paintkit": 0,
-                    "s": -1,
-                    "vec": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0
-                    }
-                },
-                {
-                    "paintkit": 0,
-                    "s": -1,
-                    "vec": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0
-                    }
-                }
-            ],
-            "wear": 0.0
-        },
-        {
-            "active": true,
-            "customname": false,
-            "customnamevalue": "Iniuria",
-            "itemDef": 5030,
-            "keychain": {
-                "paintkit": 0,
-                "s": 0,
-                "vec": {
-                    "x": 0.0,
-                    "y": 0.0,
-                    "z": 0.0
-                }
-            },
-            "oldKit": 0,
-            "paintKit": 10037,
+            "paintKit": 10072,
             "pearlescent": 0,
             "seed": 0,
             "stattrak": false,
