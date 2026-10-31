@@ -1,5 +1,11 @@
 {
     "Aimbot": {
+        "ACCELERATION": {
+            "value": 0.1
+        },
+        "ACTIVETIME": {
+            "value": 0.0
+        },
         "AK-47": {
             "AutoShoot": {
                 "value": false
@@ -21,7 +27,10 @@
                 "value": 0.0
             },
             "BacktrackTime": {
-                "value": 200.0
+                "value": 150.0
+            },
+            "ContinuationWarm": {
+                "value": 0.0
             },
             "Damage": {
                 "value": 0.0
@@ -52,7 +61,7 @@
                 ]
             },
             "HitboxPriority": {
-                "value": 10
+                "value": 0
             },
             "IgnoreJump": {
                 "value": false
@@ -68,8 +77,8 @@
             "Multipoint": {
                 "value": false
             },
-            "NonSticky": {
-                "value": true
+            "NonSticky2": {
+                "value": false
             },
             "OneBulletAim": {
                 "value": false
@@ -77,25 +86,46 @@
             "OverTime": {
                 "value": 0.0
             },
+            "PathMode": {
+                "value": 0
+            },
+            "PathOffsets": {
+                "values": []
+            },
+            "PathSimplify": {
+                "value": 0.0
+            },
             "RandomCurve": {
                 "value": false
             },
+            "RcsBullets": {
+                "value": 0.0
+            },
             "RcsMode": {
                 "value": 1
+            },
+            "RcsReactionDelay": {
+                "value": 0.0
+            },
+            "RcsSmooth": {
+                "value": 0.0
             },
             "ScaleHead": {
                 "value": 0.0
             },
             "ScalePitch": {
-                "value": 0.0
+                "value": 65.0
             },
             "ScaleYaw": {
-                "value": 0.0
+                "value": 100.0
             },
             "Seed": {
                 "key": 0,
                 "keymode": 0,
-                "value": false
+                "value": true
+            },
+            "SeedConditions": {
+                "values": []
             },
             "SmokeCheck": {
                 "value": false
@@ -113,6 +143,9 @@
                 "value": 0.0
             },
             "Time": {
+                "value": 0.0
+            },
+            "VisibleReactionTime": {
                 "value": 0.0
             }
         },
@@ -137,7 +170,10 @@
                 "value": 0.0
             },
             "BacktrackTime": {
-                "value": 200.0
+                "value": 150.0
+            },
+            "ContinuationWarm": {
+                "value": 0.0
             },
             "Damage": {
                 "value": 0.0
@@ -168,7 +204,7 @@
                 ]
             },
             "HitboxPriority": {
-                "value": 10
+                "value": 0
             },
             "IgnoreJump": {
                 "value": false
@@ -184,8 +220,8 @@
             "Multipoint": {
                 "value": false
             },
-            "NonSticky": {
-                "value": true
+            "NonSticky2": {
+                "value": false
             },
             "OneBulletAim": {
                 "value": false
@@ -193,25 +229,46 @@
             "OverTime": {
                 "value": 0.0
             },
+            "PathMode": {
+                "value": 0
+            },
+            "PathOffsets": {
+                "values": []
+            },
+            "PathSimplify": {
+                "value": 0.0
+            },
             "RandomCurve": {
                 "value": false
             },
+            "RcsBullets": {
+                "value": 0.0
+            },
             "RcsMode": {
                 "value": 1
+            },
+            "RcsReactionDelay": {
+                "value": 0.0
+            },
+            "RcsSmooth": {
+                "value": 0.0
             },
             "ScaleHead": {
                 "value": 0.0
             },
             "ScalePitch": {
-                "value": 0.0
+                "value": 65.0
             },
             "ScaleYaw": {
-                "value": 0.0
+                "value": 100.0
             },
             "Seed": {
                 "key": 0,
                 "keymode": 0,
-                "value": false
+                "value": true
+            },
+            "SeedConditions": {
+                "values": []
             },
             "SmokeCheck": {
                 "value": false
@@ -229,6 +286,9 @@
                 "value": 0.0
             },
             "Time": {
+                "value": 0.0
+            },
+            "VisibleReactionTime": {
                 "value": 0.0
             }
         },
@@ -253,7 +313,10 @@
                 "value": 0.0
             },
             "BacktrackTime": {
-                "value": 200.0
+                "value": 150.0
+            },
+            "ContinuationWarm": {
+                "value": 0.0
             },
             "Damage": {
                 "value": 0.0
@@ -302,8 +365,8 @@
             "Multipoint": {
                 "value": false
             },
-            "NonSticky": {
-                "value": true
+            "NonSticky2": {
+                "value": false
             },
             "OneBulletAim": {
                 "value": true
@@ -311,11 +374,29 @@
             "OverTime": {
                 "value": 0.0
             },
+            "PathMode": {
+                "value": 0
+            },
+            "PathOffsets": {
+                "values": []
+            },
+            "PathSimplify": {
+                "value": 0.0
+            },
             "RandomCurve": {
                 "value": false
             },
+            "RcsBullets": {
+                "value": 0.0
+            },
             "RcsMode": {
                 "value": 0
+            },
+            "RcsReactionDelay": {
+                "value": 0.0
+            },
+            "RcsSmooth": {
+                "value": 0.0
             },
             "ScaleHead": {
                 "value": 0.0
@@ -329,7 +410,10 @@
             "Seed": {
                 "key": 0,
                 "keymode": 0,
-                "value": false
+                "value": true
+            },
+            "SeedConditions": {
+                "values": []
             },
             "SmokeCheck": {
                 "value": false
@@ -347,6 +431,9 @@
                 "value": 0.0
             },
             "Time": {
+                "value": 0.0
+            },
+            "VisibleReactionTime": {
                 "value": 0.0
             }
         },
@@ -371,7 +458,10 @@
                 "value": 0.0
             },
             "BacktrackTime": {
-                "value": 200.0
+                "value": 150.0
+            },
+            "ContinuationWarm": {
+                "value": 0.0
             },
             "Damage": {
                 "value": 0.0
@@ -418,8 +508,8 @@
             "Multipoint": {
                 "value": false
             },
-            "NonSticky": {
-                "value": true
+            "NonSticky2": {
+                "value": false
             },
             "OneBulletAim": {
                 "value": false
@@ -427,11 +517,29 @@
             "OverTime": {
                 "value": 0.0
             },
+            "PathMode": {
+                "value": 0
+            },
+            "PathOffsets": {
+                "values": []
+            },
+            "PathSimplify": {
+                "value": 0.0
+            },
             "RandomCurve": {
                 "value": false
             },
+            "RcsBullets": {
+                "value": 0.0
+            },
             "RcsMode": {
                 "value": 1
+            },
+            "RcsReactionDelay": {
+                "value": 0.0
+            },
+            "RcsSmooth": {
+                "value": 0.0
             },
             "ScaleHead": {
                 "value": 0.0
@@ -445,7 +553,10 @@
             "Seed": {
                 "key": 0,
                 "keymode": 0,
-                "value": false
+                "value": true
+            },
+            "SeedConditions": {
+                "values": []
             },
             "SmokeCheck": {
                 "value": false
@@ -463,6 +574,9 @@
                 "value": 0.0
             },
             "Time": {
+                "value": 0.0
+            },
+            "VisibleReactionTime": {
                 "value": 0.0
             }
         },
@@ -487,7 +601,10 @@
                 "value": 0.0
             },
             "BacktrackTime": {
-                "value": 200.0
+                "value": 150.0
+            },
+            "ContinuationWarm": {
+                "value": 0.0
             },
             "Damage": {
                 "value": 0.0
@@ -502,16 +619,22 @@
                 "value": true
             },
             "Fov": {
-                "value": 5.0
+                "value": 0.0
             },
             "FriendlyFire": {
                 "value": false
             },
             "HitChance": {
-                "value": 50.0
+                "value": 0.0
             },
             "HitboxList": {
-                "values": []
+                "values": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4
+                ]
             },
             "HitboxPriority": {
                 "value": 0
@@ -528,10 +651,10 @@
                 "value": 0.0
             },
             "Multipoint": {
-                "value": false
-            },
-            "NonSticky": {
                 "value": true
+            },
+            "NonSticky2": {
+                "value": false
             },
             "OneBulletAim": {
                 "value": false
@@ -539,14 +662,32 @@
             "OverTime": {
                 "value": 0.0
             },
+            "PathMode": {
+                "value": 0
+            },
+            "PathOffsets": {
+                "values": []
+            },
+            "PathSimplify": {
+                "value": 0.0
+            },
             "RandomCurve": {
                 "value": false
             },
+            "RcsBullets": {
+                "value": 0.0
+            },
             "RcsMode": {
-                "value": 1
+                "value": 0
+            },
+            "RcsReactionDelay": {
+                "value": 0.0
+            },
+            "RcsSmooth": {
+                "value": 0.0
             },
             "ScaleHead": {
-                "value": 0.0
+                "value": 100.0
             },
             "ScalePitch": {
                 "value": 100.0
@@ -557,7 +698,10 @@
             "Seed": {
                 "key": 0,
                 "keymode": 0,
-                "value": false
+                "value": true
+            },
+            "SeedConditions": {
+                "values": []
             },
             "SmokeCheck": {
                 "value": false
@@ -575,6 +719,9 @@
                 "value": 0.0
             },
             "Time": {
+                "value": 0.0
+            },
+            "VisibleReactionTime": {
                 "value": 0.0
             }
         },
@@ -599,7 +746,10 @@
                 "value": 0.0
             },
             "BacktrackTime": {
-                "value": 200.0
+                "value": 150.0
+            },
+            "ContinuationWarm": {
+                "value": 0.0
             },
             "Damage": {
                 "value": 0.0
@@ -633,7 +783,7 @@
                 "value": 0
             },
             "IgnoreJump": {
-                "value": true
+                "value": false
             },
             "LegitAutowall": {
                 "key": 0,
@@ -646,8 +796,8 @@
             "Multipoint": {
                 "value": false
             },
-            "NonSticky": {
-                "value": true
+            "NonSticky2": {
+                "value": false
             },
             "OneBulletAim": {
                 "value": true
@@ -655,11 +805,29 @@
             "OverTime": {
                 "value": 0.0
             },
+            "PathMode": {
+                "value": 0
+            },
+            "PathOffsets": {
+                "values": []
+            },
+            "PathSimplify": {
+                "value": 0.0
+            },
             "RandomCurve": {
                 "value": false
             },
+            "RcsBullets": {
+                "value": 0.0
+            },
             "RcsMode": {
                 "value": 1
+            },
+            "RcsReactionDelay": {
+                "value": 0.0
+            },
+            "RcsSmooth": {
+                "value": 0.0
             },
             "ScaleHead": {
                 "value": 0.0
@@ -673,7 +841,10 @@
             "Seed": {
                 "key": 0,
                 "keymode": 0,
-                "value": false
+                "value": true
+            },
+            "SeedConditions": {
+                "values": []
             },
             "SmokeCheck": {
                 "value": false
@@ -691,6 +862,9 @@
                 "value": 0.0
             },
             "Time": {
+                "value": 0.0
+            },
+            "VisibleReactionTime": {
                 "value": 0.0
             }
         },
@@ -715,7 +889,10 @@
                 "value": 0.0
             },
             "BacktrackTime": {
-                "value": 200.0
+                "value": 150.0
+            },
+            "ContinuationWarm": {
+                "value": 0.0
             },
             "Damage": {
                 "value": 0.0
@@ -762,20 +939,38 @@
             "Multipoint": {
                 "value": false
             },
-            "NonSticky": {
-                "value": true
+            "NonSticky2": {
+                "value": false
             },
             "OneBulletAim": {
                 "value": true
             },
             "OverTime": {
+                "value": 59.0
+            },
+            "PathMode": {
+                "value": 0
+            },
+            "PathOffsets": {
+                "values": []
+            },
+            "PathSimplify": {
                 "value": 0.0
             },
             "RandomCurve": {
                 "value": false
             },
+            "RcsBullets": {
+                "value": 0.0
+            },
             "RcsMode": {
                 "value": 1
+            },
+            "RcsReactionDelay": {
+                "value": 0.0
+            },
+            "RcsSmooth": {
+                "value": 0.0
             },
             "ScaleHead": {
                 "value": 0.0
@@ -789,24 +984,30 @@
             "Seed": {
                 "key": 0,
                 "keymode": 0,
-                "value": false
+                "value": true
+            },
+            "SeedConditions": {
+                "values": []
             },
             "SmokeCheck": {
                 "value": false
             },
             "Smooth": {
-                "value": 7.5
+                "value": 93.0
             },
             "SmoothMode": {
-                "value": 0
+                "value": 1
             },
             "StandaloneBacktrackTime": {
                 "value": 0.0
             },
             "TargetSwitchTime": {
-                "value": 0.0
+                "value": 55.0
             },
             "Time": {
+                "value": 180.0
+            },
+            "VisibleReactionTime": {
                 "value": 0.0
             }
         },
@@ -831,7 +1032,10 @@
                 "value": 0.0
             },
             "BacktrackTime": {
-                "value": 200.0
+                "value": 150.0
+            },
+            "ContinuationWarm": {
+                "value": 0.0
             },
             "Damage": {
                 "value": 0.0
@@ -862,7 +1066,7 @@
                 ]
             },
             "HitboxPriority": {
-                "value": 10
+                "value": 0
             },
             "IgnoreJump": {
                 "value": false
@@ -878,8 +1082,8 @@
             "Multipoint": {
                 "value": false
             },
-            "NonSticky": {
-                "value": true
+            "NonSticky2": {
+                "value": false
             },
             "OneBulletAim": {
                 "value": false
@@ -887,25 +1091,46 @@
             "OverTime": {
                 "value": 0.0
             },
+            "PathMode": {
+                "value": 0
+            },
+            "PathOffsets": {
+                "values": []
+            },
+            "PathSimplify": {
+                "value": 0.0
+            },
             "RandomCurve": {
                 "value": false
             },
+            "RcsBullets": {
+                "value": 0.0
+            },
             "RcsMode": {
                 "value": 1
+            },
+            "RcsReactionDelay": {
+                "value": 0.0
+            },
+            "RcsSmooth": {
+                "value": 0.0
             },
             "ScaleHead": {
                 "value": 0.0
             },
             "ScalePitch": {
-                "value": 0.0
+                "value": 65.0
             },
             "ScaleYaw": {
-                "value": 0.0
+                "value": 100.0
             },
             "Seed": {
                 "key": 0,
                 "keymode": 0,
-                "value": false
+                "value": true
+            },
+            "SeedConditions": {
+                "values": []
             },
             "SmokeCheck": {
                 "value": false
@@ -923,6 +1148,9 @@
                 "value": 0.0
             },
             "Time": {
+                "value": 0.0
+            },
+            "VisibleReactionTime": {
                 "value": 0.0
             }
         },
@@ -947,7 +1175,10 @@
                 "value": 0.0
             },
             "BacktrackTime": {
-                "value": 200.0
+                "value": 150.0
+            },
+            "ContinuationWarm": {
+                "value": 0.0
             },
             "Damage": {
                 "value": 0.0
@@ -994,20 +1225,38 @@
             "Multipoint": {
                 "value": false
             },
-            "NonSticky": {
-                "value": true
+            "NonSticky2": {
+                "value": false
             },
             "OneBulletAim": {
                 "value": true
             },
             "OverTime": {
+                "value": 59.0
+            },
+            "PathMode": {
+                "value": 0
+            },
+            "PathOffsets": {
+                "values": []
+            },
+            "PathSimplify": {
                 "value": 0.0
             },
             "RandomCurve": {
                 "value": false
             },
+            "RcsBullets": {
+                "value": 0.0
+            },
             "RcsMode": {
                 "value": 1
+            },
+            "RcsReactionDelay": {
+                "value": 0.0
+            },
+            "RcsSmooth": {
+                "value": 0.0
             },
             "ScaleHead": {
                 "value": 0.0
@@ -1021,24 +1270,30 @@
             "Seed": {
                 "key": 0,
                 "keymode": 0,
-                "value": false
+                "value": true
+            },
+            "SeedConditions": {
+                "values": []
             },
             "SmokeCheck": {
                 "value": false
             },
             "Smooth": {
-                "value": 7.5
+                "value": 93.0
             },
             "SmoothMode": {
-                "value": 0
+                "value": 1
             },
             "StandaloneBacktrackTime": {
                 "value": 0.0
             },
             "TargetSwitchTime": {
-                "value": 0.0
+                "value": 55.0
             },
             "Time": {
+                "value": 180.0
+            },
+            "VisibleReactionTime": {
                 "value": 0.0
             }
         },
@@ -1063,7 +1318,10 @@
                 "value": 0.0
             },
             "BacktrackTime": {
-                "value": 200.0
+                "value": 150.0
+            },
+            "ContinuationWarm": {
+                "value": 0.0
             },
             "Damage": {
                 "value": 0.0
@@ -1103,7 +1361,7 @@
                 "value": 10
             },
             "IgnoreJump": {
-                "value": true
+                "value": false
             },
             "LegitAutowall": {
                 "key": 0,
@@ -1116,8 +1374,8 @@
             "Multipoint": {
                 "value": false
             },
-            "NonSticky": {
-                "value": true
+            "NonSticky2": {
+                "value": false
             },
             "OneBulletAim": {
                 "value": false
@@ -1125,11 +1383,29 @@
             "OverTime": {
                 "value": 0.0
             },
+            "PathMode": {
+                "value": 0
+            },
+            "PathOffsets": {
+                "values": []
+            },
+            "PathSimplify": {
+                "value": 0.0
+            },
             "RandomCurve": {
                 "value": false
             },
+            "RcsBullets": {
+                "value": 0.0
+            },
             "RcsMode": {
                 "value": 0
+            },
+            "RcsReactionDelay": {
+                "value": 0.0
+            },
+            "RcsSmooth": {
+                "value": 0.0
             },
             "ScaleHead": {
                 "value": 0.0
@@ -1143,7 +1419,10 @@
             "Seed": {
                 "key": 0,
                 "keymode": 0,
-                "value": false
+                "value": true
+            },
+            "SeedConditions": {
+                "values": []
             },
             "SmokeCheck": {
                 "value": false
@@ -1161,6 +1440,9 @@
                 "value": 0.0
             },
             "Time": {
+                "value": 0.0
+            },
+            "VisibleReactionTime": {
                 "value": 0.0
             }
         },
@@ -1185,7 +1467,10 @@
                 "value": 0.0
             },
             "BacktrackTime": {
-                "value": 200.0
+                "value": 150.0
+            },
+            "ContinuationWarm": {
+                "value": 0.0
             },
             "Damage": {
                 "value": 0.0
@@ -1216,7 +1501,7 @@
                 ]
             },
             "HitboxPriority": {
-                "value": 10
+                "value": 0
             },
             "IgnoreJump": {
                 "value": false
@@ -1232,8 +1517,8 @@
             "Multipoint": {
                 "value": false
             },
-            "NonSticky": {
-                "value": true
+            "NonSticky2": {
+                "value": false
             },
             "OneBulletAim": {
                 "value": false
@@ -1241,25 +1526,46 @@
             "OverTime": {
                 "value": 0.0
             },
+            "PathMode": {
+                "value": 0
+            },
+            "PathOffsets": {
+                "values": []
+            },
+            "PathSimplify": {
+                "value": 0.0
+            },
             "RandomCurve": {
                 "value": false
             },
+            "RcsBullets": {
+                "value": 0.0
+            },
             "RcsMode": {
                 "value": 1
+            },
+            "RcsReactionDelay": {
+                "value": 0.0
+            },
+            "RcsSmooth": {
+                "value": 0.0
             },
             "ScaleHead": {
                 "value": 0.0
             },
             "ScalePitch": {
-                "value": 0.0
+                "value": 65.0
             },
             "ScaleYaw": {
-                "value": 0.0
+                "value": 100.0
             },
             "Seed": {
                 "key": 0,
                 "keymode": 0,
-                "value": false
+                "value": true
+            },
+            "SeedConditions": {
+                "values": []
             },
             "SmokeCheck": {
                 "value": false
@@ -1277,6 +1583,9 @@
                 "value": 0.0
             },
             "Time": {
+                "value": 0.0
+            },
+            "VisibleReactionTime": {
                 "value": 0.0
             }
         },
@@ -1301,7 +1610,10 @@
                 "value": 0.0
             },
             "BacktrackTime": {
-                "value": 200.0
+                "value": 150.0
+            },
+            "ContinuationWarm": {
+                "value": 0.0
             },
             "Damage": {
                 "value": 0.0
@@ -1348,20 +1660,38 @@
             "Multipoint": {
                 "value": false
             },
-            "NonSticky": {
-                "value": true
+            "NonSticky2": {
+                "value": false
             },
             "OneBulletAim": {
                 "value": true
             },
             "OverTime": {
+                "value": 59.0
+            },
+            "PathMode": {
+                "value": 0
+            },
+            "PathOffsets": {
+                "values": []
+            },
+            "PathSimplify": {
                 "value": 0.0
             },
             "RandomCurve": {
                 "value": false
             },
+            "RcsBullets": {
+                "value": 0.0
+            },
             "RcsMode": {
                 "value": 1
+            },
+            "RcsReactionDelay": {
+                "value": 0.0
+            },
+            "RcsSmooth": {
+                "value": 0.0
             },
             "ScaleHead": {
                 "value": 0.0
@@ -1375,24 +1705,30 @@
             "Seed": {
                 "key": 0,
                 "keymode": 0,
-                "value": false
+                "value": true
+            },
+            "SeedConditions": {
+                "values": []
             },
             "SmokeCheck": {
                 "value": false
             },
             "Smooth": {
-                "value": 7.5
+                "value": 93.0
             },
             "SmoothMode": {
-                "value": 0
+                "value": 1
             },
             "StandaloneBacktrackTime": {
                 "value": 0.0
             },
             "TargetSwitchTime": {
-                "value": 0.0
+                "value": 55.0
             },
             "Time": {
+                "value": 180.0
+            },
+            "VisibleReactionTime": {
                 "value": 0.0
             }
         },
@@ -1406,7 +1742,7 @@
             "Autowall": {
                 "key": 0,
                 "keymode": 0,
-                "value": true
+                "value": false
             },
             "AutowallOverwrite": {
                 "key": 0,
@@ -1417,7 +1753,10 @@
                 "value": 0.0
             },
             "BacktrackTime": {
-                "value": 200.0
+                "value": 0.0
+            },
+            "ContinuationWarm": {
+                "value": 0.0
             },
             "Damage": {
                 "value": 0.0
@@ -1432,7 +1771,7 @@
                 "value": false
             },
             "Fov": {
-                "value": 5.0
+                "value": 0.0
             },
             "FriendlyFire": {
                 "value": false
@@ -1441,9 +1780,7 @@
                 "value": 0.0
             },
             "HitboxList": {
-                "values": [
-                    0
-                ]
+                "values": []
             },
             "HitboxPriority": {
                 "value": 0
@@ -1462,8 +1799,8 @@
             "Multipoint": {
                 "value": false
             },
-            "NonSticky": {
-                "value": true
+            "NonSticky2": {
+                "value": false
             },
             "OneBulletAim": {
                 "value": false
@@ -1471,11 +1808,29 @@
             "OverTime": {
                 "value": 0.0
             },
+            "PathMode": {
+                "value": 0
+            },
+            "PathOffsets": {
+                "values": []
+            },
+            "PathSimplify": {
+                "value": 0.0
+            },
             "RandomCurve": {
                 "value": false
             },
+            "RcsBullets": {
+                "value": 0.0
+            },
             "RcsMode": {
                 "value": 0
+            },
+            "RcsReactionDelay": {
+                "value": 0.0
+            },
+            "RcsSmooth": {
+                "value": 0.0
             },
             "ScaleHead": {
                 "value": 0.0
@@ -1490,6 +1845,9 @@
                 "key": 0,
                 "keymode": 0,
                 "value": false
+            },
+            "SeedConditions": {
+                "values": []
             },
             "SmokeCheck": {
                 "value": false
@@ -1508,11 +1866,31 @@
             },
             "Time": {
                 "value": 0.0
+            },
+            "VisibleReactionTime": {
+                "value": 0.0
             }
         },
+        "Humanize": {
+            "value": true
+        },
+        "INERTIA_BASE_BIAS": {
+            "value": 0.2
+        },
+        "INERTIA_DECAY_FACTOR": {
+            "value": 0.0
+        },
+        "INERTIA_MAX_BIAS": {
+            "value": 0.25
+        },
+        "INERTIA_MIN_BIAS": {
+            "value": 0.0
+        },
+        "INERTIA_THRESHOLD": {
+            "value": 0.45
+        },
         "Key": {
-            "key": 1,
-            "keymode": 0
+            "key": 1
         },
         "M249": {
             "AutoShoot": {
@@ -1535,7 +1913,10 @@
                 "value": 0.0
             },
             "BacktrackTime": {
-                "value": 200.0
+                "value": 150.0
+            },
+            "ContinuationWarm": {
+                "value": 0.0
             },
             "Damage": {
                 "value": 0.0
@@ -1575,7 +1956,7 @@
                 "value": 10
             },
             "IgnoreJump": {
-                "value": true
+                "value": false
             },
             "LegitAutowall": {
                 "key": 0,
@@ -1588,8 +1969,8 @@
             "Multipoint": {
                 "value": false
             },
-            "NonSticky": {
-                "value": true
+            "NonSticky2": {
+                "value": false
             },
             "OneBulletAim": {
                 "value": false
@@ -1597,11 +1978,29 @@
             "OverTime": {
                 "value": 0.0
             },
+            "PathMode": {
+                "value": 0
+            },
+            "PathOffsets": {
+                "values": []
+            },
+            "PathSimplify": {
+                "value": 0.0
+            },
             "RandomCurve": {
                 "value": false
             },
+            "RcsBullets": {
+                "value": 0.0
+            },
             "RcsMode": {
                 "value": 1
+            },
+            "RcsReactionDelay": {
+                "value": 0.0
+            },
+            "RcsSmooth": {
+                "value": 0.0
             },
             "ScaleHead": {
                 "value": 0.0
@@ -1615,7 +2014,10 @@
             "Seed": {
                 "key": 0,
                 "keymode": 0,
-                "value": false
+                "value": true
+            },
+            "SeedConditions": {
+                "values": []
             },
             "SmokeCheck": {
                 "value": false
@@ -1633,6 +2035,9 @@
                 "value": 0.0
             },
             "Time": {
+                "value": 0.0
+            },
+            "VisibleReactionTime": {
                 "value": 0.0
             }
         },
@@ -1657,7 +2062,10 @@
                 "value": 0.0
             },
             "BacktrackTime": {
-                "value": 200.0
+                "value": 150.0
+            },
+            "ContinuationWarm": {
+                "value": 0.0
             },
             "Damage": {
                 "value": 0.0
@@ -1688,7 +2096,7 @@
                 ]
             },
             "HitboxPriority": {
-                "value": 10
+                "value": 0
             },
             "IgnoreJump": {
                 "value": false
@@ -1704,8 +2112,8 @@
             "Multipoint": {
                 "value": false
             },
-            "NonSticky": {
-                "value": true
+            "NonSticky2": {
+                "value": false
             },
             "OneBulletAim": {
                 "value": false
@@ -1713,25 +2121,46 @@
             "OverTime": {
                 "value": 0.0
             },
+            "PathMode": {
+                "value": 0
+            },
+            "PathOffsets": {
+                "values": []
+            },
+            "PathSimplify": {
+                "value": 0.0
+            },
             "RandomCurve": {
                 "value": false
             },
+            "RcsBullets": {
+                "value": 0.0
+            },
             "RcsMode": {
                 "value": 1
+            },
+            "RcsReactionDelay": {
+                "value": 0.0
+            },
+            "RcsSmooth": {
+                "value": 0.0
             },
             "ScaleHead": {
                 "value": 0.0
             },
             "ScalePitch": {
-                "value": 0.0
+                "value": 65.0
             },
             "ScaleYaw": {
-                "value": 0.0
+                "value": 100.0
             },
             "Seed": {
                 "key": 0,
                 "keymode": 0,
-                "value": false
+                "value": true
+            },
+            "SeedConditions": {
+                "values": []
             },
             "SmokeCheck": {
                 "value": false
@@ -1749,6 +2178,9 @@
                 "value": 0.0
             },
             "Time": {
+                "value": 0.0
+            },
+            "VisibleReactionTime": {
                 "value": 0.0
             }
         },
@@ -1773,7 +2205,10 @@
                 "value": 0.0
             },
             "BacktrackTime": {
-                "value": 200.0
+                "value": 150.0
+            },
+            "ContinuationWarm": {
+                "value": 0.0
             },
             "Damage": {
                 "value": 0.0
@@ -1804,7 +2239,7 @@
                 ]
             },
             "HitboxPriority": {
-                "value": 10
+                "value": 0
             },
             "IgnoreJump": {
                 "value": false
@@ -1820,8 +2255,8 @@
             "Multipoint": {
                 "value": false
             },
-            "NonSticky": {
-                "value": true
+            "NonSticky2": {
+                "value": false
             },
             "OneBulletAim": {
                 "value": false
@@ -1829,25 +2264,46 @@
             "OverTime": {
                 "value": 0.0
             },
+            "PathMode": {
+                "value": 0
+            },
+            "PathOffsets": {
+                "values": []
+            },
+            "PathSimplify": {
+                "value": 0.0
+            },
             "RandomCurve": {
                 "value": false
             },
+            "RcsBullets": {
+                "value": 0.0
+            },
             "RcsMode": {
                 "value": 1
+            },
+            "RcsReactionDelay": {
+                "value": 0.0
+            },
+            "RcsSmooth": {
+                "value": 0.0
             },
             "ScaleHead": {
                 "value": 0.0
             },
             "ScalePitch": {
-                "value": 0.0
+                "value": 65.0
             },
             "ScaleYaw": {
-                "value": 0.0
+                "value": 100.0
             },
             "Seed": {
                 "key": 0,
                 "keymode": 0,
-                "value": false
+                "value": true
+            },
+            "SeedConditions": {
+                "values": []
             },
             "SmokeCheck": {
                 "value": false
@@ -1865,6 +2321,9 @@
                 "value": 0.0
             },
             "Time": {
+                "value": 0.0
+            },
+            "VisibleReactionTime": {
                 "value": 0.0
             }
         },
@@ -1889,7 +2348,10 @@
                 "value": 0.0
             },
             "BacktrackTime": {
-                "value": 200.0
+                "value": 150.0
+            },
+            "ContinuationWarm": {
+                "value": 0.0
             },
             "Damage": {
                 "value": 0.0
@@ -1922,7 +2384,7 @@
                 ]
             },
             "HitboxPriority": {
-                "value": 10
+                "value": 0
             },
             "IgnoreJump": {
                 "value": false
@@ -1938,8 +2400,8 @@
             "Multipoint": {
                 "value": false
             },
-            "NonSticky": {
-                "value": true
+            "NonSticky2": {
+                "value": false
             },
             "OneBulletAim": {
                 "value": false
@@ -1947,11 +2409,29 @@
             "OverTime": {
                 "value": 0.0
             },
+            "PathMode": {
+                "value": 0
+            },
+            "PathOffsets": {
+                "values": []
+            },
+            "PathSimplify": {
+                "value": 0.0
+            },
             "RandomCurve": {
                 "value": false
             },
+            "RcsBullets": {
+                "value": 0.0
+            },
             "RcsMode": {
                 "value": 1
+            },
+            "RcsReactionDelay": {
+                "value": 0.0
+            },
+            "RcsSmooth": {
+                "value": 0.0
             },
             "ScaleHead": {
                 "value": 0.0
@@ -1965,7 +2445,10 @@
             "Seed": {
                 "key": 0,
                 "keymode": 0,
-                "value": false
+                "value": true
+            },
+            "SeedConditions": {
+                "values": []
             },
             "SmokeCheck": {
                 "value": false
@@ -1983,6 +2466,9 @@
                 "value": 0.0
             },
             "Time": {
+                "value": 0.0
+            },
+            "VisibleReactionTime": {
                 "value": 0.0
             }
         },
@@ -2007,7 +2493,10 @@
                 "value": 0.0
             },
             "BacktrackTime": {
-                "value": 200.0
+                "value": 150.0
+            },
+            "ContinuationWarm": {
+                "value": 0.0
             },
             "Damage": {
                 "value": 0.0
@@ -2047,7 +2536,7 @@
                 "value": 10
             },
             "IgnoreJump": {
-                "value": true
+                "value": false
             },
             "LegitAutowall": {
                 "key": 0,
@@ -2060,8 +2549,8 @@
             "Multipoint": {
                 "value": false
             },
-            "NonSticky": {
-                "value": true
+            "NonSticky2": {
+                "value": false
             },
             "OneBulletAim": {
                 "value": true
@@ -2069,11 +2558,29 @@
             "OverTime": {
                 "value": 0.0
             },
+            "PathMode": {
+                "value": 0
+            },
+            "PathOffsets": {
+                "values": []
+            },
+            "PathSimplify": {
+                "value": 0.0
+            },
             "RandomCurve": {
                 "value": false
             },
+            "RcsBullets": {
+                "value": 0.0
+            },
             "RcsMode": {
                 "value": 0
+            },
+            "RcsReactionDelay": {
+                "value": 0.0
+            },
+            "RcsSmooth": {
+                "value": 0.0
             },
             "ScaleHead": {
                 "value": 0.0
@@ -2087,7 +2594,10 @@
             "Seed": {
                 "key": 0,
                 "keymode": 0,
-                "value": false
+                "value": true
+            },
+            "SeedConditions": {
+                "values": []
             },
             "SmokeCheck": {
                 "value": false
@@ -2105,6 +2615,9 @@
                 "value": 0.0
             },
             "Time": {
+                "value": 0.0
+            },
+            "VisibleReactionTime": {
                 "value": 0.0
             }
         },
@@ -2129,7 +2642,10 @@
                 "value": 0.0
             },
             "BacktrackTime": {
-                "value": 200.0
+                "value": 150.0
+            },
+            "ContinuationWarm": {
+                "value": 0.0
             },
             "Damage": {
                 "value": 0.0
@@ -2162,7 +2678,7 @@
                 ]
             },
             "HitboxPriority": {
-                "value": 10
+                "value": 0
             },
             "IgnoreJump": {
                 "value": false
@@ -2178,8 +2694,8 @@
             "Multipoint": {
                 "value": false
             },
-            "NonSticky": {
-                "value": true
+            "NonSticky2": {
+                "value": false
             },
             "OneBulletAim": {
                 "value": false
@@ -2187,11 +2703,29 @@
             "OverTime": {
                 "value": 0.0
             },
+            "PathMode": {
+                "value": 0
+            },
+            "PathOffsets": {
+                "values": []
+            },
+            "PathSimplify": {
+                "value": 0.0
+            },
             "RandomCurve": {
                 "value": false
             },
+            "RcsBullets": {
+                "value": 0.0
+            },
             "RcsMode": {
                 "value": 1
+            },
+            "RcsReactionDelay": {
+                "value": 0.0
+            },
+            "RcsSmooth": {
+                "value": 0.0
             },
             "ScaleHead": {
                 "value": 0.0
@@ -2205,7 +2739,10 @@
             "Seed": {
                 "key": 0,
                 "keymode": 0,
-                "value": false
+                "value": true
+            },
+            "SeedConditions": {
+                "values": []
             },
             "SmokeCheck": {
                 "value": false
@@ -2223,6 +2760,9 @@
                 "value": 0.0
             },
             "Time": {
+                "value": 0.0
+            },
+            "VisibleReactionTime": {
                 "value": 0.0
             }
         },
@@ -2247,7 +2787,10 @@
                 "value": 0.0
             },
             "BacktrackTime": {
-                "value": 200.0
+                "value": 150.0
+            },
+            "ContinuationWarm": {
+                "value": 0.0
             },
             "Damage": {
                 "value": 0.0
@@ -2280,7 +2823,7 @@
                 ]
             },
             "HitboxPriority": {
-                "value": 10
+                "value": 0
             },
             "IgnoreJump": {
                 "value": false
@@ -2296,8 +2839,8 @@
             "Multipoint": {
                 "value": false
             },
-            "NonSticky": {
-                "value": true
+            "NonSticky2": {
+                "value": false
             },
             "OneBulletAim": {
                 "value": false
@@ -2305,11 +2848,29 @@
             "OverTime": {
                 "value": 0.0
             },
+            "PathMode": {
+                "value": 0
+            },
+            "PathOffsets": {
+                "values": []
+            },
+            "PathSimplify": {
+                "value": 0.0
+            },
             "RandomCurve": {
                 "value": false
             },
+            "RcsBullets": {
+                "value": 0.0
+            },
             "RcsMode": {
                 "value": 1
+            },
+            "RcsReactionDelay": {
+                "value": 0.0
+            },
+            "RcsSmooth": {
+                "value": 0.0
             },
             "ScaleHead": {
                 "value": 0.0
@@ -2323,7 +2884,10 @@
             "Seed": {
                 "key": 0,
                 "keymode": 0,
-                "value": false
+                "value": true
+            },
+            "SeedConditions": {
+                "values": []
             },
             "SmokeCheck": {
                 "value": false
@@ -2341,6 +2905,9 @@
                 "value": 0.0
             },
             "Time": {
+                "value": 0.0
+            },
+            "VisibleReactionTime": {
                 "value": 0.0
             }
         },
@@ -2365,7 +2932,10 @@
                 "value": 0.0
             },
             "BacktrackTime": {
-                "value": 200.0
+                "value": 150.0
+            },
+            "ContinuationWarm": {
+                "value": 0.0
             },
             "Damage": {
                 "value": 0.0
@@ -2398,7 +2968,7 @@
                 ]
             },
             "HitboxPriority": {
-                "value": 10
+                "value": 0
             },
             "IgnoreJump": {
                 "value": false
@@ -2414,8 +2984,8 @@
             "Multipoint": {
                 "value": false
             },
-            "NonSticky": {
-                "value": true
+            "NonSticky2": {
+                "value": false
             },
             "OneBulletAim": {
                 "value": false
@@ -2423,11 +2993,29 @@
             "OverTime": {
                 "value": 0.0
             },
+            "PathMode": {
+                "value": 0
+            },
+            "PathOffsets": {
+                "values": []
+            },
+            "PathSimplify": {
+                "value": 0.0
+            },
             "RandomCurve": {
                 "value": false
             },
+            "RcsBullets": {
+                "value": 0.0
+            },
             "RcsMode": {
                 "value": 1
+            },
+            "RcsReactionDelay": {
+                "value": 0.0
+            },
+            "RcsSmooth": {
+                "value": 0.0
             },
             "ScaleHead": {
                 "value": 0.0
@@ -2441,7 +3029,10 @@
             "Seed": {
                 "key": 0,
                 "keymode": 0,
-                "value": false
+                "value": true
+            },
+            "SeedConditions": {
+                "values": []
             },
             "SmokeCheck": {
                 "value": false
@@ -2460,10 +3051,19 @@
             },
             "Time": {
                 "value": 0.0
+            },
+            "VisibleReactionTime": {
+                "value": 0.0
             }
         },
         "Mode": {
             "value": 1
+        },
+        "NOISE_AMPLITUDE": {
+            "value": 0.1
+        },
+        "NOISE_FREQUENCY": {
+            "value": 0.4
         },
         "Negev": {
             "AutoShoot": {
@@ -2486,7 +3086,10 @@
                 "value": 0.0
             },
             "BacktrackTime": {
-                "value": 200.0
+                "value": 150.0
+            },
+            "ContinuationWarm": {
+                "value": 0.0
             },
             "Damage": {
                 "value": 0.0
@@ -2526,7 +3129,7 @@
                 "value": 10
             },
             "IgnoreJump": {
-                "value": true
+                "value": false
             },
             "LegitAutowall": {
                 "key": 0,
@@ -2539,8 +3142,8 @@
             "Multipoint": {
                 "value": false
             },
-            "NonSticky": {
-                "value": true
+            "NonSticky2": {
+                "value": false
             },
             "OneBulletAim": {
                 "value": false
@@ -2548,11 +3151,29 @@
             "OverTime": {
                 "value": 0.0
             },
+            "PathMode": {
+                "value": 0
+            },
+            "PathOffsets": {
+                "values": []
+            },
+            "PathSimplify": {
+                "value": 0.0
+            },
             "RandomCurve": {
                 "value": false
             },
+            "RcsBullets": {
+                "value": 0.0
+            },
             "RcsMode": {
                 "value": 1
+            },
+            "RcsReactionDelay": {
+                "value": 0.0
+            },
+            "RcsSmooth": {
+                "value": 0.0
             },
             "ScaleHead": {
                 "value": 0.0
@@ -2566,7 +3187,10 @@
             "Seed": {
                 "key": 0,
                 "keymode": 0,
-                "value": false
+                "value": true
+            },
+            "SeedConditions": {
+                "values": []
             },
             "SmokeCheck": {
                 "value": false
@@ -2584,6 +3208,9 @@
                 "value": 0.0
             },
             "Time": {
+                "value": 0.0
+            },
+            "VisibleReactionTime": {
                 "value": 0.0
             }
         },
@@ -2608,7 +3235,10 @@
                 "value": 0.0
             },
             "BacktrackTime": {
-                "value": 200.0
+                "value": 150.0
+            },
+            "ContinuationWarm": {
+                "value": 0.0
             },
             "Damage": {
                 "value": 0.0
@@ -2623,7 +3253,7 @@
                 "value": true
             },
             "Fov": {
-                "value": 0.0
+                "value": 5.0
             },
             "FriendlyFire": {
                 "value": false
@@ -2648,7 +3278,7 @@
                 "value": 10
             },
             "IgnoreJump": {
-                "value": true
+                "value": false
             },
             "LegitAutowall": {
                 "key": 0,
@@ -2661,8 +3291,8 @@
             "Multipoint": {
                 "value": false
             },
-            "NonSticky": {
-                "value": true
+            "NonSticky2": {
+                "value": false
             },
             "OneBulletAim": {
                 "value": true
@@ -2670,11 +3300,29 @@
             "OverTime": {
                 "value": 0.0
             },
+            "PathMode": {
+                "value": 0
+            },
+            "PathOffsets": {
+                "values": []
+            },
+            "PathSimplify": {
+                "value": 0.0
+            },
             "RandomCurve": {
                 "value": false
             },
+            "RcsBullets": {
+                "value": 0.0
+            },
             "RcsMode": {
                 "value": 0
+            },
+            "RcsReactionDelay": {
+                "value": 0.0
+            },
+            "RcsSmooth": {
+                "value": 0.0
             },
             "ScaleHead": {
                 "value": 0.0
@@ -2688,13 +3336,16 @@
             "Seed": {
                 "key": 0,
                 "keymode": 0,
-                "value": false
+                "value": true
+            },
+            "SeedConditions": {
+                "values": []
             },
             "SmokeCheck": {
                 "value": false
             },
             "Smooth": {
-                "value": 0.0
+                "value": 30.0
             },
             "SmoothMode": {
                 "value": 0
@@ -2706,6 +3357,9 @@
                 "value": 0.0
             },
             "Time": {
+                "value": 0.0
+            },
+            "VisibleReactionTime": {
                 "value": 0.0
             }
         },
@@ -2730,7 +3384,10 @@
                 "value": 0.0
             },
             "BacktrackTime": {
-                "value": 200.0
+                "value": 150.0
+            },
+            "ContinuationWarm": {
+                "value": 0.0
             },
             "Damage": {
                 "value": 0.0
@@ -2777,20 +3434,38 @@
             "Multipoint": {
                 "value": false
             },
-            "NonSticky": {
-                "value": true
+            "NonSticky2": {
+                "value": false
             },
             "OneBulletAim": {
                 "value": true
             },
             "OverTime": {
+                "value": 59.0
+            },
+            "PathMode": {
+                "value": 0
+            },
+            "PathOffsets": {
+                "values": []
+            },
+            "PathSimplify": {
                 "value": 0.0
             },
             "RandomCurve": {
                 "value": false
             },
+            "RcsBullets": {
+                "value": 0.0
+            },
             "RcsMode": {
                 "value": 1
+            },
+            "RcsReactionDelay": {
+                "value": 0.0
+            },
+            "RcsSmooth": {
+                "value": 0.0
             },
             "ScaleHead": {
                 "value": 0.0
@@ -2804,24 +3479,30 @@
             "Seed": {
                 "key": 0,
                 "keymode": 0,
-                "value": false
+                "value": true
+            },
+            "SeedConditions": {
+                "values": []
             },
             "SmokeCheck": {
                 "value": false
             },
             "Smooth": {
-                "value": 7.5
+                "value": 93.0
             },
             "SmoothMode": {
-                "value": 0
+                "value": 1
             },
             "StandaloneBacktrackTime": {
                 "value": 0.0
             },
             "TargetSwitchTime": {
-                "value": 0.0
+                "value": 55.0
             },
             "Time": {
+                "value": 180.0
+            },
+            "VisibleReactionTime": {
                 "value": 0.0
             }
         },
@@ -2846,7 +3527,10 @@
                 "value": 0.0
             },
             "BacktrackTime": {
-                "value": 200.0
+                "value": 150.0
+            },
+            "ContinuationWarm": {
+                "value": 0.0
             },
             "Damage": {
                 "value": 0.0
@@ -2893,20 +3577,38 @@
             "Multipoint": {
                 "value": false
             },
-            "NonSticky": {
-                "value": true
+            "NonSticky2": {
+                "value": false
             },
             "OneBulletAim": {
                 "value": true
             },
             "OverTime": {
+                "value": 59.0
+            },
+            "PathMode": {
+                "value": 0
+            },
+            "PathOffsets": {
+                "values": []
+            },
+            "PathSimplify": {
                 "value": 0.0
             },
             "RandomCurve": {
                 "value": false
             },
+            "RcsBullets": {
+                "value": 0.0
+            },
             "RcsMode": {
                 "value": 1
+            },
+            "RcsReactionDelay": {
+                "value": 0.0
+            },
+            "RcsSmooth": {
+                "value": 0.0
             },
             "ScaleHead": {
                 "value": 0.0
@@ -2920,24 +3622,30 @@
             "Seed": {
                 "key": 0,
                 "keymode": 0,
-                "value": false
+                "value": true
+            },
+            "SeedConditions": {
+                "values": []
             },
             "SmokeCheck": {
                 "value": false
             },
             "Smooth": {
-                "value": 7.5
+                "value": 93.0
             },
             "SmoothMode": {
-                "value": 0
+                "value": 1
             },
             "StandaloneBacktrackTime": {
                 "value": 0.0
             },
             "TargetSwitchTime": {
-                "value": 0.0
+                "value": 55.0
             },
             "Time": {
+                "value": 180.0
+            },
+            "VisibleReactionTime": {
                 "value": 0.0
             }
         },
@@ -2962,7 +3670,10 @@
                 "value": 0.0
             },
             "BacktrackTime": {
-                "value": 200.0
+                "value": 150.0
+            },
+            "ContinuationWarm": {
+                "value": 0.0
             },
             "Damage": {
                 "value": 0.0
@@ -2995,7 +3706,7 @@
                 ]
             },
             "HitboxPriority": {
-                "value": 10
+                "value": 0
             },
             "IgnoreJump": {
                 "value": false
@@ -3011,8 +3722,8 @@
             "Multipoint": {
                 "value": false
             },
-            "NonSticky": {
-                "value": true
+            "NonSticky2": {
+                "value": false
             },
             "OneBulletAim": {
                 "value": false
@@ -3020,11 +3731,29 @@
             "OverTime": {
                 "value": 0.0
             },
+            "PathMode": {
+                "value": 0
+            },
+            "PathOffsets": {
+                "values": []
+            },
+            "PathSimplify": {
+                "value": 0.0
+            },
             "RandomCurve": {
                 "value": false
             },
+            "RcsBullets": {
+                "value": 0.0
+            },
             "RcsMode": {
                 "value": 1
+            },
+            "RcsReactionDelay": {
+                "value": 0.0
+            },
+            "RcsSmooth": {
+                "value": 0.0
             },
             "ScaleHead": {
                 "value": 0.0
@@ -3038,7 +3767,10 @@
             "Seed": {
                 "key": 0,
                 "keymode": 0,
-                "value": false
+                "value": true
+            },
+            "SeedConditions": {
+                "values": []
             },
             "SmokeCheck": {
                 "value": false
@@ -3056,6 +3788,9 @@
                 "value": 0.0
             },
             "Time": {
+                "value": 0.0
+            },
+            "VisibleReactionTime": {
                 "value": 0.0
             }
         },
@@ -3080,7 +3815,10 @@
                 "value": 0.0
             },
             "BacktrackTime": {
-                "value": 200.0
+                "value": 150.0
+            },
+            "ContinuationWarm": {
+                "value": 0.0
             },
             "Damage": {
                 "value": 0.0
@@ -3113,7 +3851,7 @@
                 ]
             },
             "HitboxPriority": {
-                "value": 10
+                "value": 0
             },
             "IgnoreJump": {
                 "value": false
@@ -3129,8 +3867,8 @@
             "Multipoint": {
                 "value": false
             },
-            "NonSticky": {
-                "value": true
+            "NonSticky2": {
+                "value": false
             },
             "OneBulletAim": {
                 "value": false
@@ -3138,11 +3876,29 @@
             "OverTime": {
                 "value": 0.0
             },
+            "PathMode": {
+                "value": 0
+            },
+            "PathOffsets": {
+                "values": []
+            },
+            "PathSimplify": {
+                "value": 0.0
+            },
             "RandomCurve": {
                 "value": false
             },
+            "RcsBullets": {
+                "value": 0.0
+            },
             "RcsMode": {
                 "value": 1
+            },
+            "RcsReactionDelay": {
+                "value": 0.0
+            },
+            "RcsSmooth": {
+                "value": 0.0
             },
             "ScaleHead": {
                 "value": 0.0
@@ -3156,7 +3912,10 @@
             "Seed": {
                 "key": 0,
                 "keymode": 0,
-                "value": false
+                "value": true
+            },
+            "SeedConditions": {
+                "values": []
             },
             "SmokeCheck": {
                 "value": false
@@ -3175,6 +3934,9 @@
             },
             "Time": {
                 "value": 0.0
+            },
+            "VisibleReactionTime": {
+                "value": 0.0
             }
         },
         "Pistol": {
@@ -3187,7 +3949,7 @@
             "Autowall": {
                 "key": 0,
                 "keymode": 0,
-                "value": true
+                "value": false
             },
             "AutowallOverwrite": {
                 "key": 0,
@@ -3198,7 +3960,10 @@
                 "value": 0.0
             },
             "BacktrackTime": {
-                "value": 200.0
+                "value": 0.0
+            },
+            "ContinuationWarm": {
+                "value": 0.0
             },
             "Damage": {
                 "value": 0.0
@@ -3213,7 +3978,7 @@
                 "value": false
             },
             "Fov": {
-                "value": 5.0
+                "value": 0.0
             },
             "FriendlyFire": {
                 "value": false
@@ -3222,9 +3987,7 @@
                 "value": 0.0
             },
             "HitboxList": {
-                "values": [
-                    0
-                ]
+                "values": []
             },
             "HitboxPriority": {
                 "value": 0
@@ -3243,8 +4006,8 @@
             "Multipoint": {
                 "value": false
             },
-            "NonSticky": {
-                "value": true
+            "NonSticky2": {
+                "value": false
             },
             "OneBulletAim": {
                 "value": false
@@ -3252,11 +4015,29 @@
             "OverTime": {
                 "value": 0.0
             },
+            "PathMode": {
+                "value": 0
+            },
+            "PathOffsets": {
+                "values": []
+            },
+            "PathSimplify": {
+                "value": 0.0
+            },
             "RandomCurve": {
                 "value": false
             },
+            "RcsBullets": {
+                "value": 0.0
+            },
             "RcsMode": {
                 "value": 0
+            },
+            "RcsReactionDelay": {
+                "value": 0.0
+            },
+            "RcsSmooth": {
+                "value": 0.0
             },
             "ScaleHead": {
                 "value": 0.0
@@ -3271,6 +4052,9 @@
                 "key": 0,
                 "keymode": 0,
                 "value": false
+            },
+            "SeedConditions": {
+                "values": []
             },
             "SmokeCheck": {
                 "value": false
@@ -3289,7 +4073,13 @@
             },
             "Time": {
                 "value": 0.0
+            },
+            "VisibleReactionTime": {
+                "value": 0.0
             }
+        },
+        "PixelPerfect": {
+            "value": true
         },
         "R8 Revolver": {
             "AutoShoot": {
@@ -3312,7 +4102,10 @@
                 "value": 0.0
             },
             "BacktrackTime": {
-                "value": 200.0
+                "value": 150.0
+            },
+            "ContinuationWarm": {
+                "value": 0.0
             },
             "Damage": {
                 "value": 0.0
@@ -3365,8 +4158,8 @@
             "Multipoint": {
                 "value": false
             },
-            "NonSticky": {
-                "value": true
+            "NonSticky2": {
+                "value": false
             },
             "OneBulletAim": {
                 "value": true
@@ -3374,11 +4167,29 @@
             "OverTime": {
                 "value": 0.0
             },
+            "PathMode": {
+                "value": 0
+            },
+            "PathOffsets": {
+                "values": []
+            },
+            "PathSimplify": {
+                "value": 0.0
+            },
             "RandomCurve": {
                 "value": false
             },
+            "RcsBullets": {
+                "value": 0.0
+            },
             "RcsMode": {
                 "value": 1
+            },
+            "RcsReactionDelay": {
+                "value": 0.0
+            },
+            "RcsSmooth": {
+                "value": 0.0
             },
             "ScaleHead": {
                 "value": 0.0
@@ -3392,7 +4203,10 @@
             "Seed": {
                 "key": 0,
                 "keymode": 0,
-                "value": false
+                "value": true
+            },
+            "SeedConditions": {
+                "values": []
             },
             "SmokeCheck": {
                 "value": false
@@ -3411,6 +4225,9 @@
             },
             "Time": {
                 "value": 0.0
+            },
+            "VisibleReactionTime": {
+                "value": 0.0
             }
         },
         "Rifle": {
@@ -3423,7 +4240,7 @@
             "Autowall": {
                 "key": 0,
                 "keymode": 0,
-                "value": true
+                "value": false
             },
             "AutowallOverwrite": {
                 "key": 0,
@@ -3434,7 +4251,10 @@
                 "value": 0.0
             },
             "BacktrackTime": {
-                "value": 200.0
+                "value": 0.0
+            },
+            "ContinuationWarm": {
+                "value": 0.0
             },
             "Damage": {
                 "value": 0.0
@@ -3458,9 +4278,7 @@
                 "value": 0.0
             },
             "HitboxList": {
-                "values": [
-                    0
-                ]
+                "values": []
             },
             "HitboxPriority": {
                 "value": 0
@@ -3479,8 +4297,8 @@
             "Multipoint": {
                 "value": false
             },
-            "NonSticky": {
-                "value": true
+            "NonSticky2": {
+                "value": false
             },
             "OneBulletAim": {
                 "value": false
@@ -3488,11 +4306,29 @@
             "OverTime": {
                 "value": 0.0
             },
+            "PathMode": {
+                "value": 0
+            },
+            "PathOffsets": {
+                "values": []
+            },
+            "PathSimplify": {
+                "value": 0.0
+            },
             "RandomCurve": {
                 "value": false
             },
+            "RcsBullets": {
+                "value": 0.0
+            },
             "RcsMode": {
                 "value": 0
+            },
+            "RcsReactionDelay": {
+                "value": 0.0
+            },
+            "RcsSmooth": {
+                "value": 0.0
             },
             "ScaleHead": {
                 "value": 0.0
@@ -3507,6 +4343,9 @@
                 "key": 0,
                 "keymode": 0,
                 "value": false
+            },
+            "SeedConditions": {
+                "values": []
             },
             "SmokeCheck": {
                 "value": false
@@ -3524,6 +4363,9 @@
                 "value": 0.0
             },
             "Time": {
+                "value": 0.0
+            },
+            "VisibleReactionTime": {
                 "value": 0.0
             }
         },
@@ -3548,7 +4390,10 @@
                 "value": 0.0
             },
             "BacktrackTime": {
-                "value": 200.0
+                "value": 150.0
+            },
+            "ContinuationWarm": {
+                "value": 0.0
             },
             "Damage": {
                 "value": 0.0
@@ -3588,7 +4433,7 @@
                 "value": 10
             },
             "IgnoreJump": {
-                "value": true
+                "value": false
             },
             "LegitAutowall": {
                 "key": 0,
@@ -3601,8 +4446,8 @@
             "Multipoint": {
                 "value": false
             },
-            "NonSticky": {
-                "value": true
+            "NonSticky2": {
+                "value": false
             },
             "OneBulletAim": {
                 "value": false
@@ -3610,11 +4455,29 @@
             "OverTime": {
                 "value": 0.0
             },
+            "PathMode": {
+                "value": 0
+            },
+            "PathOffsets": {
+                "values": []
+            },
+            "PathSimplify": {
+                "value": 0.0
+            },
             "RandomCurve": {
                 "value": false
             },
+            "RcsBullets": {
+                "value": 0.0
+            },
             "RcsMode": {
                 "value": 0
+            },
+            "RcsReactionDelay": {
+                "value": 0.0
+            },
+            "RcsSmooth": {
+                "value": 0.0
             },
             "ScaleHead": {
                 "value": 0.0
@@ -3628,7 +4491,10 @@
             "Seed": {
                 "key": 0,
                 "keymode": 0,
-                "value": false
+                "value": true
+            },
+            "SeedConditions": {
+                "values": []
             },
             "SmokeCheck": {
                 "value": false
@@ -3646,6 +4512,9 @@
                 "value": 0.0
             },
             "Time": {
+                "value": 0.0
+            },
+            "VisibleReactionTime": {
                 "value": 0.0
             }
         },
@@ -3670,7 +4539,10 @@
                 "value": 0.0
             },
             "BacktrackTime": {
-                "value": 200.0
+                "value": 150.0
+            },
+            "ContinuationWarm": {
+                "value": 0.0
             },
             "Damage": {
                 "value": 0.0
@@ -3701,7 +4573,7 @@
                 ]
             },
             "HitboxPriority": {
-                "value": 10
+                "value": 0
             },
             "IgnoreJump": {
                 "value": false
@@ -3717,8 +4589,8 @@
             "Multipoint": {
                 "value": false
             },
-            "NonSticky": {
-                "value": true
+            "NonSticky2": {
+                "value": false
             },
             "OneBulletAim": {
                 "value": false
@@ -3726,25 +4598,46 @@
             "OverTime": {
                 "value": 0.0
             },
+            "PathMode": {
+                "value": 0
+            },
+            "PathOffsets": {
+                "values": []
+            },
+            "PathSimplify": {
+                "value": 0.0
+            },
             "RandomCurve": {
                 "value": false
             },
+            "RcsBullets": {
+                "value": 0.0
+            },
             "RcsMode": {
                 "value": 1
+            },
+            "RcsReactionDelay": {
+                "value": 0.0
+            },
+            "RcsSmooth": {
+                "value": 0.0
             },
             "ScaleHead": {
                 "value": 0.0
             },
             "ScalePitch": {
-                "value": 0.0
+                "value": 65.0
             },
             "ScaleYaw": {
-                "value": 0.0
+                "value": 100.0
             },
             "Seed": {
                 "key": 0,
                 "keymode": 0,
-                "value": false
+                "value": true
+            },
+            "SeedConditions": {
+                "values": []
             },
             "SmokeCheck": {
                 "value": false
@@ -3763,6 +4656,9 @@
             },
             "Time": {
                 "value": 0.0
+            },
+            "VisibleReactionTime": {
+                "value": 0.0
             }
         },
         "SMG": {
@@ -3775,7 +4671,7 @@
             "Autowall": {
                 "key": 0,
                 "keymode": 0,
-                "value": true
+                "value": false
             },
             "AutowallOverwrite": {
                 "key": 0,
@@ -3786,7 +4682,10 @@
                 "value": 0.0
             },
             "BacktrackTime": {
-                "value": 200.0
+                "value": 0.0
+            },
+            "ContinuationWarm": {
+                "value": 0.0
             },
             "Damage": {
                 "value": 0.0
@@ -3801,7 +4700,7 @@
                 "value": false
             },
             "Fov": {
-                "value": 5.0
+                "value": 0.0
             },
             "FriendlyFire": {
                 "value": false
@@ -3810,9 +4709,7 @@
                 "value": 0.0
             },
             "HitboxList": {
-                "values": [
-                    0
-                ]
+                "values": []
             },
             "HitboxPriority": {
                 "value": 0
@@ -3831,8 +4728,8 @@
             "Multipoint": {
                 "value": false
             },
-            "NonSticky": {
-                "value": true
+            "NonSticky2": {
+                "value": false
             },
             "OneBulletAim": {
                 "value": false
@@ -3840,11 +4737,29 @@
             "OverTime": {
                 "value": 0.0
             },
+            "PathMode": {
+                "value": 0
+            },
+            "PathOffsets": {
+                "values": []
+            },
+            "PathSimplify": {
+                "value": 0.0
+            },
             "RandomCurve": {
                 "value": false
             },
+            "RcsBullets": {
+                "value": 0.0
+            },
             "RcsMode": {
                 "value": 0
+            },
+            "RcsReactionDelay": {
+                "value": 0.0
+            },
+            "RcsSmooth": {
+                "value": 0.0
             },
             "ScaleHead": {
                 "value": 0.0
@@ -3859,6 +4774,9 @@
                 "key": 0,
                 "keymode": 0,
                 "value": false
+            },
+            "SeedConditions": {
+                "values": []
             },
             "SmokeCheck": {
                 "value": false
@@ -3876,6 +4794,9 @@
                 "value": 0.0
             },
             "Time": {
+                "value": 0.0
+            },
+            "VisibleReactionTime": {
                 "value": 0.0
             }
         },
@@ -3900,7 +4821,10 @@
                 "value": 0.0
             },
             "BacktrackTime": {
-                "value": 200.0
+                "value": 150.0
+            },
+            "ContinuationWarm": {
+                "value": 0.0
             },
             "Damage": {
                 "value": 0.0
@@ -3951,8 +4875,8 @@
             "Multipoint": {
                 "value": false
             },
-            "NonSticky": {
-                "value": true
+            "NonSticky2": {
+                "value": false
             },
             "OneBulletAim": {
                 "value": true
@@ -3960,11 +4884,29 @@
             "OverTime": {
                 "value": 0.0
             },
+            "PathMode": {
+                "value": 0
+            },
+            "PathOffsets": {
+                "values": []
+            },
+            "PathSimplify": {
+                "value": 0.0
+            },
             "RandomCurve": {
                 "value": false
             },
+            "RcsBullets": {
+                "value": 0.0
+            },
             "RcsMode": {
                 "value": 0
+            },
+            "RcsReactionDelay": {
+                "value": 0.0
+            },
+            "RcsSmooth": {
+                "value": 0.0
             },
             "ScaleHead": {
                 "value": 0.0
@@ -3978,7 +4920,10 @@
             "Seed": {
                 "key": 0,
                 "keymode": 0,
-                "value": false
+                "value": true
+            },
+            "SeedConditions": {
+                "values": []
             },
             "SmokeCheck": {
                 "value": false
@@ -3996,6 +4941,9 @@
                 "value": 0.0
             },
             "Time": {
+                "value": 0.0
+            },
+            "VisibleReactionTime": {
                 "value": 0.0
             }
         },
@@ -4020,7 +4968,10 @@
                 "value": 0.0
             },
             "BacktrackTime": {
-                "value": 200.0
+                "value": 150.0
+            },
+            "ContinuationWarm": {
+                "value": 0.0
             },
             "Damage": {
                 "value": 0.0
@@ -4060,7 +5011,7 @@
                 "value": 10
             },
             "IgnoreJump": {
-                "value": true
+                "value": false
             },
             "LegitAutowall": {
                 "key": 0,
@@ -4073,8 +5024,8 @@
             "Multipoint": {
                 "value": false
             },
-            "NonSticky": {
-                "value": true
+            "NonSticky2": {
+                "value": false
             },
             "OneBulletAim": {
                 "value": true
@@ -4082,11 +5033,29 @@
             "OverTime": {
                 "value": 0.0
             },
+            "PathMode": {
+                "value": 0
+            },
+            "PathOffsets": {
+                "values": []
+            },
+            "PathSimplify": {
+                "value": 0.0
+            },
             "RandomCurve": {
                 "value": false
             },
+            "RcsBullets": {
+                "value": 0.0
+            },
             "RcsMode": {
                 "value": 0
+            },
+            "RcsReactionDelay": {
+                "value": 0.0
+            },
+            "RcsSmooth": {
+                "value": 0.0
             },
             "ScaleHead": {
                 "value": 0.0
@@ -4100,7 +5069,10 @@
             "Seed": {
                 "key": 0,
                 "keymode": 0,
-                "value": false
+                "value": true
+            },
+            "SeedConditions": {
+                "values": []
             },
             "SmokeCheck": {
                 "value": false
@@ -4119,6 +5091,9 @@
             },
             "Time": {
                 "value": 0.0
+            },
+            "VisibleReactionTime": {
+                "value": 0.0
             }
         },
         "Sniper": {
@@ -4131,7 +5106,7 @@
             "Autowall": {
                 "key": 0,
                 "keymode": 0,
-                "value": true
+                "value": false
             },
             "AutowallOverwrite": {
                 "key": 0,
@@ -4142,7 +5117,10 @@
                 "value": 0.0
             },
             "BacktrackTime": {
-                "value": 200.0
+                "value": 0.0
+            },
+            "ContinuationWarm": {
+                "value": 0.0
             },
             "Damage": {
                 "value": 0.0
@@ -4157,7 +5135,7 @@
                 "value": false
             },
             "Fov": {
-                "value": 5.0
+                "value": 0.0
             },
             "FriendlyFire": {
                 "value": false
@@ -4166,9 +5144,7 @@
                 "value": 0.0
             },
             "HitboxList": {
-                "values": [
-                    0
-                ]
+                "values": []
             },
             "HitboxPriority": {
                 "value": 0
@@ -4187,8 +5163,8 @@
             "Multipoint": {
                 "value": false
             },
-            "NonSticky": {
-                "value": true
+            "NonSticky2": {
+                "value": false
             },
             "OneBulletAim": {
                 "value": false
@@ -4196,11 +5172,29 @@
             "OverTime": {
                 "value": 0.0
             },
+            "PathMode": {
+                "value": 0
+            },
+            "PathOffsets": {
+                "values": []
+            },
+            "PathSimplify": {
+                "value": 0.0
+            },
             "RandomCurve": {
                 "value": false
             },
+            "RcsBullets": {
+                "value": 0.0
+            },
             "RcsMode": {
                 "value": 0
+            },
+            "RcsReactionDelay": {
+                "value": 0.0
+            },
+            "RcsSmooth": {
+                "value": 0.0
             },
             "ScaleHead": {
                 "value": 0.0
@@ -4215,6 +5209,9 @@
                 "key": 0,
                 "keymode": 0,
                 "value": false
+            },
+            "SeedConditions": {
+                "values": []
             },
             "SmokeCheck": {
                 "value": false
@@ -4233,7 +5230,13 @@
             },
             "Time": {
                 "value": 0.0
+            },
+            "VisibleReactionTime": {
+                "value": 0.0
             }
+        },
+        "TIMEOUT": {
+            "value": 100.0
         },
         "Tec-9": {
             "AutoShoot": {
@@ -4256,7 +5259,10 @@
                 "value": 0.0
             },
             "BacktrackTime": {
-                "value": 200.0
+                "value": 150.0
+            },
+            "ContinuationWarm": {
+                "value": 0.0
             },
             "Damage": {
                 "value": 0.0
@@ -4303,8 +5309,8 @@
             "Multipoint": {
                 "value": false
             },
-            "NonSticky": {
-                "value": true
+            "NonSticky2": {
+                "value": false
             },
             "OneBulletAim": {
                 "value": true
@@ -4312,11 +5318,29 @@
             "OverTime": {
                 "value": 0.0
             },
+            "PathMode": {
+                "value": 0
+            },
+            "PathOffsets": {
+                "values": []
+            },
+            "PathSimplify": {
+                "value": 0.0
+            },
             "RandomCurve": {
                 "value": false
             },
+            "RcsBullets": {
+                "value": 0.0
+            },
             "RcsMode": {
                 "value": 1
+            },
+            "RcsReactionDelay": {
+                "value": 0.0
+            },
+            "RcsSmooth": {
+                "value": 0.0
             },
             "ScaleHead": {
                 "value": 0.0
@@ -4330,7 +5354,10 @@
             "Seed": {
                 "key": 0,
                 "keymode": 0,
-                "value": false
+                "value": true
+            },
+            "SeedConditions": {
+                "values": []
             },
             "SmokeCheck": {
                 "value": false
@@ -4348,6 +5375,9 @@
                 "value": 0.0
             },
             "Time": {
+                "value": 0.0
+            },
+            "VisibleReactionTime": {
                 "value": 0.0
             }
         },
@@ -4372,7 +5402,10 @@
                 "value": 0.0
             },
             "BacktrackTime": {
-                "value": 200.0
+                "value": 150.0
+            },
+            "ContinuationWarm": {
+                "value": 0.0
             },
             "Damage": {
                 "value": 0.0
@@ -4405,7 +5438,7 @@
                 ]
             },
             "HitboxPriority": {
-                "value": 10
+                "value": 0
             },
             "IgnoreJump": {
                 "value": false
@@ -4421,8 +5454,8 @@
             "Multipoint": {
                 "value": false
             },
-            "NonSticky": {
-                "value": true
+            "NonSticky2": {
+                "value": false
             },
             "OneBulletAim": {
                 "value": false
@@ -4430,11 +5463,29 @@
             "OverTime": {
                 "value": 0.0
             },
+            "PathMode": {
+                "value": 0
+            },
+            "PathOffsets": {
+                "values": []
+            },
+            "PathSimplify": {
+                "value": 0.0
+            },
             "RandomCurve": {
                 "value": false
             },
+            "RcsBullets": {
+                "value": 0.0
+            },
             "RcsMode": {
                 "value": 1
+            },
+            "RcsReactionDelay": {
+                "value": 0.0
+            },
+            "RcsSmooth": {
+                "value": 0.0
             },
             "ScaleHead": {
                 "value": 0.0
@@ -4448,7 +5499,10 @@
             "Seed": {
                 "key": 0,
                 "keymode": 0,
-                "value": false
+                "value": true
+            },
+            "SeedConditions": {
+                "values": []
             },
             "SmokeCheck": {
                 "value": false
@@ -4466,6 +5520,9 @@
                 "value": 0.0
             },
             "Time": {
+                "value": 0.0
+            },
+            "VisibleReactionTime": {
                 "value": 0.0
             }
         },
@@ -4490,7 +5547,10 @@
                 "value": 0.0
             },
             "BacktrackTime": {
-                "value": 200.0
+                "value": 150.0
+            },
+            "ContinuationWarm": {
+                "value": 0.0
             },
             "Damage": {
                 "value": 0.0
@@ -4537,20 +5597,38 @@
             "Multipoint": {
                 "value": false
             },
-            "NonSticky": {
-                "value": true
+            "NonSticky2": {
+                "value": false
             },
             "OneBulletAim": {
                 "value": true
             },
             "OverTime": {
+                "value": 59.0
+            },
+            "PathMode": {
+                "value": 0
+            },
+            "PathOffsets": {
+                "values": []
+            },
+            "PathSimplify": {
                 "value": 0.0
             },
             "RandomCurve": {
                 "value": false
             },
+            "RcsBullets": {
+                "value": 0.0
+            },
             "RcsMode": {
                 "value": 1
+            },
+            "RcsReactionDelay": {
+                "value": 0.0
+            },
+            "RcsSmooth": {
+                "value": 0.0
             },
             "ScaleHead": {
                 "value": 0.0
@@ -4564,26 +5642,38 @@
             "Seed": {
                 "key": 0,
                 "keymode": 0,
-                "value": false
+                "value": true
+            },
+            "SeedConditions": {
+                "values": []
             },
             "SmokeCheck": {
                 "value": false
             },
             "Smooth": {
-                "value": 7.5
+                "value": 93.0
             },
             "SmoothMode": {
-                "value": 0
+                "value": 1
             },
             "StandaloneBacktrackTime": {
                 "value": 0.0
             },
             "TargetSwitchTime": {
-                "value": 0.0
+                "value": 55.0
             },
             "Time": {
+                "value": 180.0
+            },
+            "VisibleReactionTime": {
                 "value": 0.0
             }
+        },
+        "WAVE_AMPLITUDE": {
+            "value": 5.0
+        },
+        "WAVE_FREQUENCY": {
+            "value": 0.0
         },
         "XM1014": {
             "AutoShoot": {
@@ -4606,7 +5696,10 @@
                 "value": 0.0
             },
             "BacktrackTime": {
-                "value": 200.0
+                "value": 150.0
+            },
+            "ContinuationWarm": {
+                "value": 0.0
             },
             "Damage": {
                 "value": 0.0
@@ -4646,7 +5739,7 @@
                 "value": 10
             },
             "IgnoreJump": {
-                "value": true
+                "value": false
             },
             "LegitAutowall": {
                 "key": 0,
@@ -4659,8 +5752,8 @@
             "Multipoint": {
                 "value": false
             },
-            "NonSticky": {
-                "value": true
+            "NonSticky2": {
+                "value": false
             },
             "OneBulletAim": {
                 "value": false
@@ -4668,11 +5761,29 @@
             "OverTime": {
                 "value": 0.0
             },
+            "PathMode": {
+                "value": 0
+            },
+            "PathOffsets": {
+                "values": []
+            },
+            "PathSimplify": {
+                "value": 0.0
+            },
             "RandomCurve": {
                 "value": false
             },
+            "RcsBullets": {
+                "value": 0.0
+            },
             "RcsMode": {
                 "value": 0
+            },
+            "RcsReactionDelay": {
+                "value": 0.0
+            },
+            "RcsSmooth": {
+                "value": 0.0
             },
             "ScaleHead": {
                 "value": 0.0
@@ -4686,7 +5797,10 @@
             "Seed": {
                 "key": 0,
                 "keymode": 0,
-                "value": false
+                "value": true
+            },
+            "SeedConditions": {
+                "values": []
             },
             "SmokeCheck": {
                 "value": false
@@ -4704,6 +5818,9 @@
                 "value": 0.0
             },
             "Time": {
+                "value": 0.0
+            },
+            "VisibleReactionTime": {
                 "value": 0.0
             }
         },
@@ -4728,7 +5845,10 @@
                 "value": 0.0
             },
             "BacktrackTime": {
-                "value": 200.0
+                "value": 150.0
+            },
+            "ContinuationWarm": {
+                "value": 0.0
             },
             "Damage": {
                 "value": 0.0
@@ -4781,8 +5901,8 @@
             "Multipoint": {
                 "value": false
             },
-            "NonSticky": {
-                "value": true
+            "NonSticky2": {
+                "value": false
             },
             "OneBulletAim": {
                 "value": true
@@ -4790,11 +5910,29 @@
             "OverTime": {
                 "value": 0.0
             },
+            "PathMode": {
+                "value": 0
+            },
+            "PathOffsets": {
+                "values": []
+            },
+            "PathSimplify": {
+                "value": 0.0
+            },
             "RandomCurve": {
                 "value": false
             },
+            "RcsBullets": {
+                "value": 0.0
+            },
             "RcsMode": {
                 "value": 1
+            },
+            "RcsReactionDelay": {
+                "value": 0.0
+            },
+            "RcsSmooth": {
+                "value": 0.0
             },
             "ScaleHead": {
                 "value": 0.0
@@ -4808,7 +5946,10 @@
             "Seed": {
                 "key": 0,
                 "keymode": 0,
-                "value": false
+                "value": true
+            },
+            "SeedConditions": {
+                "values": []
             },
             "SmokeCheck": {
                 "value": false
@@ -4826,6 +5967,9 @@
                 "value": 0.0
             },
             "Time": {
+                "value": 0.0
+            },
+            "VisibleReactionTime": {
                 "value": 0.0
             }
         }
@@ -4857,12 +6001,10 @@
                 "value": false
             },
             "ManualLeftKey": {
-                "key": 37,
-                "keymode": 0
+                "key": 37
             },
             "ManualRightKey": {
-                "key": 39,
-                "keymode": 0
+                "key": 39
             }
         },
         "Fakelag": {
@@ -4952,26 +6094,25 @@
     "Helper": {
         "Play": {
             "EnableGrenadeHelper": {
-                "value": false
+                "value": true
             },
             "EnableMovementHelper": {
                 "value": false
             },
             "GrenadeSmooth": {
-                "value": 0.0
+                "value": 96.0
             },
             "MovementSmooth": {
                 "value": 0.0
             },
             "PlayGrenadeKey": {
-                "value": false
+                "key": 71,
+                "keymode": 2,
+                "value": true
             },
             "PlayMovementKey": {
-                "value": false
-            }
-        },
-        "Recorder": {
-            "EditorMode": {
+                "key": 0,
+                "keymode": 0,
                 "value": false
             }
         }
@@ -4982,10 +6123,30 @@
                 "value": true
             },
             "AutoAcceptDelay": {
-                "value": 100.0
+                "value": 0.0
             },
             "EnhancedScoreboard": {
                 "value": true
+            },
+            "EnhancedScoreboardEquipment": {
+                "values": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7
+                ]
+            },
+            "EnhancedScoreboardMoney": {
+                "value": true
+            },
+            "EnhancedScoreboardShow": {
+                "value": true
+            },
+            "RegionForce": {
+                "values": []
             },
             "Thirdperson": {
                 "key": 88,
@@ -4996,7 +6157,7 @@
                 "value": false
             },
             "ThirdpersonDistance": {
-                "value": 90.0
+                "value": 0.0
             },
             "ThirdpersonGrenade": {
                 "value": false
@@ -5012,12 +6173,13 @@
             "BunnyhopDuck": {
                 "value": false
             },
-            "EdgeJumpKey": {
-                "key": 0,
-                "keymode": 0
+            "EdgeJump": {
+                "key": 6,
+                "keymode": 2,
+                "value": false
             },
             "QuickStop": {
-                "value": true
+                "value": false
             },
             "RunBoost": {
                 "key": 0,
@@ -5027,9 +6189,9 @@
             "SlideWalk": {
                 "value": false
             },
-            "SlowWalk": {
-                "key": 0,
-                "keymode": 0,
+            "SlowWalk2": {
+                "key": 16,
+                "keymode": 2,
                 "value": false
             },
             "SlowWalkScale": {
@@ -5061,35 +6223,19 @@
                         255,
                         255,
                         255,
-                        130
+                        255
                     ],
                     [
                         0,
-                        255,
-                        255,
-                        255,
-                        0
+                        0,
+                        0,
+                        0,
+                        255
                     ]
                 ],
-                "value": 0
+                "value": 2
             },
             "CrosshairAutowall": {
-                "colors": [
-                    [
-                        0,
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    [
-                        0,
-                        0,
-                        0,
-                        0,
-                        0
-                    ]
-                ],
                 "value": false
             },
             "CrosshairShowRecoil": {
@@ -5099,7 +6245,7 @@
                 "value": true
             },
             "DamageIndicator": {
-                "value": false
+                "value": 0
             },
             "FovCircle": {
                 "color": [
@@ -5112,7 +6258,7 @@
                 "value": false
             },
             "HitSound": {
-                "value": 4
+                "value": 0
             },
             "HitSoundVolume": {
                 "value": 5.0
@@ -5129,6 +6275,9 @@
             },
             "IndicatorShow": {
                 "values": []
+            },
+            "IngameRadar": {
+                "value": false
             },
             "Offscreen": {
                 "colors": [
@@ -5150,19 +6299,19 @@
                 "value": true
             },
             "OffscreenSize": {
-                "value": 15.0
+                "value": 60.0
             },
             "Radar": {
                 "values": [
-                    -1,
-                    2,
-                    266,
-                    266,
+                    49,
+                    52,
+                    141,
+                    141,
                     false
                 ]
             },
             "RadarCross": {
-                "value": true
+                "value": false
             },
             "RadarGrenades": {
                 "value": true
@@ -5170,8 +6319,11 @@
             "RadarHealth": {
                 "value": true
             },
-            "RadarHideBG": {
+            "RadarHeatmap": {
                 "value": false
+            },
+            "RadarHideBG": {
+                "value": true
             },
             "RadarMap": {
                 "value": true
@@ -5181,6 +6333,15 @@
             },
             "RadarViewangles": {
                 "value": true
+            },
+            "Snake": {
+                "values": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    false
+                ]
             },
             "SpectatorList": {
                 "values": [
@@ -5200,10 +6361,10 @@
             "SpreadCircle": {
                 "color": [
                     0,
-                    255,
-                    255,
-                    255,
-                    200
+                    30,
+                    30,
+                    30,
+                    60
                 ],
                 "value": false
             },
@@ -5221,10 +6382,34 @@
             }
         },
         "World": {
+            "Aspectratio": {
+                "value": 1.33
+            },
             "Fov": {
                 "value": 0.0
             },
+            "ViewmodelChanger": {
+                "value": true
+            },
             "ViewmodelFov": {
+                "value": 0.0
+            },
+            "ViewmodelOffsetX": {
+                "value": 2.05
+            },
+            "ViewmodelOffsetY": {
+                "value": 0.469999
+            },
+            "ViewmodelOffsetZ": {
+                "value": -0.470001
+            },
+            "ViewmodelRotPitch": {
+                "value": 0.0
+            },
+            "ViewmodelRotRoll": {
+                "value": 0.0
+            },
+            "ViewmodelRotYaw": {
                 "value": 0.0
             }
         }
@@ -5235,21 +6420,38 @@
                 "value": 3.0
             },
             "AutoStop": {
-                "value": true
+                "value": false
             },
             "Autowall": {
                 "value": false
             },
+            "AutowallOverwrite": {
+                "key": 71,
+                "keymode": 2,
+                "value": true
+            },
+            "AutowallOverwriteDamage": {
+                "value": 1.0
+            },
             "BacktrackTime": {
-                "value": 200.0
+                "value": 150.0
+            },
+            "BulletDelay": {
+                "value": 0.0
             },
             "Bullets": {
                 "value": 0.0
             },
+            "ContinuationWarm": {
+                "value": 0.0
+            },
             "Damage": {
-                "value": 21.0
+                "value": 30.0
             },
             "Delay": {
+                "value": 0.0
+            },
+            "DelayThreshold": {
                 "value": 0.0
             },
             "FlashCheck": {
@@ -5262,9 +6464,7 @@
                 "values": [
                     0,
                     1,
-                    2,
-                    3,
-                    4
+                    2
                 ]
             },
             "LegitAutowall": {
@@ -5275,10 +6475,19 @@
             "Seed": {
                 "value": true
             },
+            "SeedConditions": {
+                "values": []
+            },
             "SmokeCheck": {
                 "value": false
             },
             "Smooth": {
+                "value": 85.0
+            },
+            "SmoothMode": {
+                "value": 1
+            },
+            "VisibleReactionTime": {
                 "value": 0.0
             }
         },
@@ -5287,21 +6496,38 @@
                 "value": 3.0
             },
             "AutoStop": {
-                "value": true
+                "value": false
             },
             "Autowall": {
                 "value": false
             },
+            "AutowallOverwrite": {
+                "key": 71,
+                "keymode": 2,
+                "value": true
+            },
+            "AutowallOverwriteDamage": {
+                "value": 1.0
+            },
             "BacktrackTime": {
-                "value": 200.0
+                "value": 150.0
+            },
+            "BulletDelay": {
+                "value": 0.0
             },
             "Bullets": {
                 "value": 0.0
             },
+            "ContinuationWarm": {
+                "value": 0.0
+            },
             "Damage": {
-                "value": 21.0
+                "value": 30.0
             },
             "Delay": {
+                "value": 0.0
+            },
+            "DelayThreshold": {
                 "value": 0.0
             },
             "FlashCheck": {
@@ -5309,6 +6535,82 @@
             },
             "HitChance": {
                 "value": 45.0
+            },
+            "HitboxList": {
+                "values": [
+                    0,
+                    1,
+                    2
+                ]
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "Seed": {
+                "value": true
+            },
+            "SeedConditions": {
+                "values": []
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 85.0
+            },
+            "SmoothMode": {
+                "value": 1
+            },
+            "VisibleReactionTime": {
+                "value": 0.0
+            }
+        },
+        "AWP": {
+            "Aimfov": {
+                "value": 3.0
+            },
+            "AutoStop": {
+                "value": false
+            },
+            "Autowall": {
+                "value": false
+            },
+            "AutowallOverwrite": {
+                "key": 71,
+                "keymode": 2,
+                "value": true
+            },
+            "AutowallOverwriteDamage": {
+                "value": 9.0
+            },
+            "BacktrackTime": {
+                "value": 150.0
+            },
+            "BulletDelay": {
+                "value": 0.0
+            },
+            "Bullets": {
+                "value": 0.0
+            },
+            "ContinuationWarm": {
+                "value": 0.0
+            },
+            "Damage": {
+                "value": 100.0
+            },
+            "Delay": {
+                "value": 0.0
+            },
+            "DelayThreshold": {
+                "value": 0.0
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 75.0
             },
             "HitboxList": {
                 "values": [
@@ -5327,33 +6629,216 @@
             "Seed": {
                 "value": true
             },
+            "SeedConditions": {
+                "values": []
+            },
             "SmokeCheck": {
                 "value": false
             },
             "Smooth": {
+                "value": 85.0
+            },
+            "SmoothMode": {
+                "value": 1
+            },
+            "VisibleReactionTime": {
                 "value": 0.0
             }
         },
-        "AWP": {
+        "AimKey": {
+            "key": 5
+        },
+        "CZ75-Auto": {
             "Aimfov": {
                 "value": 3.0
             },
             "AutoStop": {
-                "value": true
+                "value": false
             },
             "Autowall": {
                 "value": false
             },
+            "AutowallOverwrite": {
+                "key": 71,
+                "keymode": 2,
+                "value": true
+            },
+            "AutowallOverwriteDamage": {
+                "value": 1.0
+            },
             "BacktrackTime": {
-                "value": 200.0
+                "value": 150.0
+            },
+            "BulletDelay": {
+                "value": 0.0
             },
             "Bullets": {
                 "value": 0.0
             },
+            "ContinuationWarm": {
+                "value": 0.0
+            },
             "Damage": {
-                "value": 100.0
+                "value": 14.0
             },
             "Delay": {
+                "value": 0.0
+            },
+            "DelayThreshold": {
+                "value": 0.0
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 40.0
+            },
+            "HitboxList": {
+                "values": [
+                    0,
+                    1,
+                    2
+                ]
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "Seed": {
+                "value": true
+            },
+            "SeedConditions": {
+                "values": []
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 85.0
+            },
+            "SmoothMode": {
+                "value": 1
+            },
+            "VisibleReactionTime": {
+                "value": 0.0
+            }
+        },
+        "Default": {
+            "Aimfov": {
+                "value": 3.0
+            },
+            "AutoStop": {
+                "value": false
+            },
+            "Autowall": {
+                "value": false
+            },
+            "AutowallOverwrite": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "AutowallOverwriteDamage": {
+                "value": 0.0
+            },
+            "BacktrackTime": {
+                "value": 150.0
+            },
+            "BulletDelay": {
+                "value": 0.0
+            },
+            "Bullets": {
+                "value": 0.0
+            },
+            "ContinuationWarm": {
+                "value": 0.0
+            },
+            "Damage": {
+                "value": 0.0
+            },
+            "Delay": {
+                "value": 0.0
+            },
+            "DelayThreshold": {
+                "value": 0.0
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 0.0
+            },
+            "HitboxList": {
+                "values": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4
+                ]
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "Seed": {
+                "value": true
+            },
+            "SeedConditions": {
+                "values": []
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 85.0
+            },
+            "SmoothMode": {
+                "value": 1
+            },
+            "VisibleReactionTime": {
+                "value": 0.0
+            }
+        },
+        "Desert Eagle": {
+            "Aimfov": {
+                "value": 3.0
+            },
+            "AutoStop": {
+                "value": false
+            },
+            "Autowall": {
+                "value": false
+            },
+            "AutowallOverwrite": {
+                "key": 71,
+                "keymode": 2,
+                "value": true
+            },
+            "AutowallOverwriteDamage": {
+                "value": 5.0
+            },
+            "BacktrackTime": {
+                "value": 150.0
+            },
+            "BulletDelay": {
+                "value": 0.0
+            },
+            "Bullets": {
+                "value": 0.0
+            },
+            "ContinuationWarm": {
+                "value": 0.0
+            },
+            "Damage": {
+                "value": 45.0
+            },
+            "Delay": {
+                "value": 0.0
+            },
+            "DelayThreshold": {
                 "value": 0.0
             },
             "FlashCheck": {
@@ -5366,62 +6851,6 @@
                 "values": [
                     0,
                     1,
-                    2,
-                    3,
-                    4
-                ]
-            },
-            "LegitAutowall": {
-                "key": 0,
-                "keymode": 0,
-                "value": false
-            },
-            "Seed": {
-                "value": true
-            },
-            "SmokeCheck": {
-                "value": false
-            },
-            "Smooth": {
-                "value": 0.0
-            }
-        },
-        "AimKey": {
-            "key": 5,
-            "keymode": 0
-        },
-        "CZ75-Auto": {
-            "Aimfov": {
-                "value": 3.0
-            },
-            "AutoStop": {
-                "value": true
-            },
-            "Autowall": {
-                "value": false
-            },
-            "BacktrackTime": {
-                "value": 200.0
-            },
-            "Bullets": {
-                "value": 0.0
-            },
-            "Damage": {
-                "value": 22.0
-            },
-            "Delay": {
-                "value": 0.0
-            },
-            "FlashCheck": {
-                "value": false
-            },
-            "HitChance": {
-                "value": 55.0
-            },
-            "HitboxList": {
-                "values": [
-                    0,
-                    1,
                     2
                 ]
             },
@@ -5433,106 +6862,19 @@
             "Seed": {
                 "value": true
             },
-            "SmokeCheck": {
-                "value": false
-            },
-            "Smooth": {
-                "value": 0.0
-            }
-        },
-        "Default": {
-            "Aimfov": {
-                "value": 3.0
-            },
-            "AutoStop": {
-                "value": true
-            },
-            "Autowall": {
-                "value": false
-            },
-            "BacktrackTime": {
-                "value": 200.0
-            },
-            "Bullets": {
-                "value": 0.0
-            },
-            "Damage": {
-                "value": 0.0
-            },
-            "Delay": {
-                "value": 0.0
-            },
-            "FlashCheck": {
-                "value": false
-            },
-            "HitChance": {
-                "value": 0.0
-            },
-            "HitboxList": {
+            "SeedConditions": {
                 "values": []
             },
-            "LegitAutowall": {
-                "key": 0,
-                "keymode": 0,
-                "value": false
-            },
-            "Seed": {
-                "value": true
-            },
             "SmokeCheck": {
                 "value": false
             },
             "Smooth": {
-                "value": 0.0
-            }
-        },
-        "Desert Eagle": {
-            "Aimfov": {
-                "value": 3.0
+                "value": 85.0
             },
-            "AutoStop": {
-                "value": true
+            "SmoothMode": {
+                "value": 1
             },
-            "Autowall": {
-                "value": false
-            },
-            "BacktrackTime": {
-                "value": 200.0
-            },
-            "Bullets": {
-                "value": 0.0
-            },
-            "Damage": {
-                "value": 45.0
-            },
-            "Delay": {
-                "value": 0.0
-            },
-            "FlashCheck": {
-                "value": false
-            },
-            "HitChance": {
-                "value": 45.0
-            },
-            "HitboxList": {
-                "values": [
-                    0,
-                    1,
-                    2
-                ]
-            },
-            "LegitAutowall": {
-                "key": 0,
-                "keymode": 0,
-                "value": false
-            },
-            "Seed": {
-                "value": true
-            },
-            "SmokeCheck": {
-                "value": false
-            },
-            "Smooth": {
+            "VisibleReactionTime": {
                 "value": 0.0
             }
         },
@@ -5541,28 +6883,45 @@
                 "value": 3.0
             },
             "AutoStop": {
-                "value": true
+                "value": false
             },
             "Autowall": {
                 "value": false
             },
+            "AutowallOverwrite": {
+                "key": 71,
+                "keymode": 2,
+                "value": true
+            },
+            "AutowallOverwriteDamage": {
+                "value": 1.0
+            },
             "BacktrackTime": {
-                "value": 200.0
+                "value": 150.0
+            },
+            "BulletDelay": {
+                "value": 0.0
             },
             "Bullets": {
                 "value": 0.0
             },
+            "ContinuationWarm": {
+                "value": 0.0
+            },
             "Damage": {
-                "value": 22.0
+                "value": 14.0
             },
             "Delay": {
+                "value": 0.0
+            },
+            "DelayThreshold": {
                 "value": 0.0
             },
             "FlashCheck": {
                 "value": false
             },
             "HitChance": {
-                "value": 55.0
+                "value": 40.0
             },
             "HitboxList": {
                 "values": [
@@ -5579,10 +6938,19 @@
             "Seed": {
                 "value": true
             },
+            "SeedConditions": {
+                "values": []
+            },
             "SmokeCheck": {
                 "value": false
             },
             "Smooth": {
+                "value": 85.0
+            },
+            "SmoothMode": {
+                "value": 1
+            },
+            "VisibleReactionTime": {
                 "value": 0.0
             }
         },
@@ -5591,21 +6959,38 @@
                 "value": 3.0
             },
             "AutoStop": {
-                "value": true
+                "value": false
             },
             "Autowall": {
                 "value": false
             },
+            "AutowallOverwrite": {
+                "key": 71,
+                "keymode": 2,
+                "value": true
+            },
+            "AutowallOverwriteDamage": {
+                "value": 1.0
+            },
             "BacktrackTime": {
-                "value": 200.0
+                "value": 150.0
+            },
+            "BulletDelay": {
+                "value": 0.0
             },
             "Bullets": {
                 "value": 0.0
             },
+            "ContinuationWarm": {
+                "value": 0.0
+            },
             "Damage": {
-                "value": 21.0
+                "value": 30.0
             },
             "Delay": {
+                "value": 0.0
+            },
+            "DelayThreshold": {
                 "value": 0.0
             },
             "FlashCheck": {
@@ -5618,9 +7003,7 @@
                 "values": [
                     0,
                     1,
-                    2,
-                    3,
-                    4
+                    2
                 ]
             },
             "LegitAutowall": {
@@ -5631,10 +7014,19 @@
             "Seed": {
                 "value": true
             },
+            "SeedConditions": {
+                "values": []
+            },
             "SmokeCheck": {
                 "value": false
             },
             "Smooth": {
+                "value": 85.0
+            },
+            "SmoothMode": {
+                "value": 1
+            },
+            "VisibleReactionTime": {
                 "value": 0.0
             }
         },
@@ -5643,28 +7035,45 @@
                 "value": 3.0
             },
             "AutoStop": {
-                "value": true
+                "value": false
             },
             "Autowall": {
                 "value": false
             },
+            "AutowallOverwrite": {
+                "key": 71,
+                "keymode": 2,
+                "value": true
+            },
+            "AutowallOverwriteDamage": {
+                "value": 1.0
+            },
             "BacktrackTime": {
-                "value": 200.0
+                "value": 150.0
+            },
+            "BulletDelay": {
+                "value": 0.0
             },
             "Bullets": {
                 "value": 0.0
             },
+            "ContinuationWarm": {
+                "value": 0.0
+            },
             "Damage": {
-                "value": 22.0
+                "value": 14.0
             },
             "Delay": {
+                "value": 0.0
+            },
+            "DelayThreshold": {
                 "value": 0.0
             },
             "FlashCheck": {
                 "value": false
             },
             "HitChance": {
-                "value": 55.0
+                "value": 40.0
             },
             "HitboxList": {
                 "values": [
@@ -5681,10 +7090,19 @@
             "Seed": {
                 "value": true
             },
+            "SeedConditions": {
+                "values": []
+            },
             "SmokeCheck": {
                 "value": false
             },
             "Smooth": {
+                "value": 85.0
+            },
+            "SmoothMode": {
+                "value": 1
+            },
+            "VisibleReactionTime": {
                 "value": 0.0
             }
         },
@@ -5693,15 +7111,29 @@
                 "value": 3.0
             },
             "AutoStop": {
-                "value": true
+                "value": false
             },
             "Autowall": {
                 "value": false
             },
+            "AutowallOverwrite": {
+                "key": 71,
+                "keymode": 2,
+                "value": true
+            },
+            "AutowallOverwriteDamage": {
+                "value": 5.0
+            },
             "BacktrackTime": {
-                "value": 200.0
+                "value": 150.0
+            },
+            "BulletDelay": {
+                "value": 0.0
             },
             "Bullets": {
+                "value": 0.0
+            },
+            "ContinuationWarm": {
                 "value": 0.0
             },
             "Damage": {
@@ -5710,11 +7142,14 @@
             "Delay": {
                 "value": 0.0
             },
+            "DelayThreshold": {
+                "value": 0.0
+            },
             "FlashCheck": {
                 "value": false
             },
             "HitChance": {
-                "value": 65.0
+                "value": 55.0
             },
             "HitboxList": {
                 "values": [
@@ -5733,10 +7168,19 @@
             "Seed": {
                 "value": true
             },
+            "SeedConditions": {
+                "values": []
+            },
             "SmokeCheck": {
                 "value": false
             },
             "Smooth": {
+                "value": 85.0
+            },
+            "SmoothMode": {
+                "value": 1
+            },
+            "VisibleReactionTime": {
                 "value": 0.0
             }
         },
@@ -5745,21 +7189,38 @@
                 "value": 3.0
             },
             "AutoStop": {
-                "value": true
+                "value": false
             },
             "Autowall": {
                 "value": false
             },
+            "AutowallOverwrite": {
+                "key": 71,
+                "keymode": 2,
+                "value": true
+            },
+            "AutowallOverwriteDamage": {
+                "value": 1.0
+            },
             "BacktrackTime": {
-                "value": 200.0
+                "value": 150.0
+            },
+            "BulletDelay": {
+                "value": 0.0
             },
             "Bullets": {
                 "value": 0.0
             },
+            "ContinuationWarm": {
+                "value": 0.0
+            },
             "Damage": {
-                "value": 21.0
+                "value": 30.0
             },
             "Delay": {
+                "value": 0.0
+            },
+            "DelayThreshold": {
                 "value": 0.0
             },
             "FlashCheck": {
@@ -5772,9 +7233,7 @@
                 "values": [
                     0,
                     1,
-                    2,
-                    3,
-                    4
+                    2
                 ]
             },
             "LegitAutowall": {
@@ -5785,10 +7244,19 @@
             "Seed": {
                 "value": true
             },
+            "SeedConditions": {
+                "values": []
+            },
             "SmokeCheck": {
                 "value": false
             },
             "Smooth": {
+                "value": 85.0
+            },
+            "SmoothMode": {
+                "value": 1
+            },
+            "VisibleReactionTime": {
                 "value": 0.0
             }
         },
@@ -5797,28 +7265,45 @@
                 "value": 3.0
             },
             "AutoStop": {
-                "value": true
+                "value": false
             },
             "Autowall": {
                 "value": false
             },
+            "AutowallOverwrite": {
+                "key": 71,
+                "keymode": 2,
+                "value": true
+            },
+            "AutowallOverwriteDamage": {
+                "value": 1.0
+            },
             "BacktrackTime": {
-                "value": 200.0
+                "value": 150.0
+            },
+            "BulletDelay": {
+                "value": 0.0
             },
             "Bullets": {
                 "value": 0.0
             },
+            "ContinuationWarm": {
+                "value": 0.0
+            },
             "Damage": {
-                "value": 22.0
+                "value": 14.0
             },
             "Delay": {
+                "value": 0.0
+            },
+            "DelayThreshold": {
                 "value": 0.0
             },
             "FlashCheck": {
                 "value": false
             },
             "HitChance": {
-                "value": 55.0
+                "value": 40.0
             },
             "HitboxList": {
                 "values": [
@@ -5835,33 +7320,59 @@
             "Seed": {
                 "value": true
             },
+            "SeedConditions": {
+                "values": []
+            },
             "SmokeCheck": {
                 "value": false
             },
             "Smooth": {
+                "value": 85.0
+            },
+            "SmoothMode": {
+                "value": 1
+            },
+            "VisibleReactionTime": {
                 "value": 0.0
             }
         },
         "Heavy": {
             "Aimfov": {
-                "value": 3.0
+                "value": 0.0
             },
             "AutoStop": {
-                "value": true
+                "value": false
             },
             "Autowall": {
                 "value": false
             },
+            "AutowallOverwrite": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "AutowallOverwriteDamage": {
+                "value": 0.0
+            },
             "BacktrackTime": {
-                "value": 200.0
+                "value": 0.0
+            },
+            "BulletDelay": {
+                "value": 0.0
             },
             "Bullets": {
+                "value": 0.0
+            },
+            "ContinuationWarm": {
                 "value": 0.0
             },
             "Damage": {
                 "value": 0.0
             },
             "Delay": {
+                "value": 0.0
+            },
+            "DelayThreshold": {
                 "value": 0.0
             },
             "FlashCheck": {
@@ -5879,46 +7390,71 @@
                 "value": false
             },
             "Seed": {
-                "value": true
+                "value": false
+            },
+            "SeedConditions": {
+                "values": []
             },
             "SmokeCheck": {
                 "value": false
             },
             "Smooth": {
                 "value": 0.0
+            },
+            "SmoothMode": {
+                "value": 0
+            },
+            "VisibleReactionTime": {
+                "value": 0.0
             }
         },
         "Key": {
-            "key": 0,
-            "keymode": 0
+            "key": 0
         },
         "M249": {
             "Aimfov": {
                 "value": 3.0
             },
             "AutoStop": {
-                "value": true
+                "value": false
             },
             "Autowall": {
                 "value": false
             },
+            "AutowallOverwrite": {
+                "key": 71,
+                "keymode": 2,
+                "value": true
+            },
+            "AutowallOverwriteDamage": {
+                "value": 1.0
+            },
             "BacktrackTime": {
-                "value": 200.0
+                "value": 150.0
+            },
+            "BulletDelay": {
+                "value": 0.0
             },
             "Bullets": {
                 "value": 0.0
             },
+            "ContinuationWarm": {
+                "value": 0.0
+            },
             "Damage": {
-                "value": 15.0
+                "value": 30.0
             },
             "Delay": {
+                "value": 0.0
+            },
+            "DelayThreshold": {
                 "value": 0.0
             },
             "FlashCheck": {
                 "value": false
             },
             "HitChance": {
-                "value": 10.0
+                "value": 15.0
             },
             "HitboxList": {
                 "values": [
@@ -5937,10 +7473,19 @@
             "Seed": {
                 "value": true
             },
+            "SeedConditions": {
+                "values": []
+            },
             "SmokeCheck": {
                 "value": false
             },
             "Smooth": {
+                "value": 85.0
+            },
+            "SmoothMode": {
+                "value": 1
+            },
+            "VisibleReactionTime": {
                 "value": 0.0
             }
         },
@@ -5949,21 +7494,38 @@
                 "value": 3.0
             },
             "AutoStop": {
-                "value": true
+                "value": false
             },
             "Autowall": {
                 "value": false
             },
+            "AutowallOverwrite": {
+                "key": 71,
+                "keymode": 2,
+                "value": true
+            },
+            "AutowallOverwriteDamage": {
+                "value": 1.0
+            },
             "BacktrackTime": {
-                "value": 200.0
+                "value": 150.0
+            },
+            "BulletDelay": {
+                "value": 0.0
             },
             "Bullets": {
                 "value": 0.0
             },
+            "ContinuationWarm": {
+                "value": 0.0
+            },
             "Damage": {
-                "value": 21.0
+                "value": 30.0
             },
             "Delay": {
+                "value": 0.0
+            },
+            "DelayThreshold": {
                 "value": 0.0
             },
             "FlashCheck": {
@@ -5976,9 +7538,7 @@
                 "values": [
                     0,
                     1,
-                    2,
-                    3,
-                    4
+                    2
                 ]
             },
             "LegitAutowall": {
@@ -5989,10 +7549,19 @@
             "Seed": {
                 "value": true
             },
+            "SeedConditions": {
+                "values": []
+            },
             "SmokeCheck": {
                 "value": false
             },
             "Smooth": {
+                "value": 85.0
+            },
+            "SmoothMode": {
+                "value": 1
+            },
+            "VisibleReactionTime": {
                 "value": 0.0
             }
         },
@@ -6001,21 +7570,38 @@
                 "value": 3.0
             },
             "AutoStop": {
-                "value": true
+                "value": false
             },
             "Autowall": {
                 "value": false
             },
+            "AutowallOverwrite": {
+                "key": 71,
+                "keymode": 2,
+                "value": true
+            },
+            "AutowallOverwriteDamage": {
+                "value": 1.0
+            },
             "BacktrackTime": {
-                "value": 200.0
+                "value": 150.0
+            },
+            "BulletDelay": {
+                "value": 0.0
             },
             "Bullets": {
                 "value": 0.0
             },
+            "ContinuationWarm": {
+                "value": 0.0
+            },
             "Damage": {
-                "value": 21.0
+                "value": 30.0
             },
             "Delay": {
+                "value": 0.0
+            },
+            "DelayThreshold": {
                 "value": 0.0
             },
             "FlashCheck": {
@@ -6028,9 +7614,7 @@
                 "values": [
                     0,
                     1,
-                    2,
-                    3,
-                    4
+                    2
                 ]
             },
             "LegitAutowall": {
@@ -6041,10 +7625,19 @@
             "Seed": {
                 "value": true
             },
+            "SeedConditions": {
+                "values": []
+            },
             "SmokeCheck": {
                 "value": false
             },
             "Smooth": {
+                "value": 85.0
+            },
+            "SmoothMode": {
+                "value": 1
+            },
+            "VisibleReactionTime": {
                 "value": 0.0
             }
         },
@@ -6053,21 +7646,38 @@
                 "value": 3.0
             },
             "AutoStop": {
-                "value": true
+                "value": false
             },
             "Autowall": {
                 "value": false
             },
+            "AutowallOverwrite": {
+                "key": 71,
+                "keymode": 2,
+                "value": true
+            },
+            "AutowallOverwriteDamage": {
+                "value": 1.0
+            },
             "BacktrackTime": {
-                "value": 200.0
+                "value": 150.0
+            },
+            "BulletDelay": {
+                "value": 0.0
             },
             "Bullets": {
+                "value": 0.0
+            },
+            "ContinuationWarm": {
                 "value": 0.0
             },
             "Damage": {
                 "value": 20.0
             },
             "Delay": {
+                "value": 0.0
+            },
+            "DelayThreshold": {
                 "value": 0.0
             },
             "FlashCheck": {
@@ -6093,10 +7703,19 @@
             "Seed": {
                 "value": true
             },
+            "SeedConditions": {
+                "values": []
+            },
             "SmokeCheck": {
                 "value": false
             },
             "Smooth": {
+                "value": 85.0
+            },
+            "SmoothMode": {
+                "value": 1
+            },
+            "VisibleReactionTime": {
                 "value": 0.0
             }
         },
@@ -6105,15 +7724,29 @@
                 "value": 3.0
             },
             "AutoStop": {
-                "value": true
+                "value": false
             },
             "Autowall": {
                 "value": false
             },
+            "AutowallOverwrite": {
+                "key": 71,
+                "keymode": 2,
+                "value": true
+            },
+            "AutowallOverwriteDamage": {
+                "value": 1.0
+            },
             "BacktrackTime": {
-                "value": 200.0
+                "value": 150.0
+            },
+            "BulletDelay": {
+                "value": 0.0
             },
             "Bullets": {
+                "value": 0.0
+            },
+            "ContinuationWarm": {
                 "value": 0.0
             },
             "Damage": {
@@ -6122,6 +7755,9 @@
             "Delay": {
                 "value": 0.0
             },
+            "DelayThreshold": {
+                "value": 0.0
+            },
             "FlashCheck": {
                 "value": false
             },
@@ -6145,10 +7781,19 @@
             "Seed": {
                 "value": true
             },
+            "SeedConditions": {
+                "values": []
+            },
             "SmokeCheck": {
                 "value": false
             },
             "Smooth": {
+                "value": 85.0
+            },
+            "SmoothMode": {
+                "value": 1
+            },
+            "VisibleReactionTime": {
                 "value": 0.0
             }
         },
@@ -6157,36 +7802,57 @@
                 "value": 3.0
             },
             "AutoStop": {
-                "value": true
+                "value": false
             },
             "Autowall": {
                 "value": false
             },
+            "AutowallOverwrite": {
+                "key": 71,
+                "keymode": 2,
+                "value": true
+            },
+            "AutowallOverwriteDamage": {
+                "value": 0.0
+            },
             "BacktrackTime": {
-                "value": 200.0
+                "value": 150.0
+            },
+            "BulletDelay": {
+                "value": 0.0
             },
             "Bullets": {
                 "value": 0.0
             },
+            "ContinuationWarm": {
+                "value": 0.0
+            },
             "Damage": {
-                "value": 20.0
+                "value": 0.0
             },
             "Delay": {
+                "value": 0.0
+            },
+            "DelayThreshold": {
                 "value": 0.0
             },
             "FlashCheck": {
                 "value": false
             },
             "HitChance": {
-                "value": 20.0
+                "value": 70.0
             },
             "HitboxList": {
                 "values": [
                     0,
                     1,
-                    2,
+                    6,
+                    5,
+                    4,
                     3,
-                    4
+                    2,
+                    17,
+                    8
                 ]
             },
             "LegitAutowall": {
@@ -6197,10 +7863,19 @@
             "Seed": {
                 "value": true
             },
+            "SeedConditions": {
+                "values": []
+            },
             "SmokeCheck": {
                 "value": false
             },
             "Smooth": {
+                "value": 85.0
+            },
+            "SmoothMode": {
+                "value": 1
+            },
+            "VisibleReactionTime": {
                 "value": 0.0
             }
         },
@@ -6209,21 +7884,38 @@
                 "value": 3.0
             },
             "AutoStop": {
-                "value": true
+                "value": false
             },
             "Autowall": {
                 "value": false
             },
+            "AutowallOverwrite": {
+                "key": 71,
+                "keymode": 2,
+                "value": true
+            },
+            "AutowallOverwriteDamage": {
+                "value": 1.0
+            },
             "BacktrackTime": {
-                "value": 200.0
+                "value": 150.0
+            },
+            "BulletDelay": {
+                "value": 0.0
             },
             "Bullets": {
+                "value": 0.0
+            },
+            "ContinuationWarm": {
                 "value": 0.0
             },
             "Damage": {
                 "value": 20.0
             },
             "Delay": {
+                "value": 0.0
+            },
+            "DelayThreshold": {
                 "value": 0.0
             },
             "FlashCheck": {
@@ -6249,10 +7941,19 @@
             "Seed": {
                 "value": true
             },
+            "SeedConditions": {
+                "values": []
+            },
             "SmokeCheck": {
                 "value": false
             },
             "Smooth": {
+                "value": 85.0
+            },
+            "SmoothMode": {
+                "value": 1
+            },
+            "VisibleReactionTime": {
                 "value": 0.0
             }
         },
@@ -6261,21 +7962,38 @@
                 "value": 3.0
             },
             "AutoStop": {
-                "value": true
+                "value": false
             },
             "Autowall": {
                 "value": false
             },
+            "AutowallOverwrite": {
+                "key": 71,
+                "keymode": 2,
+                "value": true
+            },
+            "AutowallOverwriteDamage": {
+                "value": 1.0
+            },
             "BacktrackTime": {
-                "value": 200.0
+                "value": 150.0
+            },
+            "BulletDelay": {
+                "value": 0.0
             },
             "Bullets": {
+                "value": 0.0
+            },
+            "ContinuationWarm": {
                 "value": 0.0
             },
             "Damage": {
                 "value": 20.0
             },
             "Delay": {
+                "value": 0.0
+            },
+            "DelayThreshold": {
                 "value": 0.0
             },
             "FlashCheck": {
@@ -6301,10 +8019,19 @@
             "Seed": {
                 "value": true
             },
+            "SeedConditions": {
+                "values": []
+            },
             "SmokeCheck": {
                 "value": false
             },
             "Smooth": {
+                "value": 85.0
+            },
+            "SmoothMode": {
+                "value": 1
+            },
+            "VisibleReactionTime": {
                 "value": 0.0
             }
         },
@@ -6316,28 +8043,45 @@
                 "value": 3.0
             },
             "AutoStop": {
-                "value": true
+                "value": false
             },
             "Autowall": {
                 "value": false
             },
+            "AutowallOverwrite": {
+                "key": 71,
+                "keymode": 2,
+                "value": true
+            },
+            "AutowallOverwriteDamage": {
+                "value": 1.0
+            },
             "BacktrackTime": {
-                "value": 200.0
+                "value": 150.0
+            },
+            "BulletDelay": {
+                "value": 0.0
             },
             "Bullets": {
                 "value": 0.0
             },
+            "ContinuationWarm": {
+                "value": 0.0
+            },
             "Damage": {
-                "value": 15.0
+                "value": 30.0
             },
             "Delay": {
+                "value": 0.0
+            },
+            "DelayThreshold": {
                 "value": 0.0
             },
             "FlashCheck": {
                 "value": false
             },
             "HitChance": {
-                "value": 10.0
+                "value": 15.0
             },
             "HitboxList": {
                 "values": [
@@ -6356,10 +8100,19 @@
             "Seed": {
                 "value": true
             },
+            "SeedConditions": {
+                "values": []
+            },
             "SmokeCheck": {
                 "value": false
             },
             "Smooth": {
+                "value": 85.0
+            },
+            "SmoothMode": {
+                "value": 1
+            },
+            "VisibleReactionTime": {
                 "value": 0.0
             }
         },
@@ -6368,15 +8121,29 @@
                 "value": 3.0
             },
             "AutoStop": {
-                "value": true
+                "value": false
             },
             "Autowall": {
                 "value": false
             },
+            "AutowallOverwrite": {
+                "key": 71,
+                "keymode": 2,
+                "value": true
+            },
+            "AutowallOverwriteDamage": {
+                "value": 1.0
+            },
             "BacktrackTime": {
-                "value": 200.0
+                "value": 150.0
+            },
+            "BulletDelay": {
+                "value": 0.0
             },
             "Bullets": {
+                "value": 0.0
+            },
+            "ContinuationWarm": {
                 "value": 0.0
             },
             "Damage": {
@@ -6385,6 +8152,9 @@
             "Delay": {
                 "value": 0.0
             },
+            "DelayThreshold": {
+                "value": 0.0
+            },
             "FlashCheck": {
                 "value": false
             },
@@ -6395,9 +8165,13 @@
                 "values": [
                     0,
                     1,
-                    2,
+                    6,
+                    5,
+                    4,
                     3,
-                    4
+                    2,
+                    17,
+                    8
                 ]
             },
             "LegitAutowall": {
@@ -6408,10 +8182,19 @@
             "Seed": {
                 "value": true
             },
+            "SeedConditions": {
+                "values": []
+            },
             "SmokeCheck": {
                 "value": false
             },
             "Smooth": {
+                "value": 85.0
+            },
+            "SmoothMode": {
+                "value": 1
+            },
+            "VisibleReactionTime": {
                 "value": 0.0
             }
         },
@@ -6420,28 +8203,45 @@
                 "value": 3.0
             },
             "AutoStop": {
-                "value": true
+                "value": false
             },
             "Autowall": {
                 "value": false
             },
+            "AutowallOverwrite": {
+                "key": 71,
+                "keymode": 2,
+                "value": true
+            },
+            "AutowallOverwriteDamage": {
+                "value": 1.0
+            },
             "BacktrackTime": {
-                "value": 200.0
+                "value": 150.0
+            },
+            "BulletDelay": {
+                "value": 0.0
             },
             "Bullets": {
                 "value": 0.0
             },
+            "ContinuationWarm": {
+                "value": 0.0
+            },
             "Damage": {
-                "value": 22.0
+                "value": 14.0
             },
             "Delay": {
+                "value": 0.0
+            },
+            "DelayThreshold": {
                 "value": 0.0
             },
             "FlashCheck": {
                 "value": false
             },
             "HitChance": {
-                "value": 55.0
+                "value": 40.0
             },
             "HitboxList": {
                 "values": [
@@ -6458,10 +8258,19 @@
             "Seed": {
                 "value": true
             },
+            "SeedConditions": {
+                "values": []
+            },
             "SmokeCheck": {
                 "value": false
             },
             "Smooth": {
+                "value": 85.0
+            },
+            "SmoothMode": {
+                "value": 1
+            },
+            "VisibleReactionTime": {
                 "value": 0.0
             }
         },
@@ -6470,28 +8279,45 @@
                 "value": 3.0
             },
             "AutoStop": {
-                "value": true
+                "value": false
             },
             "Autowall": {
                 "value": false
             },
+            "AutowallOverwrite": {
+                "key": 71,
+                "keymode": 2,
+                "value": true
+            },
+            "AutowallOverwriteDamage": {
+                "value": 1.0
+            },
             "BacktrackTime": {
-                "value": 200.0
+                "value": 150.0
+            },
+            "BulletDelay": {
+                "value": 0.0
             },
             "Bullets": {
                 "value": 0.0
             },
+            "ContinuationWarm": {
+                "value": 0.0
+            },
             "Damage": {
-                "value": 22.0
+                "value": 14.0
             },
             "Delay": {
+                "value": 0.0
+            },
+            "DelayThreshold": {
                 "value": 0.0
             },
             "FlashCheck": {
                 "value": false
             },
             "HitChance": {
-                "value": 55.0
+                "value": 40.0
             },
             "HitboxList": {
                 "values": [
@@ -6508,10 +8334,19 @@
             "Seed": {
                 "value": true
             },
+            "SeedConditions": {
+                "values": []
+            },
             "SmokeCheck": {
                 "value": false
             },
             "Smooth": {
+                "value": 85.0
+            },
+            "SmoothMode": {
+                "value": 1
+            },
+            "VisibleReactionTime": {
                 "value": 0.0
             }
         },
@@ -6520,21 +8355,38 @@
                 "value": 3.0
             },
             "AutoStop": {
-                "value": true
+                "value": false
             },
             "Autowall": {
                 "value": false
             },
+            "AutowallOverwrite": {
+                "key": 71,
+                "keymode": 2,
+                "value": true
+            },
+            "AutowallOverwriteDamage": {
+                "value": 1.0
+            },
             "BacktrackTime": {
-                "value": 200.0
+                "value": 150.0
+            },
+            "BulletDelay": {
+                "value": 0.0
             },
             "Bullets": {
+                "value": 0.0
+            },
+            "ContinuationWarm": {
                 "value": 0.0
             },
             "Damage": {
                 "value": 20.0
             },
             "Delay": {
+                "value": 0.0
+            },
+            "DelayThreshold": {
                 "value": 0.0
             },
             "FlashCheck": {
@@ -6560,10 +8412,19 @@
             "Seed": {
                 "value": true
             },
+            "SeedConditions": {
+                "values": []
+            },
             "SmokeCheck": {
                 "value": false
             },
             "Smooth": {
+                "value": 85.0
+            },
+            "SmoothMode": {
+                "value": 1
+            },
+            "VisibleReactionTime": {
                 "value": 0.0
             }
         },
@@ -6572,21 +8433,38 @@
                 "value": 3.0
             },
             "AutoStop": {
-                "value": true
+                "value": false
             },
             "Autowall": {
                 "value": false
             },
+            "AutowallOverwrite": {
+                "key": 71,
+                "keymode": 2,
+                "value": true
+            },
+            "AutowallOverwriteDamage": {
+                "value": 1.0
+            },
             "BacktrackTime": {
-                "value": 200.0
+                "value": 150.0
+            },
+            "BulletDelay": {
+                "value": 0.0
             },
             "Bullets": {
+                "value": 0.0
+            },
+            "ContinuationWarm": {
                 "value": 0.0
             },
             "Damage": {
                 "value": 20.0
             },
             "Delay": {
+                "value": 0.0
+            },
+            "DelayThreshold": {
                 "value": 0.0
             },
             "FlashCheck": {
@@ -6612,33 +8490,59 @@
             "Seed": {
                 "value": true
             },
+            "SeedConditions": {
+                "values": []
+            },
             "SmokeCheck": {
                 "value": false
             },
             "Smooth": {
+                "value": 85.0
+            },
+            "SmoothMode": {
+                "value": 1
+            },
+            "VisibleReactionTime": {
                 "value": 0.0
             }
         },
         "Pistol": {
             "Aimfov": {
-                "value": 3.0
+                "value": 0.0
             },
             "AutoStop": {
-                "value": true
+                "value": false
             },
             "Autowall": {
                 "value": false
             },
+            "AutowallOverwrite": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "AutowallOverwriteDamage": {
+                "value": 0.0
+            },
             "BacktrackTime": {
-                "value": 200.0
+                "value": 0.0
+            },
+            "BulletDelay": {
+                "value": 0.0
             },
             "Bullets": {
+                "value": 0.0
+            },
+            "ContinuationWarm": {
                 "value": 0.0
             },
             "Damage": {
                 "value": 0.0
             },
             "Delay": {
+                "value": 0.0
+            },
+            "DelayThreshold": {
                 "value": 0.0
             },
             "FlashCheck": {
@@ -6656,12 +8560,21 @@
                 "value": false
             },
             "Seed": {
-                "value": true
+                "value": false
+            },
+            "SeedConditions": {
+                "values": []
             },
             "SmokeCheck": {
                 "value": false
             },
             "Smooth": {
+                "value": 0.0
+            },
+            "SmoothMode": {
+                "value": 0
+            },
+            "VisibleReactionTime": {
                 "value": 0.0
             }
         },
@@ -6670,28 +8583,45 @@
                 "value": 3.0
             },
             "AutoStop": {
-                "value": true
+                "value": false
             },
             "Autowall": {
                 "value": false
             },
+            "AutowallOverwrite": {
+                "key": 71,
+                "keymode": 2,
+                "value": true
+            },
+            "AutowallOverwriteDamage": {
+                "value": 5.0
+            },
             "BacktrackTime": {
-                "value": 200.0
+                "value": 150.0
+            },
+            "BulletDelay": {
+                "value": 0.0
             },
             "Bullets": {
                 "value": 0.0
             },
+            "ContinuationWarm": {
+                "value": 0.0
+            },
             "Damage": {
-                "value": 20.0
+                "value": 30.0
             },
             "Delay": {
+                "value": 0.0
+            },
+            "DelayThreshold": {
                 "value": 0.0
             },
             "FlashCheck": {
                 "value": false
             },
             "HitChance": {
-                "value": 0.0
+                "value": 70.0
             },
             "HitboxList": {
                 "values": [
@@ -6710,33 +8640,59 @@
             "Seed": {
                 "value": true
             },
+            "SeedConditions": {
+                "values": []
+            },
             "SmokeCheck": {
                 "value": false
             },
             "Smooth": {
+                "value": 85.0
+            },
+            "SmoothMode": {
+                "value": 1
+            },
+            "VisibleReactionTime": {
                 "value": 0.0
             }
         },
         "Rifle": {
             "Aimfov": {
-                "value": 3.0
+                "value": 0.0
             },
             "AutoStop": {
-                "value": true
+                "value": false
             },
             "Autowall": {
                 "value": false
             },
+            "AutowallOverwrite": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "AutowallOverwriteDamage": {
+                "value": 0.0
+            },
             "BacktrackTime": {
-                "value": 200.0
+                "value": 0.0
+            },
+            "BulletDelay": {
+                "value": 0.0
             },
             "Bullets": {
+                "value": 0.0
+            },
+            "ContinuationWarm": {
                 "value": 0.0
             },
             "Damage": {
                 "value": 0.0
             },
             "Delay": {
+                "value": 0.0
+            },
+            "DelayThreshold": {
                 "value": 0.0
             },
             "FlashCheck": {
@@ -6754,12 +8710,21 @@
                 "value": false
             },
             "Seed": {
-                "value": true
+                "value": false
+            },
+            "SeedConditions": {
+                "values": []
             },
             "SmokeCheck": {
                 "value": false
             },
             "Smooth": {
+                "value": 0.0
+            },
+            "SmoothMode": {
+                "value": 0
+            },
+            "VisibleReactionTime": {
                 "value": 0.0
             }
         },
@@ -6768,15 +8733,29 @@
                 "value": 3.0
             },
             "AutoStop": {
-                "value": true
+                "value": false
             },
             "Autowall": {
                 "value": false
             },
+            "AutowallOverwrite": {
+                "key": 71,
+                "keymode": 2,
+                "value": true
+            },
+            "AutowallOverwriteDamage": {
+                "value": 5.0
+            },
             "BacktrackTime": {
-                "value": 200.0
+                "value": 150.0
+            },
+            "BulletDelay": {
+                "value": 0.0
             },
             "Bullets": {
+                "value": 0.0
+            },
+            "ContinuationWarm": {
                 "value": 0.0
             },
             "Damage": {
@@ -6785,11 +8764,14 @@
             "Delay": {
                 "value": 0.0
             },
+            "DelayThreshold": {
+                "value": 0.0
+            },
             "FlashCheck": {
                 "value": false
             },
             "HitChance": {
-                "value": 65.0
+                "value": 55.0
             },
             "HitboxList": {
                 "values": [
@@ -6808,10 +8790,19 @@
             "Seed": {
                 "value": true
             },
+            "SeedConditions": {
+                "values": []
+            },
             "SmokeCheck": {
                 "value": false
             },
             "Smooth": {
+                "value": 85.0
+            },
+            "SmoothMode": {
+                "value": 1
+            },
+            "VisibleReactionTime": {
                 "value": 0.0
             }
         },
@@ -6820,21 +8811,38 @@
                 "value": 3.0
             },
             "AutoStop": {
-                "value": true
+                "value": false
             },
             "Autowall": {
                 "value": false
             },
+            "AutowallOverwrite": {
+                "key": 71,
+                "keymode": 2,
+                "value": true
+            },
+            "AutowallOverwriteDamage": {
+                "value": 1.0
+            },
             "BacktrackTime": {
-                "value": 200.0
+                "value": 150.0
+            },
+            "BulletDelay": {
+                "value": 0.0
             },
             "Bullets": {
                 "value": 0.0
             },
+            "ContinuationWarm": {
+                "value": 0.0
+            },
             "Damage": {
-                "value": 21.0
+                "value": 30.0
             },
             "Delay": {
+                "value": 0.0
+            },
+            "DelayThreshold": {
                 "value": 0.0
             },
             "FlashCheck": {
@@ -6847,9 +8855,7 @@
                 "values": [
                     0,
                     1,
-                    2,
-                    3,
-                    4
+                    2
                 ]
             },
             "LegitAutowall": {
@@ -6860,33 +8866,59 @@
             "Seed": {
                 "value": true
             },
+            "SeedConditions": {
+                "values": []
+            },
             "SmokeCheck": {
                 "value": false
             },
             "Smooth": {
+                "value": 85.0
+            },
+            "SmoothMode": {
+                "value": 1
+            },
+            "VisibleReactionTime": {
                 "value": 0.0
             }
         },
         "SMG": {
             "Aimfov": {
-                "value": 3.0
+                "value": 0.0
             },
             "AutoStop": {
-                "value": true
+                "value": false
             },
             "Autowall": {
                 "value": false
             },
+            "AutowallOverwrite": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "AutowallOverwriteDamage": {
+                "value": 0.0
+            },
             "BacktrackTime": {
-                "value": 200.0
+                "value": 0.0
+            },
+            "BulletDelay": {
+                "value": 0.0
             },
             "Bullets": {
+                "value": 0.0
+            },
+            "ContinuationWarm": {
                 "value": 0.0
             },
             "Damage": {
                 "value": 0.0
             },
             "Delay": {
+                "value": 0.0
+            },
+            "DelayThreshold": {
                 "value": 0.0
             },
             "FlashCheck": {
@@ -6904,12 +8936,21 @@
                 "value": false
             },
             "Seed": {
-                "value": true
+                "value": false
+            },
+            "SeedConditions": {
+                "values": []
             },
             "SmokeCheck": {
                 "value": false
             },
             "Smooth": {
+                "value": 0.0
+            },
+            "SmoothMode": {
+                "value": 0
+            },
+            "VisibleReactionTime": {
                 "value": 0.0
             }
         },
@@ -6918,15 +8959,29 @@
                 "value": 3.0
             },
             "AutoStop": {
-                "value": true
+                "value": false
             },
             "Autowall": {
                 "value": false
             },
+            "AutowallOverwrite": {
+                "key": 71,
+                "keymode": 2,
+                "value": true
+            },
+            "AutowallOverwriteDamage": {
+                "value": 6.0
+            },
             "BacktrackTime": {
-                "value": 200.0
+                "value": 150.0
+            },
+            "BulletDelay": {
+                "value": 0.0
             },
             "Bullets": {
+                "value": 0.0
+            },
+            "ContinuationWarm": {
                 "value": 0.0
             },
             "Damage": {
@@ -6935,18 +8990,21 @@
             "Delay": {
                 "value": 0.0
             },
+            "DelayThreshold": {
+                "value": 0.0
+            },
             "FlashCheck": {
                 "value": false
             },
             "HitChance": {
-                "value": 60.0
+                "value": 77.0
             },
             "HitboxList": {
                 "values": [
                     0,
                     1,
                     2,
-                    4
+                    3
                 ]
             },
             "LegitAutowall": {
@@ -6957,10 +9015,19 @@
             "Seed": {
                 "value": true
             },
+            "SeedConditions": {
+                "values": []
+            },
             "SmokeCheck": {
                 "value": false
             },
             "Smooth": {
+                "value": 85.0
+            },
+            "SmoothMode": {
+                "value": 1
+            },
+            "VisibleReactionTime": {
                 "value": 0.0
             }
         },
@@ -6969,21 +9036,38 @@
                 "value": 3.0
             },
             "AutoStop": {
-                "value": true
+                "value": false
             },
             "Autowall": {
                 "value": false
             },
+            "AutowallOverwrite": {
+                "key": 71,
+                "keymode": 2,
+                "value": true
+            },
+            "AutowallOverwriteDamage": {
+                "value": 1.0
+            },
             "BacktrackTime": {
-                "value": 200.0
+                "value": 150.0
+            },
+            "BulletDelay": {
+                "value": 0.0
             },
             "Bullets": {
+                "value": 0.0
+            },
+            "ContinuationWarm": {
                 "value": 0.0
             },
             "Damage": {
                 "value": 15.0
             },
             "Delay": {
+                "value": 0.0
+            },
+            "DelayThreshold": {
                 "value": 0.0
             },
             "FlashCheck": {
@@ -7009,33 +9093,59 @@
             "Seed": {
                 "value": true
             },
+            "SeedConditions": {
+                "values": []
+            },
             "SmokeCheck": {
                 "value": false
             },
             "Smooth": {
+                "value": 85.0
+            },
+            "SmoothMode": {
+                "value": 1
+            },
+            "VisibleReactionTime": {
                 "value": 0.0
             }
         },
         "Sniper": {
             "Aimfov": {
-                "value": 3.0
+                "value": 0.0
             },
             "AutoStop": {
-                "value": true
+                "value": false
             },
             "Autowall": {
                 "value": false
             },
+            "AutowallOverwrite": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "AutowallOverwriteDamage": {
+                "value": 0.0
+            },
             "BacktrackTime": {
-                "value": 200.0
+                "value": 0.0
+            },
+            "BulletDelay": {
+                "value": 0.0
             },
             "Bullets": {
+                "value": 0.0
+            },
+            "ContinuationWarm": {
                 "value": 0.0
             },
             "Damage": {
                 "value": 0.0
             },
             "Delay": {
+                "value": 0.0
+            },
+            "DelayThreshold": {
                 "value": 0.0
             },
             "FlashCheck": {
@@ -7053,12 +9163,21 @@
                 "value": false
             },
             "Seed": {
-                "value": true
+                "value": false
+            },
+            "SeedConditions": {
+                "values": []
             },
             "SmokeCheck": {
                 "value": false
             },
             "Smooth": {
+                "value": 0.0
+            },
+            "SmoothMode": {
+                "value": 0
+            },
+            "VisibleReactionTime": {
                 "value": 0.0
             }
         },
@@ -7067,28 +9186,45 @@
                 "value": 3.0
             },
             "AutoStop": {
-                "value": true
+                "value": false
             },
             "Autowall": {
                 "value": false
             },
+            "AutowallOverwrite": {
+                "key": 71,
+                "keymode": 2,
+                "value": true
+            },
+            "AutowallOverwriteDamage": {
+                "value": 1.0
+            },
             "BacktrackTime": {
-                "value": 200.0
+                "value": 150.0
+            },
+            "BulletDelay": {
+                "value": 0.0
             },
             "Bullets": {
                 "value": 0.0
             },
+            "ContinuationWarm": {
+                "value": 0.0
+            },
             "Damage": {
-                "value": 22.0
+                "value": 14.0
             },
             "Delay": {
+                "value": 0.0
+            },
+            "DelayThreshold": {
                 "value": 0.0
             },
             "FlashCheck": {
                 "value": false
             },
             "HitChance": {
-                "value": 55.0
+                "value": 40.0
             },
             "HitboxList": {
                 "values": [
@@ -7105,10 +9241,19 @@
             "Seed": {
                 "value": true
             },
+            "SeedConditions": {
+                "values": []
+            },
             "SmokeCheck": {
                 "value": false
             },
             "Smooth": {
+                "value": 85.0
+            },
+            "SmoothMode": {
+                "value": 1
+            },
+            "VisibleReactionTime": {
                 "value": 0.0
             }
         },
@@ -7117,21 +9262,38 @@
                 "value": 3.0
             },
             "AutoStop": {
-                "value": true
+                "value": false
             },
             "Autowall": {
                 "value": false
             },
+            "AutowallOverwrite": {
+                "key": 71,
+                "keymode": 2,
+                "value": true
+            },
+            "AutowallOverwriteDamage": {
+                "value": 1.0
+            },
             "BacktrackTime": {
-                "value": 200.0
+                "value": 150.0
+            },
+            "BulletDelay": {
+                "value": 0.0
             },
             "Bullets": {
+                "value": 0.0
+            },
+            "ContinuationWarm": {
                 "value": 0.0
             },
             "Damage": {
                 "value": 20.0
             },
             "Delay": {
+                "value": 0.0
+            },
+            "DelayThreshold": {
                 "value": 0.0
             },
             "FlashCheck": {
@@ -7157,10 +9319,19 @@
             "Seed": {
                 "value": true
             },
+            "SeedConditions": {
+                "values": []
+            },
             "SmokeCheck": {
                 "value": false
             },
             "Smooth": {
+                "value": 85.0
+            },
+            "SmoothMode": {
+                "value": 1
+            },
+            "VisibleReactionTime": {
                 "value": 0.0
             }
         },
@@ -7169,28 +9340,45 @@
                 "value": 3.0
             },
             "AutoStop": {
-                "value": true
+                "value": false
             },
             "Autowall": {
                 "value": false
             },
+            "AutowallOverwrite": {
+                "key": 71,
+                "keymode": 2,
+                "value": true
+            },
+            "AutowallOverwriteDamage": {
+                "value": 1.0
+            },
             "BacktrackTime": {
-                "value": 200.0
+                "value": 150.0
+            },
+            "BulletDelay": {
+                "value": 0.0
             },
             "Bullets": {
                 "value": 0.0
             },
+            "ContinuationWarm": {
+                "value": 0.0
+            },
             "Damage": {
-                "value": 22.0
+                "value": 14.0
             },
             "Delay": {
+                "value": 0.0
+            },
+            "DelayThreshold": {
                 "value": 0.0
             },
             "FlashCheck": {
                 "value": false
             },
             "HitChance": {
-                "value": 55.0
+                "value": 40.0
             },
             "HitboxList": {
                 "values": [
@@ -7207,10 +9395,19 @@
             "Seed": {
                 "value": true
             },
+            "SeedConditions": {
+                "values": []
+            },
             "SmokeCheck": {
                 "value": false
             },
             "Smooth": {
+                "value": 85.0
+            },
+            "SmoothMode": {
+                "value": 1
+            },
+            "VisibleReactionTime": {
                 "value": 0.0
             }
         },
@@ -7219,21 +9416,38 @@
                 "value": 3.0
             },
             "AutoStop": {
-                "value": true
+                "value": false
             },
             "Autowall": {
                 "value": false
             },
+            "AutowallOverwrite": {
+                "key": 71,
+                "keymode": 2,
+                "value": true
+            },
+            "AutowallOverwriteDamage": {
+                "value": 1.0
+            },
             "BacktrackTime": {
-                "value": 200.0
+                "value": 150.0
+            },
+            "BulletDelay": {
+                "value": 0.0
             },
             "Bullets": {
+                "value": 0.0
+            },
+            "ContinuationWarm": {
                 "value": 0.0
             },
             "Damage": {
                 "value": 15.0
             },
             "Delay": {
+                "value": 0.0
+            },
+            "DelayThreshold": {
                 "value": 0.0
             },
             "FlashCheck": {
@@ -7259,10 +9473,19 @@
             "Seed": {
                 "value": true
             },
+            "SeedConditions": {
+                "values": []
+            },
             "SmokeCheck": {
                 "value": false
             },
             "Smooth": {
+                "value": 85.0
+            },
+            "SmoothMode": {
+                "value": 1
+            },
+            "VisibleReactionTime": {
                 "value": 0.0
             }
         },
@@ -7274,18 +9497,35 @@
                 "value": true
             },
             "Autowall": {
-                "value": false
+                "value": true
+            },
+            "AutowallOverwrite": {
+                "key": 71,
+                "keymode": 2,
+                "value": true
+            },
+            "AutowallOverwriteDamage": {
+                "value": 100.0
             },
             "BacktrackTime": {
-                "value": 200.0
+                "value": 150.0
+            },
+            "BulletDelay": {
+                "value": 0.0
             },
             "Bullets": {
+                "value": 0.0
+            },
+            "ContinuationWarm": {
                 "value": 0.0
             },
             "Damage": {
                 "value": 100.0
             },
             "Delay": {
+                "value": 0.0
+            },
+            "DelayThreshold": {
                 "value": 0.0
             },
             "FlashCheck": {
@@ -7309,13 +9549,22 @@
                 "value": false
             },
             "Seed": {
-                "value": false
+                "value": true
+            },
+            "SeedConditions": {
+                "values": []
             },
             "SmokeCheck": {
                 "value": false
             },
             "Smooth": {
-                "value": 36.0
+                "value": 0.0
+            },
+            "SmoothMode": {
+                "value": 1
+            },
+            "VisibleReactionTime": {
+                "value": 0.0
             }
         }
     },
@@ -7437,7 +9686,7 @@
             "Distance": {
                 "custom": [
                     7,
-                    1
+                    2
                 ],
                 "value": false
             },
@@ -7462,7 +9711,7 @@
                 "value": true
             },
             "FlagGrenade": {
-                "value": false
+                "value": true
             },
             "FlagPlanting": {
                 "value": true
@@ -7484,7 +9733,7 @@
                 "value": 0
             },
             "Font": {
-                "value": 5
+                "value": 0
             },
             "Headdot": {
                 "colors": [
@@ -7509,10 +9758,10 @@
                 "colors": [
                     [
                         0,
-                        255,
-                        255,
-                        255,
-                        230
+                        150,
+                        200,
+                        60,
+                        255
                     ],
                     [
                         0,
@@ -7526,7 +9775,7 @@
                     0,
                     0
                 ],
-                "value": 1
+                "value": 2
             },
             "HealthValue": {
                 "custom": [
@@ -7568,17 +9817,17 @@
                 "colors": [
                     [
                         0,
-                        222,
-                        32,
-                        18,
-                        255
+                        255,
+                        0,
+                        50,
+                        210
                     ],
                     [
                         0,
-                        222,
-                        32,
-                        8,
-                        255
+                        255,
+                        0,
+                        50,
+                        210
                     ]
                 ],
                 "value": false
@@ -7586,16 +9835,16 @@
             "WeapinIcon": {
                 "custom": [
                     7,
-                    2
+                    0
                 ],
-                "value": true
+                "value": false
             },
             "Weapon": {
                 "custom": [
                     7,
-                    0
+                    1
                 ],
-                "value": false
+                "value": true
             }
         },
         "Glow": {
@@ -7648,22 +9897,36 @@
             }
         },
         "Models": {
+            "ArmsChams": {
+                "color": [
+                    0,
+                    47,
+                    38,
+                    67,
+                    217
+                ],
+                "value": 0
+            },
             "BacktrackChams": {
-                "colors": [
-                    [
-                        0,
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    [
-                        0,
-                        0,
-                        0,
-                        0,
-                        0
-                    ]
+                "color": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    120
+                ],
+                "value": 0
+            },
+            "BacktrackChamsTimeSource": {
+                "value": 0
+            },
+            "KeychainChams": {
+                "color": [
+                    0,
+                    47,
+                    38,
+                    67,
+                    217
                 ],
                 "value": 0
             },
@@ -7688,6 +9951,8 @@
                 "value": 0
             },
             "PlayerChams": {
+                "key": 70,
+                "keymode": 0,
                 "value": true
             },
             "PlayerMaterialChams": {
@@ -7701,13 +9966,13 @@
                     ],
                     [
                         0,
-                        111,
-                        110,
-                        121,
-                        230
+                        150,
+                        200,
+                        60,
+                        255
                     ]
                 ],
-                "value": 1
+                "value": 3
             },
             "PlayerMaterialChamsZ": {
                 "colors": [
@@ -7720,13 +9985,23 @@
                     ],
                     [
                         0,
-                        191,
-                        191,
-                        191,
-                        88
+                        60,
+                        120,
+                        180,
+                        255
                     ]
                 ],
                 "value": 1
+            },
+            "WeaponChams": {
+                "color": [
+                    0,
+                    84,
+                    158,
+                    164,
+                    255
+                ],
+                "value": 0
             }
         },
         "Removals": {
@@ -7744,7 +10019,7 @@
                     0,
                     255
                 ],
-                "value": false
+                "value": true
             },
             "NoSmoke": {
                 "value": false
@@ -7753,6 +10028,51 @@
                 "value": false
             },
             "NoZoom": {
+                "value": false
+            }
+        },
+        "Skin": {
+            "CustomColor0": {
+                "color": [
+                    0,
+                    255,
+                    0,
+                    255,
+                    255
+                ],
+                "value": false
+            },
+            "CustomColor1": {
+                "color": [
+                    0,
+                    0,
+                    255,
+                    255,
+                    255
+                ],
+                "value": false
+            },
+            "CustomColor2": {
+                "color": [
+                    0,
+                    255,
+                    255,
+                    0,
+                    255
+                ],
+                "value": false
+            },
+            "CustomColor3": {
+                "color": [
+                    0,
+                    255,
+                    255,
+                    255,
+                    255
+                ],
+                "value": false
+            },
+            "CustomColors": {
                 "value": false
             }
         },
@@ -7786,12 +10106,22 @@
             "Clouds": {
                 "color": [
                     0,
-                    31,
-                    31,
-                    31,
+                    48,
+                    48,
+                    48,
                     255
                 ],
                 "value": false
+            },
+            "DeathEffect": {
+                "color": [
+                    0,
+                    237,
+                    55,
+                    52,
+                    255
+                ],
+                "value": 0
             },
             "DroppedWeapon": {
                 "colors": [
@@ -7814,7 +10144,7 @@
                     2
                 ]
             },
-            "GrenadePrediction": {
+            "GrenadePred": {
                 "colors": [
                     [
                         0,
@@ -7826,9 +10156,9 @@
                     [
                         0,
                         255,
-                        0,
-                        50,
-                        210
+                        255,
+                        255,
+                        0
                     ]
                 ],
                 "value": true
@@ -7852,6 +10182,9 @@
                 ],
                 "value": true
             },
+            "GrenadePredictionOldLines": {
+                "value": true
+            },
             "GrenadePredictionPinOnly": {
                 "value": false
             },
@@ -7865,7 +10198,7 @@
                         255,
                         255,
                         255,
-                        200
+                        0
                     ],
                     [
                         0,
@@ -7905,22 +10238,64 @@
             "Lightning": {
                 "color": [
                     0,
-                    188,
-                    188,
-                    188,
+                    43,
+                    41,
+                    46,
                     255
                 ],
-                "value": true
+                "value": false
+            },
+            "MolotovInfo": {
+                "colors": [
+                    [
+                        0,
+                        228,
+                        174,
+                        46,
+                        50
+                    ],
+                    [
+                        0,
+                        255,
+                        255,
+                        255,
+                        60
+                    ]
+                ],
+                "values": [
+                    2
+                ]
             },
             "SkyMode": {
                 "color": [
                     0,
-                    172,
-                    187,
-                    227,
+                    246,
+                    199,
+                    159,
                     255
                 ],
-                "value": 5
+                "value": 0
+            },
+            "SmokeInfo": {
+                "colors": [
+                    [
+                        0,
+                        60,
+                        180,
+                        225,
+                        80
+                    ],
+                    [
+                        0,
+                        255,
+                        255,
+                        255,
+                        60
+                    ]
+                ],
+                "values": [
+                    2
+                ]
             },
             "SoundESP": {
                 "color": [
@@ -7942,12 +10317,56 @@
                 ],
                 "value": false
             },
-            "WorldColorModulation": {
+            "StarsAmount": {
+                "value": 0.0
+            },
+            "StarsSky": {
+                "value": false
+            },
+            "Sun": {
                 "color": [
                     0,
                     255,
                     255,
                     255,
+                    255
+                ],
+                "value": false
+            },
+            "WeatherGlowIntensity": {
+                "value": 0.0
+            },
+            "WeatherGlowRadius": {
+                "value": 0.0
+            },
+            "WeatherLightning": {
+                "value": false
+            },
+            "WeatherMode": {
+                "color": [
+                    0,
+                    255,
+                    255,
+                    255,
+                    255
+                ],
+                "value": 0
+            },
+            "WeatherRadius": {
+                "value": 0.0
+            },
+            "WeatherRate": {
+                "value": 0.0
+            },
+            "WeatherWind": {
+                "value": 0.0
+            },
+            "WorldColorModulation": {
+                "color": [
+                    0,
+                    99,
+                    99,
+                    99,
                     255
                 ],
                 "value": true
