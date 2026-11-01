@@ -946,7 +946,7 @@
                 "value": true
             },
             "OverTime": {
-                "value": 59.0
+                "value": 0.0
             },
             "PathMode": {
                 "value": 0
@@ -979,7 +979,7 @@
                 "value": 44.0
             },
             "ScaleYaw": {
-                "value": 26.0
+                "value": 29.0
             },
             "Seed": {
                 "key": 0,
@@ -993,19 +993,19 @@
                 "value": false
             },
             "Smooth": {
-                "value": 93.0
+                "value": 8.0
             },
             "SmoothMode": {
-                "value": 1
+                "value": 0
             },
             "StandaloneBacktrackTime": {
                 "value": 0.0
             },
             "TargetSwitchTime": {
-                "value": 55.0
+                "value": 0.0
             },
             "Time": {
-                "value": 180.0
+                "value": 0.0
             },
             "VisibleReactionTime": {
                 "value": 0.0
@@ -1232,7 +1232,7 @@
                 "value": true
             },
             "OverTime": {
-                "value": 59.0
+                "value": 0.0
             },
             "PathMode": {
                 "value": 0
@@ -1265,7 +1265,7 @@
                 "value": 44.0
             },
             "ScaleYaw": {
-                "value": 26.0
+                "value": 29.0
             },
             "Seed": {
                 "key": 0,
@@ -1279,19 +1279,19 @@
                 "value": false
             },
             "Smooth": {
-                "value": 93.0
+                "value": 8.0
             },
             "SmoothMode": {
-                "value": 1
+                "value": 0
             },
             "StandaloneBacktrackTime": {
                 "value": 0.0
             },
             "TargetSwitchTime": {
-                "value": 55.0
+                "value": 0.0
             },
             "Time": {
-                "value": 180.0
+                "value": 0.0
             },
             "VisibleReactionTime": {
                 "value": 0.0
@@ -1667,7 +1667,7 @@
                 "value": true
             },
             "OverTime": {
-                "value": 59.0
+                "value": 0.0
             },
             "PathMode": {
                 "value": 0
@@ -1700,7 +1700,7 @@
                 "value": 44.0
             },
             "ScaleYaw": {
-                "value": 26.0
+                "value": 29.0
             },
             "Seed": {
                 "key": 0,
@@ -1714,19 +1714,19 @@
                 "value": false
             },
             "Smooth": {
-                "value": 93.0
+                "value": 8.0
             },
             "SmoothMode": {
-                "value": 1
+                "value": 0
             },
             "StandaloneBacktrackTime": {
                 "value": 0.0
             },
             "TargetSwitchTime": {
-                "value": 55.0
+                "value": 0.0
             },
             "Time": {
-                "value": 180.0
+                "value": 0.0
             },
             "VisibleReactionTime": {
                 "value": 0.0
@@ -3441,7 +3441,7 @@
                 "value": true
             },
             "OverTime": {
-                "value": 59.0
+                "value": 0.0
             },
             "PathMode": {
                 "value": 0
@@ -3474,7 +3474,7 @@
                 "value": 44.0
             },
             "ScaleYaw": {
-                "value": 26.0
+                "value": 29.0
             },
             "Seed": {
                 "key": 0,
@@ -3488,19 +3488,19 @@
                 "value": false
             },
             "Smooth": {
-                "value": 93.0
+                "value": 8.0
             },
             "SmoothMode": {
-                "value": 1
+                "value": 0
             },
             "StandaloneBacktrackTime": {
                 "value": 0.0
             },
             "TargetSwitchTime": {
-                "value": 55.0
+                "value": 0.0
             },
             "Time": {
-                "value": 180.0
+                "value": 0.0
             },
             "VisibleReactionTime": {
                 "value": 0.0
@@ -3584,7 +3584,7 @@
                 "value": true
             },
             "OverTime": {
-                "value": 59.0
+                "value": 0.0
             },
             "PathMode": {
                 "value": 0
@@ -3617,7 +3617,7 @@
                 "value": 44.0
             },
             "ScaleYaw": {
-                "value": 26.0
+                "value": 29.0
             },
             "Seed": {
                 "key": 0,
@@ -3631,19 +3631,19 @@
                 "value": false
             },
             "Smooth": {
-                "value": 93.0
+                "value": 8.0
             },
             "SmoothMode": {
-                "value": 1
+                "value": 0
             },
             "StandaloneBacktrackTime": {
                 "value": 0.0
             },
             "TargetSwitchTime": {
-                "value": 55.0
+                "value": 0.0
             },
             "Time": {
-                "value": 180.0
+                "value": 0.0
             },
             "VisibleReactionTime": {
                 "value": 0.0
@@ -5604,7 +5604,7 @@
                 "value": true
             },
             "OverTime": {
-                "value": 59.0
+                "value": 0.0
             },
             "PathMode": {
                 "value": 0
@@ -5637,7 +5637,7 @@
                 "value": 44.0
             },
             "ScaleYaw": {
-                "value": 26.0
+                "value": 29.0
             },
             "Seed": {
                 "key": 0,
@@ -5651,19 +5651,19 @@
                 "value": false
             },
             "Smooth": {
-                "value": 93.0
+                "value": 8.0
             },
             "SmoothMode": {
-                "value": 1
+                "value": 0
             },
             "StandaloneBacktrackTime": {
                 "value": 0.0
             },
             "TargetSwitchTime": {
-                "value": 55.0
+                "value": 0.0
             },
             "Time": {
-                "value": 180.0
+                "value": 0.0
             },
             "VisibleReactionTime": {
                 "value": 0.0
@@ -10364,9 +10364,9 @@
             "WorldColorModulation": {
                 "color": [
                     0,
-                    99,
-                    99,
-                    99,
+                    121,
+                    121,
+                    121,
                     255
                 ],
                 "value": true
