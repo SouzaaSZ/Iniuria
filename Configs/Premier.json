@@ -6277,7 +6277,7 @@
                 "values": []
             },
             "IngameRadar": {
-                "value": true
+                "value": false
             },
             "Offscreen": {
                 "colors": [
@@ -6383,13 +6383,13 @@
         },
         "World": {
             "Aspectratio": {
-                "value": 1.33
+                "value": 0.0
             },
             "Fov": {
                 "value": 0.0
             },
             "ViewmodelChanger": {
-                "value": true
+                "value": false
             },
             "ViewmodelFov": {
                 "value": 0.0
@@ -8036,7 +8036,7 @@
             }
         },
         "Mode": {
-            "value": 0
+            "value": 1
         },
         "Negev": {
             "Aimfov": {
@@ -9682,7 +9682,7 @@
                 "value": 0.0
             },
             "Defuse": {
-                "value": false
+                "value": true
             },
             "Distance": {
                 "custom": [
@@ -9728,7 +9728,7 @@
                     3,
                     0
                 ],
-                "value": false
+                "value": true
             },
             "FlagsFontOverwrite": {
                 "value": 0
@@ -9776,14 +9776,14 @@
                     0,
                     0
                 ],
-                "value": 0
+                "value": 2
             },
             "HealthValue": {
                 "custom": [
                     0,
                     0
                 ],
-                "value": false
+                "value": true
             },
             "HideTeam": {
                 "value": true
@@ -9793,7 +9793,7 @@
                     6,
                     0
                 ],
-                "value": false
+                "value": true
             },
             "Skeleton": {
                 "colors": [
@@ -9838,7 +9838,7 @@
                     7,
                     0
                 ],
-                "value": false
+                "value": true
             },
             "Weapon": {
                 "custom": [
@@ -9992,7 +9992,7 @@
                         255
                     ]
                 ],
-                "value": 0
+                "value": 3
             },
             "WeaponChams": {
                 "color": [
@@ -10107,12 +10107,12 @@
             "Clouds": {
                 "color": [
                     0,
-                    48,
-                    48,
-                    48,
+                    156,
+                    190,
+                    255,
                     255
                 ],
-                "value": false
+                "value": true
             },
             "DeathEffect": {
                 "color": [
@@ -10128,17 +10128,17 @@
                 "colors": [
                     [
                         0,
-                        255,
-                        255,
-                        255,
-                        200
+                        150,
+                        200,
+                        60,
+                        255
                     ],
                     [
                         0,
-                        255,
-                        255,
-                        255,
-                        200
+                        150,
+                        200,
+                        60,
+                        255
                     ]
                 ],
                 "values": [
@@ -10239,12 +10239,12 @@
             "Lightning": {
                 "color": [
                     0,
-                    43,
-                    41,
-                    46,
+                    165,
+                    165,
+                    165,
                     255
                 ],
-                "value": false
+                "value": true
             },
             "MolotovInfo": {
                 "colors": [
@@ -10270,12 +10270,12 @@
             "SkyMode": {
                 "color": [
                     0,
-                    246,
-                    199,
-                    159,
+                    156,
+                    190,
+                    255,
                     255
                 ],
-                "value": 0
+                "value": -141399943
             },
             "SmokeInfo": {
                 "colors": [
@@ -10319,7 +10319,7 @@
                 "value": false
             },
             "StarsAmount": {
-                "value": 0.0
+                "value": 100.0
             },
             "StarsSky": {
                 "value": false
@@ -10332,13 +10332,13 @@
                     255,
                     255
                 ],
-                "value": false
+                "value": true
             },
             "WeatherGlowIntensity": {
-                "value": 0.0
+                "value": 1.0
             },
             "WeatherGlowRadius": {
-                "value": 0.0
+                "value": 10.0
             },
             "WeatherLightning": {
                 "value": false
@@ -10351,13 +10351,13 @@
                     255,
                     255
                 ],
-                "value": 0
+                "value": 2
             },
             "WeatherRadius": {
-                "value": 0.0
+                "value": 5000.0
             },
             "WeatherRate": {
-                "value": 0.0
+                "value": 570.0
             },
             "WeatherWind": {
                 "value": 0.0
@@ -10365,9 +10365,9 @@
             "WorldColorModulation": {
                 "color": [
                     0,
-                    121,
-                    121,
-                    121,
+                    137,
+                    137,
+                    137,
                     255
                 ],
                 "value": true
